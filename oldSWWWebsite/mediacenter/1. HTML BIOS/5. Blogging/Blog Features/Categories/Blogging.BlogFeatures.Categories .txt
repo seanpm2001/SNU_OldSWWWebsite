@@ -1,0 +1,8 @@
+<H2>Create Blog And Message Content In The Following Categories</H2>
+
+<H3>Nature Images</H3>
+<H3>School Images</H3>
+<H3>City Images</H3>
+<H3>Farm Images</H3>
+<H3>Pool Images</H3>
+<H3>Aquatic Images</H3>
