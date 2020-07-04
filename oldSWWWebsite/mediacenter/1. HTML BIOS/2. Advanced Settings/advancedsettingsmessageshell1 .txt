@@ -1,0 +1,17 @@
+<H1>Advanced Settings</H1>
+
+<H2>Change Font</H2>
+<H2>Change Language</H2>
+<H2>Check for Updates</H2>
+<H2>Nerd Log (everything you have done)</H2>
+<H2>Add User</H2>
+<H2>Edit Partition</H2>
+<H2>View Deleted Content</H2>
+<H2>Remove Users</H2>
+<H2>Suspend Users</H2>
+<H2>View Suspended Users</H2>
+<H2>View Removed Users</H2>
+<H2>About</H2>
+<H2>Report a Bug</H2>
+<H2>Help and Feedback</H2>
+<H2>Change Shop Password</H2>
