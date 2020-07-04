@@ -1,0 +1,16 @@
+<H2>My Profile</H2>
+
+<H3>Revenue Made from sales</H3>
+<H3>Products sold: list.null</H3>
+<H3>Total number of products sold: </H3>
+<H3>My Grocery Bag</H3>
+<H3>Sale catalog</H3>
+<H3>Put item for sale</H3>
+<H3>Redeem</H3>
+<H3>My account</H3>
+<H3>Change Password</H3>
+<H3>Change Profile picture</H3>
+<H3>Show statistics to public</H3>
+<H3>Hide statistics from public</H3>
+<H3>Money spent</H3>
+<H3>Delivery status</H3>
