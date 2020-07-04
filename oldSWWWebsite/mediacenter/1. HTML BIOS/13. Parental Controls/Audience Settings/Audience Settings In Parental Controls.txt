@@ -1,0 +1,16 @@
+<H1>Audience Settings</H1>
+
+<H2>Baby Mode</H2>
+<H3>A Mode for children under the age of 7, all non-verified content is censored, only verified Y content is available</H3>
+
+<H2>General Audience Mode</H2>
+<H3>A Mode for all audiences over the age of 7, all non-verified content is censored, only verified Y7 or G content is available</H3>
+
+<H2>Family Activity Mode</H2>
+<H3>A Mode for audiences over the age of 10, or over the age of 7, recommended with a parent, only verified content is available, Unverified content is censored. This mode allows you to view Y7, G, And PG content</H3>
+
+<H2>Teen Protection Mode</H2>
+<H3>A Mode for audiences over the age of 12. This mode is for teenagers. Only verified Content is available. Unverified content is censored. This mode allows you to view Y7, G, PG, PG13, and TV14 Content</H3>
+
+<H2>Restrictless Mode</H2>
+<H3>A Mode for The Adults only. This mode allows all content, even if not verified. This mode allows you to view Content in the categories: Y7, G, PG, PG13, TV14, MA, R</H3>
