@@ -1,0 +1,12 @@
+<H2>Allow Commenting</H2>
+
+<H2>Allow Comments</H2>
+
+<H2>Allow Uploads</H2>
+
+<H2>Upload Defaults</H2>
+
+<H3>Only when on wifi</H3>
+<H3>Any Network</H3>
+
+<H2>Switch User</H2>
