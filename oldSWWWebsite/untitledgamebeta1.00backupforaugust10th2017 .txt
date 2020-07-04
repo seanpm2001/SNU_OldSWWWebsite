@@ -1,0 +1,4419 @@
+<HTML>
+<HEAD>
+<TITLE>Untitled Game1</TITLE>
+</HEAD>
+<BODY BGCOLOR="#93B874">
+
+<H1>Start Game</H1>
+<H1>Sign In</H1>
+<H1>Sign Up</H1>
+<H1>Log In</H1>
+<H1>Log Out</H1>
+<H1>About</H1>
+<H1>Help</H1>
+<H1>More By Sean Walla Walla</H1>
+
+<H1>Setting Up Account Step 1 of 8</H1>
+
+<H2>Username</H2>
+<H2>Username ID</H2>
+
+<H1>Setting Up Account Step 2 of 8</H1>
+
+<H2>Password (minimum of 32 digits</H2>
+<H2>Email</H2>
+
+<H1>Setting Up Account Step 3 of 8</H1>
+
+<H2>Select Age (if you are under 13, you should not be playing</H2>
+
+<H2>13-18</H2>
+<H2>18-21</H2>
+<H2>21-30</H2>
+<H2>30-40</H2>
+<H2>40-50</H2>
+<H2>50-60</H2>
+<H2>60-70</H2>
+<H2>70-80</H2>
+<H2>80+</H2>
+
+<H1>Setting Up Account Step 4 of 8</H1>
+
+<H2>Terms of service</H2>
+<H2>Link coming soon!</H2>
+
+<H3>I Agree</H3>
+<H3>I Disagree</H3>
+
+<H1>Setting Up Account Step 5 of 8</H1>
+
+<H1>Add Security Questions (s)</H1>
+
+<H2>Security question 1</H2>
+<H2>Security question 2</H2>
+<H2>Security question 3</H2>
+<H2>Security question 4</H2>
+<H2>Security question 5</H2>
+<H2>Security question 6</H2>
+<H2>Security question 7</H2>
+<H2>Security question 8</H2>
+<H2>Security question 9</H2>
+<H2>Security question 10</H2>
+
+<H1>Setting Up Account Step 6 of 8</H1>
+
+<H2>Keep Email Private</H2>
+<H2>Allow this game to send you emails of important updates, notes, tips, and features</H2>
+
+<H1>Setting Up Account Step 7 of 8</H1>
+
+<H2>Insert Captcha</H1>
+
+<H1>Setting Up Account Step 8 of 8</H1>
+
+<H2>Confirm?</H2>
+
+
+<H1>Game Setup Step 1 of 5</H1>
+
+<H1>Select Land</H1>
+
+<H2>500x500 Meadow</H2>
+<H2>500x500 Volcano</H2>
+<H2>500x500 Ocean</H2>
+<H2>500x500 Clouds</H2>
+<H2>500x500 Cave</H2>
+<H2>500x500 Barren Rock</H2>
+
+<H1>Game Setup Step 2 of 5</H1>
+
+<H2>Add Friends</H2>
+
+<H1>Game Setup Step 3 of 5</H1>
+
+<H2>Sign in to an account to safe guard your progress</H2>
+
+<H3>OK </H3>
+<H3>Not Right Now</H3>
+
+<H1>Game Setup Step 4 of 5</H1>
+
+<H2>Add Money to account</H2>
+
+<H3>OK</H3>
+<H3>Not Right Now</H3>
+
+<H1>Game Setup Step 5 of 5</H1>
+
+<H2>Confirm</H2>
+
+<H2>Type Confirm Twice to confirm</H2>
+
+
+<H1>Shop</H1>
+
+<H1>Resources</H1>
+
+<H1>Coin Storage (requires level 2)</H1>
+<H2>Costs: 50 Coins</H2>
+<H2>Construction Time: 20 Seconds</H2>
+
+<H1>Water Storage (requires level 2)</H1>
+<H2>Costs: 50 Coins</H2>
+<H2>Construction Time: 20 Seconds</H2>
+
+<H1>Coin Mine (requires level 3</H1>
+<H2>Costs: 150 Coins</H2>
+<H2>Construction Time: 1 Minute</H2>
+
+<H1>Water Well (requires level 3</H1>
+<H2>Costs: 300 Coins</H2>
+<H2>Construction Time: 2 Minutes</H2>
+
+<H1>Defenses</H1>
+
+<H1>Mini Spike Pit (requires level 1)</H1>
+<H2>Costs: 40 Coins</H2>
+<H2>Construction Time: 5 Seconds</H2>
+
+<H1>Garden Wall (requires level 3)</H1>
+<H2>Costs: 15 Coins</H2>
+<H2>Construction Time: 3 Seconds</H2>
+
+<H1>Wooden Fence (Requires level 4)</H1>
+<H2>Costs: 15 Coins</H2>
+<H2>Construction Time: 4 Seconds</H2>
+
+<H1>Wooden Wall (Requires level 5)</H1>
+<H2>Costs: 200 Coins</H2>
+<H2>Construction Time: 3 Minutes</H2>
+
+<H1>Stone Wall (Requires level 6)</H1>
+<H2>Costs: 600 Coins</H2>
+<H2>Construction Time: 8 Minutes</H2>
+
+<H1>Steel Wall (Requires level 12)</H1>
+<H2>Costs: 6000 Coins</H2>
+<H2>Construction Time: 3 Hours</H2>
+
+<H1>Fire Wall (Requires level 15)</H1>
+<H2>Costs: 9000 Coins</H2>
+<H2>Construction Time: 3 Hours</H2>
+
+<H1>Gold Wall (Requires Level 30)</H1>
+<H2>Costs: 100000 Coins</H2>
+<H2>Construction Time: 8 Hours</H2>
+
+<H1>Diamond Wall (requires level 75)</H1>
+<H2>Costs: 650000 Coins</H2>
+<H2>Construction Time: 3 Days</H2>
+
+<H1>Mini Cannon (Requires level 3)</H1>
+<H2>Costs: 250 coins</H2>
+<H2>Construction time: 4 Minutes</H2>
+
+<H1>Cannon (Requires level 8)</H1>
+<H2>Costs: 1800 Coins</H2>
+<H2>Construction Time: 12 Minutes</H2>
+
+<H1>Double Cannon (Requires level 14)</H1>
+<H2>Costs: 4000 Coins</H2>
+<H2>Construction Time: 40 Minutes</H2>
+
+<H1>Triple Cannon (Requires level 25)</H1>
+<H2>Costs: 12000 Coins</H2>
+<H2>Construction Time: 3 Hours</H2>
+
+<H1>Quadruple Cannon (Requires level 50)</H1>
+<H2>Costs: 80000 Coins</H2>
+<H2>Construction Time: 12 Hours</H2>
+
+<H1>Giant Cannon (Requires level 80)</H1>
+<H2>Costs: 200000 Coins</H2>
+<H2>Construction Time: 1 day</H2>
+
+<H1>Plasma Cannon (Requires level 85)</H1>
+<H2>Costs: 200000 Coins</H2>
+<H2>Construction Time: 1 day</H2>
+
+<H1>Double Plasma Cannon (Requires level 90)</H1>
+<H2>Costs: 500000 coins</H2>
+<H2>Construction Time: 2 days</H2>
+
+<H1>Triple Plasma Cannon (Requires level 95)</H1>
+<H2>Costs: 900000 Coins</H2>
+<H2>Construction Time: 4 days</H2>
+
+<H1>Quadruple Plasma Cannon (Requires level 100)</H1>
+<H2>Costs: 2500000 Coins</H2>
+<H2>Construction Time: 8 days</H2>
+
+<H1>Mega Cannon (Requires level 115</H1>
+<H2>Costs: 5000000 Coins</H2>
+<H2>Construction Time: 9 Days</H2>
+
+<H1>Giant Plasma Cannon (Requires level 120)</H1>
+<H2>Costs: 8000000 Coins</H2>
+<H2>Construction Time: 12 days</H2>
+
+<H1>Ultra Cannon (Requires level 150)</H1>
+<H2>Costs: 15000000 Coins</H2>
+<H2>Construction Time: 14 Days</H2>
+
+<H1>Mega Plasma Cannon (Requires level 175</H1>
+<H2>Costs: 2000000 Coins</H2>
+<H2>Construction Time: 14 Days 8 Hours</H2>
+
+<H1>Ultra Plasma Cannon (Requires level 200)</H1>
+<H2>Costs: 2500000 Coins</H2>
+<H2>Construction Time: 15 Days</H2>
+
+<H1>Archer tower (Requires level 7)</H1>
+<H2>Costs: 2000 Coins</H2>
+<H2>Construction Time: 14 Minutes</H2>
+
+<H1>Mini Mortar (Requires Level 9</H1>
+<H2>Costs: 1000 Coins</H2>
+<H2>Construction Time: 3 Minutes</H2>
+
+<H1>Mortar (Requires level 12)</H1>
+<H2>Costs: 5000 Coins</H2>
+<H2>Construction Time: 3 Hours</H2>
+
+<H1>Double Mortar (Requires level 24)</H1>
+<H2>Costs: 20000 Coins</H2>
+<H2>Construction Time: 6 Hours</H2>
+
+<H1>Triple Mortar (Requires level 36)</H1>
+<H2>Costs: 50000 Coins</H2>
+<H2>Construction Time: 9 Hours</H2>
+
+<H1>Quadruple Mortar (Requires level 48<)/H1>
+<H2>Costs: 150000 Coins</H2>
+<H2>Construction Time: 12 Hours</H2>
+
+<H1>Giant Mortar (Requires level 50)</H1>
+<H2>Costs: 200000 Coins</H2>
+<H2>Construction Time: 18 Hours</H2>
+
+<H1>Mega Mortar (Requires level 60)</H1>
+<H2>Costs: 350000 Coins</H2>
+<H2>Construction Time: 1 Day 2 Hours</H2>
+
+<H1>Mini Plasma Mortar (Requires level 61)</H1>
+<H2>Costs: 500000 Coins</H2>
+<H2>Construction Time: 1 Day 4 Hours)</H2>
+
+<H1>Plasma Mortar (Requires level 63)</H1>
+<H2>Costs: 600000 Coins</H2>
+<H2>Construction Time: 1 Day 8 Hours</H2>
+
+<H1>Double Plasma Mortar (Requires level 72)</H1>
+<H2>Costs: 900000 Coins</H2>
+<H2>Construction Time: 1 Day 12 Hours</H2>
+
+<H1>Triple Plasma Mortar (Requires level 85)</H1>
+<H2>Costs: 1200000 Coins</H2>
+<H1<Construction Time: 1 Day 16 Hours</H2>
+
+<H1>Quadruple Plasma Mortar (Requires level 99)</H1>
+<H2>Costs: 1500000 Coins</H2>
+<H2>Construction Time: 1 Day 18 Hours</H2>
+
+<H1>Giant Plasma Mortar (Requires level 102)</H1>
+<H2>Costs: 2000000 Coins</H2>
+<H2>Construction Time: 2 Days</H2>
+
+<H1>Mega Plasma Mortar (Requires level 112)</H1>
+<H2>Costs: 6000000 Coins</H2>
+<H2>Construction Time: 3 Days</H2>
+
+<H1>Ultra Mortar (Requires level 120)</H1>
+<H2>Costs: 10000000 Coins</H2>
+<H2>Construction Time: 8 Days</H2>
+
+<H1>Ultra Plasma Mortar (Requires level 150)</H1>
+<H2>Costs: 2500000 Coins</H2>
+<H2>Construction Time: 15 Days</H2>
+
+<H1>Rocket Launcher (Requires level 100)</H1>
+<H2>Costs: 1000000 Coins</H2>
+<H2>Construction Time: 3 Days</H2>
+
+<H1>Barrel Bomb (Requires level 50)</H1>
+<H2>Costs: 10000 Coins</H2>
+<H2>Construction Time: 1 Hour</H2>
+
+<H1>Giant Barrel Bomb (Requires level 100)</H1>
+<H2>Costs: 25000 Coins</H2>
+<H2>Construction Time: 5 Hours</H2>
+
+<H1>Hidden Spike Tower (Requires level 45)</H1>
+<H2>Costs: 40000 Coins</H2>
+<H2>Construction Time: 2 Hours</H2>
+
+<H1>Inferno Wall (Requires level 100)</H1>
+<H2>Costs: 5500000 Coins</H2>
+<H2>Construction Time: 5 Days</H2>
+
+<H1>Decorations</H1>
+
+<H1>Dirt Path (Requires level 2)</H1>
+<H2>Costs: 1 Coin</H2>
+<H2>Construction Time: 1 Second</H2>
+
+<H1>Pirate Flag (Requires level 5)</H1>
+<H2>Costs: 15 Coins</H2>
+<H2>Construction Time: 3 Seconds</H2>
+
+<H1>Traps</H1>
+
+<H1>Bushy Wall (Requires level 5)</H1>
+<H2>Costs: 50 Coins</H2>
+<H2>Construction Time: 1 Hour</H2>
+
+<H1>Global Statistics</H1>
+
+<H2>Money Spent</H2>
+<H2>Accounts Created</H2>
+<H2>Total Play Time</H2>
+<H2>Money Spent on Upgrades</H2>
+<H2>Money Spent on Expansions</H2>
+<H2>Money Spent on Decorations</H2>
+<H2>Money Spent on Instant Upgrades</H2>
+
+<H1>Expansions</H1>
+
+<H2>Expand from 500x500 to 600x600</H2>
+<H3>Requires level 10</H3>
+<H3>Costs: 1000 coins, 1000 water</H3>
+<H3>Expansion Time: 1 Hour, 40 Minutes</H3>
+
+<H2>Expand from 600x600 to 700x700</H2>
+<H3>Requires level 15</H3>
+<H2>Costs: 2500 coins, 2500 water</H3>
+<H3>Expansion Time: 3 Hours, 20 Minutes</H3>
+
+<H2>Expand from 700x700 to 800x800</H2>
+<H3>Requires level 20</H3>
+<H3>Costs: 5000 Coins, 5000 Water</H3>
+<H3>Expansion Time: 5 Hours</H3>
+
+<H2>Expand from 800x800 to 900x900</H2>
+<H3>Requires level 25</H3>
+<H3>Costs: 10000 Coins, 10000 Water</H3>
+<H3>Expansion Time: 6 Hours, 40 Minutes</H3>
+
+<H2>Expand from 900x900 to 1000x1000</H2>
+<H3>Requires level 30</H3>
+<H3>Costs: 25000 Coins, 25000 Water</H3>
+<H3>Expansion Time: 8 Hours 20 Minutes</H3>
+
+<H2>Expand from 1000x1000 to 1200x1200</H2>
+<H3>Requires level 40</H3>
+<H3>Costs: 100000 Coins, 100000 Water</H3>
+<H3>Expansion Time: 11 Hours, 40 Minutes</H3>
+
+<H2>Expand from 1200x1200 to 1500x1500</H2>
+<H3>Requires level 55</H3>
+<H3>Costs: 450000 Coins, 450000 Water</H3>
+<H3>Expansion Time: 16 Hours</H3>
+
+<H2>Expand from 1500x1500 to 2000x2000</H2>
+<H3>Requires level 80</H3>
+<H3>Costs: 2500000 Coins, 2500000 Water</H3>
+<H3>Expansion Time: 2 Days 4 Hours</H3>
+
+<H2>Expand from 2000x2000 to 2500x2500</H2>
+<H3>Requires level 100</H3>
+<H3>Costs: 5000000 Coins, 5000000 Water</H3>
+<H3>Expansion Time: 2 Days 6 Hours</H3>
+
+<H1>Level 1 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 1000</H2>
+<H2>Health: 100</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 50 water</H2>
+<H2>Upgrade time: 15 Seconds</H2>
+<H3>Upgrade Reward: 50 xp</H3>
+
+<H1>Level 2 Coin Storage statistics</H1>
+
+<H2>Coin Capacity: 2000</H2>
+<H2>Health: 250</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 100 Water</H2>
+<H2>Upgrade Requires level 2</H2>
+<H2>Upgrade Time: 30 Seconds</H2>
+<H3>Upgrade Reward: 100 Xp</H3>
+
+<H1>Level 3 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 5000</H2>
+<H2>Health: 800</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 500 Water</H2>
+<H2>Upgrade Requires level 2</H2>
+<H2>Upgrade Time: 2 Minutes</H2>
+<H3>Upgrade Reward: 200 Xp</H3>
+
+<H1>Level 4 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 12000</H2>
+<H2>Health: 1500</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 1200 Water</H2>
+<H2>Upgrade Requires level 3</H2>
+<H2>Upgrade Time: 5 Minutes</H2>
+<H3>Upgrade Reward: 350 Xp</H3>
+
+<H1>Level 5 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 25000</H2>
+<H2>Health: 1750</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 4000 Water</H2>
+<H2>Upgrade Requires level 4</H2>
+<H2>Upgrade Time: 10 Minutes</H2>
+<H3>Upgrade Reward: 500 Xp</H3>
+
+<H1>Level 6 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 60000</H2>
+<H2>Health: 2050</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 10000 Water</H2>
+<H2>Upgrade Requires level 4</H2>
+<H2>Upgrade Time: 15 Minutes</H2>
+<H3>Upgrade Reward: 650 Xp</H3>
+
+<H1>Level 7 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 100000</H2>
+<H2>Health: 2150</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 25000 Water</H2>
+<H2>Upgrade Requires level 5</H2>
+<H2>Upgrade Time: 25 Minutes</H2>
+<H3>Upgrade Reward: 800 Xp</H3>
+
+<H1>Level 8 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 250000</H2>
+<H2>Health: 2450</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 35000 Water</H2>
+<H2>Upgrade Requires level 5</H2>
+<H2>Upgrade Time: 30 Minutes</H2>
+<H3>Upgrade Reward: 1050 Xp</H3>
+
+<H1>Level 9 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 450000</H2>
+<H2>Health: 2610</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2<Upgrade for 50000 Water</H2>
+<H2>Upgrade Requires level 6</H2>
+<H2>Upgrade Time: 40 Minutes</H2>
+<H3>Upgrade Reward: 1300 Xp</H3>
+
+<H1>Level 10 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 800000</H2>
+<H2>Health: 2890</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 90000 Water</H2>
+<H2>Upgrade Requires level 8</H2>
+<H2>Upgrade Time: 45 Minutes</H2>
+<H3>Upgrade Reward: 1800 Xp</H3>
+
+<H1>Level 11 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 1000000</H2>
+<H2>Health: 3190</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 150000 Water</H2>
+<H2>Upgrade Requires level 9</H2>
+<H2>Upgrade Time: 1 Hour</H2>
+<H3>Upgrade Reward: 2150 Xp</H3>
+
+<H1>Level 12 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 1200000</H2>
+<H2>Health: 3350</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 250000 Water</H2>
+<H2>Upgrade Requires level 10</H2>
+<H2>Upgrade Time: 1 Hour 15 Minutes</H2>
+<H3>Upgrade Reward: 2500 Xp</H3>
+
+<H1>Level 13 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 1500000</H2>
+<H2>Health: 3500</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 400000 Water</H2>
+<H2>Upgrade Requires level 12</H2>
+<H2>Upgrade Time: 1 Hour 30 Minutes</H2>
+<H3>Upgrade Reward: 3100 Xp</H3>
+
+<H1>Level 14 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 1800000</H2>
+<H2>Health: 3670</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 550000 Water</H2>
+<H2>Upgrade Requires level 14</H2>
+<H2>Upgrade Time: 1 Hour 45 Minutes</H2>
+<H3>Upgrade Reward: 3550 Xp</H3>
+
+<H1>Level 15 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 2000000</H2>
+<H2>Health: 3850</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 750000 Water</H2>
+<H2>Upgrade Requires level 15</H2>
+<H2>Upgrade Time: 2 Hours</H2>
+<H3>Upgrade Reward: 4250 Xp</H3>
+
+<H1>Level 16 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 2500000</H2>
+<H2>Health: 4150</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 900000 Water</H2>
+<H2>Upgrade Requires level 16</H2>
+<H2>Upgrade Time: 2 Hours 15 Minutes</H2>
+<H3>Upgrade Reward: 4600 Xp</H3>
+
+<H1>Level 17 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 2750000</H2>
+<H2>Health: 4350</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2<Upgrade for 1100000 Water</H2>
+<H2>Upgrade Requires level 17</H2>
+<H2>Upgrade Time: 2 Hours 30 Minutes</H2>
+<H3>Upgrade Reward: 5000 Xp</H3>
+
+<H1>Level 18 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 3000000</H2>
+<H2>Health: 4670</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 1400000 Water</H2>
+<H2>Upgrade Requires level 18</H2>
+<H2>Upgrade Time: 2 Hours 45 Minutes</H2>
+<H3>Upgrade Reward: 5300 Xp</H3>
+
+<H1>Level 19 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 3600000</H2>
+<H2>Health: 4890</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 1750000 Water</H2>
+<H2>Upgrade Requires level 19</H2>
+<H2>Upgrade Time: 3 Hours</H2>
+<H3>Upgrade Reward: 5800 Xp</H3>
+
+<H1>Level 20 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 4000000</H2>
+<H2>Health: 5120</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 2000000 Water</H2>
+<H2>Upgrade Requires level 20</H2>
+<H2>Upgrade Time: 3 Hours 30 Minutes</H2>
+<H3>Upgrade Reward: 6450 Xp</H3>
+
+<H1>Level 21 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 5000000</H2>
+<H2>Health: 5375</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 2250000 Water</H2>
+<H2>Upgrade Requires level 21</H2>
+<H2>Upgrade Time: 3 Hours 45 Minutes</H2>
+<H3>Upgrade Reward: 7100 Xp</H3>
+
+<H1>Level 22 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 5500000</H2>
+<H2>Health: 6380</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 3000000 Water</H2>
+<H2>Upgrade Requires level 22</H2>
+<H2<Upgrade Time: 4 Hours 10 Minutes</H2>
+<H3>Upgrade Reward: 8000 Xp</H3>
+
+<H1>Level 23 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 7000000</H2>
+<H2>Health: 7582</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 3500000 Water</H2>
+<H2>Upgrade Requires level 23</H2>
+<H2>Upgrade Time: 4 Hours 45 Minutes</H2>
+<H3>Upgrade Reward: 9150 Xp</H3>
+
+<H1>Level 24 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 8500000</H2>
+<H2>Health: 8520</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 4200000 Water</H2>
+<H2>Upgrade Requires level 24</H2>
+<H2>Upgrade Time: 5 Hours 20 Minutes</H2>
+<H3>Upgrade Reward: 10500 Xp</H3>
+
+<H1>Level 25 Coin Storage Statistics</H1>
+
+<H2>Coin Capacity: 12000000</H2>
+<H2>Health: 9260</H2>
+<H2>Size: 9210</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 6000000 Water</H2>
+<H2>Upgrade Requires level 25</H2>
+<H2>Upgrade Time: 6 Hours</H2>
+<H3>Upgrade Reward: 15000 Xp</H3>
+
+
+<H1>Level 1 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 1000</H2>
+<H2>Health: 100</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 50 coins</H2>
+<H2>Upgrade time: 15 Seconds</H2>
+<H3>Upgrade Reward: 50 xp</H3>
+
+<H1>Level 2 Water Storage statistics</H1>
+
+<H2>Water Capacity: 2000</H2>
+<H2>Health: 250</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 100 coins</H2>
+<H2>Upgrade Requires level 2</H2>
+<H2>Upgrade Time: 30 Seconds</H2>
+<H3>Upgrade Reward: 100 Xp</H3>
+
+<H1>Level 3 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 5000</H2>
+<H2>Health: 800</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 500 Coins</H2>
+<H2>Upgrade Requires level 2</H2>
+<H2>Upgrade Time: 2 Minutes</H2>
+<H3>Upgrade Reward: 200 Xp</H3>
+
+<H1>Level 4 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 12000</H2>
+<H2>Health: 1500</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 1200 Coins</H2>
+<H2>Upgrade Requires level 3</H2>
+<H2>Upgrade Time: 5 Minutes</H2>
+<H3>Upgrade Reward: 350 Xp</H3>
+
+<H1>Level 5 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 25000</H2>
+<H2>Health: 1750</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 4000 Coins</H2>
+<H2>Upgrade Requires level 4</H2>
+<H2>Upgrade Time: 10 Minutes</H2>
+<H3>Upgrade Reward: 500 Xp</H3>
+
+<H1>Level 6 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 60000</H2>
+<H2>Health: 2050</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 10000 Coins</H2>
+<H2>Upgrade Requires level 4</H2>
+<H2>Upgrade Time: 15 Minutes</H2>
+<H3>Upgrade Reward: 650 Xp</H3>
+
+<H1>Level 7 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 100000</H2>
+<H2>Health: 2150</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 25000 Coins</H2>
+<H2>Upgrade Requires level 5</H2>
+<H2>Upgrade Time: 25 Minutes</H2>
+<H3>Upgrade Reward: 800 Xp</H3>
+
+<H1>Level 8 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 250000</H2>
+<H2>Health: 2450</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 35000 Coins</H2>
+<H2>Upgrade Requires level 5</H2>
+<H2>Upgrade Time: 30 Minutes</H2>
+<H3>Upgrade Reward: 1050 Xp</H3>
+
+<H1>Level 9 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 450000</H2>
+<H2>Health: 2610</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2<Upgrade for 50000 Coins</H2>
+<H2>Upgrade Requires level 6</H2>
+<H2>Upgrade Time: 40 Minutes</H2>
+<H3>Upgrade Reward: 1300 Xp</H3>
+
+<H1>Level 10 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 800000</H2>
+<H2>Health: 2890</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 90000 Coins</H2>
+<H2>Upgrade Requires level 8</H2>
+<H2>Upgrade Time: 45 Minutes</H2>
+<H3>Upgrade Reward: 1800 Xp</H3>
+
+<H1>Level 11 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 1000000</H2>
+<H2>Health: 3190</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 150000 Coins</H2>
+<H2>Upgrade Requires level 9</H2>
+<H2>Upgrade Time: 1 Hour</H2>
+<H3>Upgrade Reward: 2150 Xp</H3>
+
+<H1>Level 12 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 1200000</H2>
+<H2>Health: 3350</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 250000 Coins</H2>
+<H2>Upgrade Requires level 10</H2>
+<H2>Upgrade Time: 1 Hour 15 Minutes</H2>
+<H3>Upgrade Reward: 2500 Xp</H3>
+
+<H1>Level 13 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 1500000</H2>
+<H2>Health: 3500</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 400000 Coins</H2>
+<H2>Upgrade Requires level 12</H2>
+<H2>Upgrade Time: 1 Hour 30 Minutes</H2>
+<H3>Upgrade Reward: 3100 Xp</H3>
+
+<H1>Level 14 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 1800000</H2>
+<H2>Health: 3670</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 550000 Coins</H2>
+<H2>Upgrade Requires level 14</H2>
+<H2>Upgrade Time: 1 Hour 45 Minutes</H2>
+<H3>Upgrade Reward: 3550 Xp</H3>
+
+<H1>Level 15 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 2000000</H2>
+<H2>Health: 3850</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 750000 Coins</H2>
+<H2>Upgrade Requires level 15</H2>
+<H2>Upgrade Time: 2 Hours</H2>
+<H3>Upgrade Reward: 4250 Xp</H3>
+
+<H1>Level 16 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 2500000</H2>
+<H2>Health: 4150</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 900000 Coins</H2>
+<H2>Upgrade Requires level 16</H2>
+<H2>Upgrade Time: 2 Hours 15 Minutes</H2>
+<H3>Upgrade Reward: 4600 Xp</H3>
+
+<H1>Level 17 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 2750000</H2>
+<H2>Health: 4350</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2<Upgrade for 1100000 Coins</H2>
+<H2>Upgrade Requires level 17</H2>
+<H2>Upgrade Time: 2 Hours 30 Minutes</H2>
+<H3>Upgrade Reward: 5000 Xp</H3>
+
+<H1>Level 18 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 3000000</H2>
+<H2>Health: 4670</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 1400000 Coins</H2>
+<H2>Upgrade Requires level 18</H2>
+<H2>Upgrade Time: 2 Hours 45 Minutes</H2>
+<H3>Upgrade Reward: 5300 Xp</H3>
+
+<H1>Level 19 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 3600000</H2>
+<H2>Health: 4890</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 1750000 Coins</H2>
+<H2>Upgrade Requires level 19</H2>
+<H2>Upgrade Time: 3 Hours</H2>
+<H3>Upgrade Reward: 5800 Xp</H3>
+
+<H1>Level 20 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 4000000</H2>
+<H2>Health: 5120</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 2000000 Coins</H2>
+<H2>Upgrade Requires level 20</H2>
+<H2>Upgrade Time: 3 Hours 30 Minutes</H2>
+<H3>Upgrade Reward: 6450 Xp</H3>
+
+<H1>Level 21 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 5000000</H2>
+<H2>Health: 5375</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 2250000 Coins</H2>
+<H2>Upgrade Requires level 21</H2>
+<H2>Upgrade Time: 3 Hours 45 Minutes</H2>
+<H3>Upgrade Reward: 7100 Xp</H3>
+
+<H1>Level 22 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 5500000</H2>
+<H2>Health: 6380</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 3000000 Coins</H2>
+<H2>Upgrade Requires level 22</H2>
+<H2<Upgrade Time: 4 Hours 10 Minutes</H2>
+<H3>Upgrade Reward: 8000 Xp</H3>
+
+<H1>Level 23 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 7000000</H2>
+<H2>Health: 7582</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 3500000 Coins</H2>
+<H2>Upgrade Requires level 23</H2>
+<H2>Upgrade Time: 4 Hours 45 Minutes</H2>
+<H3>Upgrade Reward: 9150 Xp</H3>
+
+<H1>Level 24 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 8500000</H2>
+<H2>Health: 8520</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 4200000 Coins</H2>
+<H2>Upgrade Requires level 24</H2>
+<H2>Upgrade Time: 5 Hours 20 Minutes</H2>
+<H3>Upgrade Reward: 10500 Xp</H3>
+
+<H1>Level 25 Water Storage Statistics</H1>
+
+<H2>Water Capacity: 12000000</H2>
+<H2>Health: 9260</H2>
+<H2>Size: 9210</H2>
+<H2>Building Type: Storage, Resources</H2>
+<H2>Upgrade for 6000000 Coins</H2>
+<H2>Upgrade Requires level 25</H2>
+<H2>Upgrade Time: 6 Hours</H2>
+<H3>Upgrade Reward: 15000 Xp</H3>
+
+<H1>Level 1 Coin Mine Statistics</H1>
+
+<H2>Capacity: 500</H2>
+<H2>Production Per Hour: 25</H2>
+<H2>Health: 50</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 50 Water</H2>
+<H2>Upgrade Requires level 3</H2>
+<H2>Upgrade Time: 2 Minutes 30 Seconds</H2>
+<H3>Upgrade Reward: 100 Xp</H3>
+
+<H1>Level 2 Coin Mine Statistics</H1>
+
+<H2>Capacity: 750</H2>
+<H2>Production Per Hour: 35</H2>
+<H2>Health: 80</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 80 Water</H2>
+<H2>Upgrade Requires level 3</H2>
+<H2>Upgrade Time: 4 Minutes 15 Seconds</H2>
+<H3>Upgrade Reward: 150 Xp</H3>
+
+<H1>Level 3 Coin Mine Statistics</H1>
+
+<H2>Capacity: 1100</H2>
+<H2>Production Per Hour: 60</H2>
+<H2>Health: 125</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 150 Water</H2>
+<H2>Upgrade Requires level 3</H2>
+<H2>Upgrade Time: 5 Minutes</H2>
+<H3>Upgrade Reward: 175 Xp</H3>
+
+<H1>Level 4 Coin Mine Statistics</H1>
+
+<H2>Capacity: 1400</H2>
+<H2>Production Per Hour: 90</H2>
+<H2>Health: 160</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 210 Water</H2>
+<H2>Upgrade Requires level 4</H2>
+<H2>Upgrade Time: 8 Minutes</H2>
+<H3>Upgrade Reward: 210 Xp</H3>
+
+<H1>Level 5 Coin Mine Statistics</H1>
+
+<H2>Capacity: 1850</H2>
+<H2>Production Per Hour: 144</H2>
+<H2>Health: 235</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 260 Water</H2>
+<H2>Upgrade Requires level 4</H2>
+<H2>Upgrade Time: 10 Minutes</H2>
+<H3>Upgrade Reward: 230 Xp</H3>
+
+<H1>Level 6 Coin Mine Statistics</H1>
+
+<H2>Capacity: 2350</H2>
+<H2>Production Per Hour: 240</H2>
+<H2>Health: 800</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 350 Water</H2>
+<H2>Upgrade Requires level 4</H2>
+<H2>Upgrade Time: 15 Minutes</H2>
+<H3>Upgrade Reward: 250 Xp</H3>
+
+<H1>Level 7 Coin Mine Statistics</H1>
+
+<H2>Capacity: 3650</H2>
+<H2>Production Per Hour: 360</H2>
+<H2>Health: 950</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 440 Water</H2>
+<H2>Upgrade Requires level 5</H2>
+<H2>Upgrade Time: 20 Minutes</H2>
+<H3>Upgrade Reward: 270 Xp</H3>
+
+<H1>Level 8 Coin Mine Statistics</H1>
+
+<H2>Capacity: 5400</H2>
+<H2>Production Per Hour: 480</H2>
+<H2>Health: 1150</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 530 Water</H2>
+<H2>Upgrade Requires level 5</H2>
+<H2>Upgrade Time: 25 Minutes</H2>
+<H3>Upgrade Reward: 290 Xp</H3>
+
+<H1>Level 9 Coin Mine Statistics</H1>
+
+<H2>Capacity: 7600</H2>
+<H2>Production Per Hour: 720</H2>
+<H2>Health: 1540</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 620 Water</H2>
+<H2>Upgrade Requires level 5</H2>
+<H2>Upgrade Time: 30 Minutes</H2>
+<H3>Upgrade Reward: 310 Xp</H3>
+
+<H1>Level 10 Coin Mine Statistics</H1>
+
+<H2>Capacity: 12500</H2>
+<H2>Production Per Hour: 1080</H2>
+<H2>Health: 2450</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 710 Water</H2>
+<H2>Upgrade Requires level 6</H2>
+<H2>Upgrade Time: 40 Minutes</H2>
+<H3>Upgrade Reward: 330 Xp</H3>
+
+<H1>Level 11 Coin Mine Statistics</H1>
+
+<H2>Capacity: 23500</H2>
+<H2>Production Per Hour: 1440</H2>
+<H2>Health: 3560</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2<Upgrade for 800 Water</H2>
+<H2>Upgrade Requires level 7</H2>
+<H2>Upgrade Time: 1 Hour</H2>
+<H3>Upgrade Reward: 350 Xp</H3>
+
+<H1>Level 12 Coin Mine Statistics</H1>
+
+<H2>Capacity: 30000</H2>
+<H2>Production Per Hour: 1600</H2>
+<H2>Health: 3850</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 1000 Water</H2>
+<H2>Upgrade Requires level 8</H2>
+<H2>Upgrade Time: 1 Hour 15 Minutes</H2>
+<H3>Upgrade Reward: 380 Xp</H3>
+
+<H1>Level 13 Coin Mine Statistics</H1>
+
+<H2>Capacity: 35000</H2>
+<H2>Production Per Hour: 1850</H2>
+<H2>Health: 4120</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 1100 Water</H2>
+<H2>Upgrade Requires level 10</H2>
+<H2>Upgrade Time: 1 Hour 40 Minutes</H2>
+<H3>Upgrade Reward: 415 Xp</H3>
+
+<H1>Level 14 Coin Mine Statistics</H1>
+
+<H2>Capacity: 50000</H2>
+<H2>Production Per Hour: 2100</H2>
+<H2>Health: 5000</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 1250 Water</H2>
+<H2>Upgrade Requires level 12</H2>
+<H2>Upgrade Time: 2 Hours 10 Minutes</H2>
+<H3>Upgrade Reward: 450 Xp</H3>
+
+<H1>Level 15 Coin Mine Statistics</H2>
+
+<H2>Capacity: 80000</H2>
+<H2>Production Per Hour: 3000</H2>
+<H2>Health: 6200</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 1550 Water</H2>
+<H2>Upgrade Requires level 15</H2>
+<H2>Upgrade Time: 2 Hours 30 Minutes</H2>
+<H2>Upgrade Reward: 500 Xp</H2>
+
+<H1>Level 16 Coin Mine Statistics</H1>
+
+<H2>Capacity: 250000</H2>
+<H2>Production Per Hour: 6000</H2>
+<H2>Health: 7500</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+
+<H1>Level 1 Water Well Statistics</H1>
+
+<H2>Capacity: 500</H2>
+<H2>Production Per Hour: 25</H2>
+<H2>Health: 400</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 50 Coins</H2>
+<H2>Upgrade Requires level 3</H2>
+<H2>Upgrade Time: 2 Minutes 30 Seconds</H2>
+<H3>Upgrade Reward: 100 Xp</H3>
+
+<H1>Level 2 Water Well Statistics</H1>
+
+<H2>Capacity: 750</H2>
+<H2>Production Per Hour: 35</H2>
+<H2>Health: 500</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 80 Coins</H2>
+<H2>Upgrade Requires level 3</H2>
+<H2>Upgrade Time: 4 Minutes 15 Seconds</H2>
+<H3>Upgrade Reward: 150 Xp</H3>
+
+<H1>Level 3 Water Well Statistics</H1>
+
+<H2>Capacity: 1100</H2>
+<H2>Production Per Hour: 60</H2>
+<H2>Health: 850</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 150 Coins</H2>
+<H2>Upgrade Requires level 3</H2>
+<H2>Upgrade Time: 5 Minutes</H2>
+<H3>Upgrade Reward: 175 Xp</H3>
+
+<H1>Level 4 Water Well Statistics</H1>
+
+<H2>Capacity: 1400</H2>
+<H2>Production Per Hour: 90</H2>
+<H2>Health: 1320</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 210 Coins</H2>
+<H2>Upgrade Requires level 4</H2>
+<H2>Upgrade Time: 8 Minutes</H2>
+<H3>Upgrade Reward: 210 Xp</H3>
+
+<H1>Level 5  Water Well Statistics</H1>
+
+<H2>Capacity: 1850</H2>
+<H2>Production Per Hour: 144</H2>
+<H2>Health: 2400</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 260 Coins</H2>
+<H2>Upgrade Requires level 4</H2>
+<H2>Upgrade Time: 10 Minutes</H2>
+<H3>Upgrade Reward: 230 Xp</H3>
+
+<H1>Level 6 Water Well Statistics</H1>
+
+<H2>Capacity: 2350</H2>
+<H2>Production Per Hour: 240</H2>
+<H2>Health: 3250</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 350 Coins</H2>
+<H2>Upgrade Requires level 4</H2>
+<H2>Upgrade Time: 15 Minutes</H2>
+<H3>Upgrade Reward: 250 Xp</H3>
+
+<H1>Level 7 Water Well Statistics</H1>
+
+<H2>Capacity: 3650</H2>
+<H2>Production Per Hour: 360</H2>
+<H2>Health: 3850</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 440 Coins</H2>
+<H2>Upgrade Requires level 5</H2>
+<H2>Upgrade Time: 20 Minutes</H2>
+<H3>Upgrade Reward: 270 Xp</H3>
+
+<H1>Level 8  Water Well Statistics</H1>
+
+<H2>Capacity: 5400</H2>
+<H2>Production Per Hour: 480</H2>
+<H2>Health: 4380</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 530 Coins</H2>
+<H2>Upgrade Requires level 5</H2>
+<H2>Upgrade Time: 25 Minutes</H2>
+<H3>Upgrade Reward: 290 Xp</H3>
+
+<H1>Level 9 Water Well Statistics</H1>
+
+<H2>Capacity: 7600</H2>
+<H2>Production Per Hour: 720</H2>
+<H2>Health: 5280</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 620 Coins</H2>
+<H2>Upgrade Requires level 5</H2>
+<H2>Upgrade Time: 30 Minutes</H2>
+<H3>Upgrade Reward: 310 Xp</H3>
+
+<H1>Level 10 Water Well Statistics</H1>
+
+<H2>Capacity: 12500</H2>
+<H2>Production Per Hour: 1080</H2>
+<H2>Health: 6340</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 710 Coins</H2>
+<H2>Upgrade Requires level 6</H2>
+<H2>Upgrade Time: 40 Minutes</H2>
+<H3>Upgrade Reward: 330 Xp</H3>
+
+<H1>Level 11 Water Well Statistics</H1>
+
+<H2>Capacity: 23500</H2>
+<H2>Production Per Hour: 1440</H2>
+<H2>Health: 8000</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2<Upgrade for 800 Coins</H2>
+<H2>Upgrade Requires level 7</H2>
+<H2>Upgrade Time: 1 Hour</H2>
+<H3>Upgrade Reward: 350 Xp</H3>
+
+<H1>Level 12 Water Well Statistics</H1>
+
+<H2>Capacity: 30000</H2>
+<H2>Production Per Hour: 1600</H2>
+<H2>Health: 11500</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 1000 Coins</H2>
+<H2>Upgrade Requires level 8</H2>
+<H2>Upgrade Time: 1 Hour 15 Minutes</H2>
+<H3>Upgrade Reward: 380 Xp</H3>
+
+<H1>Level 13 Water Well Statistics</H1>
+
+<H2>Capacity: 35000</H2>
+<H2>Production Per Hour: 1850</H2>
+<H2>Health: 16750</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 1100 Coins</H2>
+<H2>Upgrade Requires level 10</H2>
+<H2>Upgrade Time: 1 Hour 40 Minutes</H2>
+<H3>Upgrade Reward: 415 Xp</H3>
+
+<H1>Level 14 Water Well Statistics</H1>
+
+<H2>Capacity: 50000</H2>
+<H2>Production Per Hour: 2100</H2>
+<H2>Health: 23580</H2>
+<H2>Size: 5x5</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 1250 Coins</H2>
+<H2>Upgrade Requires level 12</H2>
+<H2>Upgrade Time: 2 Hours 10 Minutes</H2>
+<H3>Upgrade Reward: 450 Xp</H3>
+
+<H1>Level 15 Water Well Statistics</H2>
+
+<H2>Capacity: 80000</H2>
+<H2>Production Per Hour: 3000</H2>
+<H2>Health: 27380</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+<H2>Upgrade for 1550 Coins</H2>
+<H2>Upgrade Requires level 15</H2>
+<H2>Upgrade Time: 2 Hours 30 Minutes</H2>
+<H2>Upgrade Reward: 500 Xp</H2>
+
+<H1>Level 16 Water Well Statistics</H1>
+
+<H2>Capacity: 250000</H2>
+<H2>Production Per Hour: 6000</H2>
+<H2>Health: 32550</H2>
+<H2>Size: 10x10</H2>
+<H2>Building Type: Production, Resources</H2>
+
+<H1>Barracks</H1>
+
+<H1>Select A Troop</H1>
+
+<H2>Imp</H2>
+
+<H2>Skeleton</H2>
+
+<H2>R.A.M.O.B.O.T</H2>
+
+<H2>Iceman</H2>
+
+<H2>Magma Man</H2>
+
+<H2>Coal Miner</H2>
+
+<H2>Magical Miner</H2>
+
+<H2>Mini T.E.R.K.A</H2>
+
+<H2>T.E.R.K.A</H2>
+
+<H2>Mega T.E.R.K.A</H2>
+
+<H2>Giant T.E.R.K.A</H2>
+
+<H2>Hero Temple</H2>
+
+<H2>Ultra T.E.R.L.A</H2>
+
+<H2>DestructoSluggo</H2>
+
+
+<H1>Level 1 Imp Stats</H1>
+
+<H2>Health: 15</H2>
+<H2>Destruction Per Second: 3</H2>
+<H2>Speed: 40</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 3</H2>
+<H2>Training Cost: 5 Water, 1 Gold</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 25 Water, 5 gold</H2>
+<H2>Requires Workshop level 1 to upgrade</H2>
+<H2>Upgrade time: 30 Seconds</H2>
+<H2>Upgrade Reward: 10 Xp</H2>
+
+<H1>Level 2 Imp Stats</H1>
+
+<H2>Health: 20</H2>
+<H2>Destruction Per Second: 4.5</H2>
+<H2>Speed: 40</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 3</H2>
+<H2>Training Cost: 25 Water, 5 Gold</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 100 Water, 50 gold</H2>
+<H2>Requires Workshop level 1 to upgrade</H2>
+<H2>Upgrade time: 1 Minute 30 Seconds</H2>
+<H2>Upgrade Reward: 20 Xp</H2>
+
+<H1>Level 3 Imp Stats</H1>
+
+<H2>Health: 28</H2>
+<H2>Destruction Per Second: 8.5</H2>
+<H2>Speed: 40</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 3</H2>
+<H2>Training Cost: 100 Water, 50 Gold</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 500 Water, 500 gold</H2>
+<H2>Requires Workshop level 2 to upgrade</H2>
+<H2>Upgrade time: 3 Minutes</H2>
+<H2>Upgrade Reward: 30 Xp</H2>
+
+<H1>Level 4 Imp Stats</H1>
+
+<H2>Health: 35</H2>
+<H2>Destruction Per Second: 12.5</H2>
+<H2>Speed: 40</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 3</H2>
+<H2>Training Cost: 250 Water, 125 Gold</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 2000 Water, 2000 gold</H2>
+<H2>Requires Workshop level 2 to upgrade</H2>
+<H2>Upgrade time: 5 Minutes</H2>
+<H2>Upgrade Reward: 40 Xp</H2>
+
+<H1>Level 5 Imp Stats</H1>
+
+<H2>Health: 48</H2>
+<H2>Destruction Per Second: 16.2</H2>
+<H2>Speed: 40</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 3</H2>
+<H2>Training Cost: 500 Water, 500 Gold</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 5000 Water, 5000 gold</H2>
+<H2>Requires Workshop level 3 to upgrade</H2>
+<H2>Upgrade time: 10 Minutes</H2>
+<H2>Upgrade Reward: 50 Xp</H2>
+
+<H1>Level 6 Imp Stats</H1>
+
+<H2>Health: 54</H2>
+<H2>Destruction Per Second: 20</H2>
+<H2>Speed: 40</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 3</H2>
+<H2>Training Cost: 1000 Water, 1000 Gold</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 25000 Water</H2>
+<H2>Requires Workshop level 3 to upgrade</H2>
+<H2>Upgrade time: 20 Minutes</H2>
+<H2>Upgrade Reward: 60 Xp</H2>
+
+
+<H1>Level 7 Imp Stats</H1>
+
+<H2>Health: 62</H2>
+<H2>Destruction Per Second: 25</H2>
+<H2>Speed: 40</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 3</H2>
+<H2>Training Cost: 2000 Water, 2000 Gold</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 35000 Water</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 30 Minutes</H2>
+<H2>Upgrade Reward: 70 Xp</H2>
+
+
+<H1>Level 8 Imp Stats</H1>
+
+<H2>Health: 71</H2>
+<H2>Destruction Per Second: 35</H2>
+<H2>Speed: 40</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 3</H2>
+<H2>Training Cost: 4000 Water, 4000 Gold</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 55000 Water</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 45 Minutes</H2>
+<H2>Upgrade Reward: 80 Xp</H2>
+
+
+<H1>Level 9 Imp Stats</H1>
+
+<H2>Health: 77</H2>
+<H2>Destruction Per Second: 42</H2>
+<H2>Speed: 40</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 3</H2>
+<H2>Training Cost: 6000 Water, 6000 Gold</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 75000 Water</H2>
+<H2>Requires Workshop level 5 to upgrade</H2>
+<H2>Upgrade time: 55 Minutes</H2>
+<H2>Upgrade Reward: 90 Xp</H2>
+
+
+<H1>Level 10 Imp Stats</H1>
+
+<H2>Health: 85</H2>
+<H2>Destruction Per Second: 52</H2>
+<H2>Speed: 40</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 3</H2>
+<H2>Training Cost: 8000 Water, 8000 Gold</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 125000 Water</H2>
+<H2>Requires Workshop level 5 to upgrade</H2>
+<H2>Upgrade time: 1 Hour</H2>
+<H2>Upgrade Reward: 100 Xp</H2>
+
+<H1>Level 11 Imp Stats</H1>
+
+<H2>Health: 98</H2>
+<H2>Destruction Per Second: 63</H2>
+<H2>Speed: 40</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 3</H2>
+<H2>Training Cost: 10000 Water, 10000 Gold</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 175000 Water</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 2 Hours</H2>
+<H2>Upgrade Reward: 110 Xp</H2>
+
+<H1>Level 12 Imp Stats</H1>
+
+<H2>Health: 105</H2>
+<H2>Destruction Per Second: 75</H2>
+<H2>Speed: 40</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 3</H2>
+<H2>Training Cost: 12000 Water, 12000 Gold</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 255000 Water</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 3 Hours</H2>
+<H2>Upgrade Reward: 120 Xp</H2>
+
+<H1>Level 1 Skeleton Stats</H1>
+
+<H2>Health: 10</H2>
+<H2>Destruction Per Second: 1</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 50 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 100 Water</H2>
+<H2>Requires Workshop level 1 to upgrade</H2>
+<H2>Upgrade time: 1 Minute</H2>
+<H2>Upgrade Reward: 20 Xp</H2>
+
+
+<H1>Level 2 Skeleton Stats</H1>
+
+<H2>Health: 15</H2>
+<H2>Destruction Per Second: 2</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 60 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 200 Water</H2>
+<H2>Requires Workshop level 1 to upgrade</H2>
+<H2>Upgrade time: 3 Minutes</H2>
+<H2>Upgrade Reward: 40 Xp</H2>
+
+
+<H1>Level 3 Skeleton Stats</H1>
+
+<H2>Health: 22</H2>
+<H2>Destruction Per Second: 3</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 70 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 500 Water</H2>
+<H2>Requires Workshop level 2 to upgrade</H2>
+<H2>Upgrade time: 10 Minutes</H2>
+<H2>Upgrade Reward: 60 Xp</H2>
+
+
+<H1>Level 4 Skeleton Stats</H1>
+
+<H2>Health: 29</H2>
+<H2>Destruction Per Second: 5</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 80 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 1000 Water</H2>
+<H2>Requires Workshop level 2 to upgrade</H2>
+<H2>Upgrade time: 20 Minutes</H2>
+<H2>Upgrade Reward: 80 Xp</H2>
+
+<H1>Level 5 Skeleton Stats</H1>
+
+<H2>Health: 32</H2>
+<H2>Destruction Per Second: 6</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 90 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 1500 Water</H2>
+<H2>Requires Workshop level 3 to upgrade</H2>
+<H2>Upgrade time: 30 Minutes</H2>
+<H2>Upgrade Reward: 100 Xp</H2>
+
+<H1>Level 6 Skeleton Stats</H1>
+
+<H2>Health: 38</H2>
+<H2>Destruction Per Second: 7</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 100 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 2500 Water</H2>
+<H2>Requires Workshop level 3 to upgrade</H2>
+<H2>Upgrade time: 45 Minutes</H2>
+<H2>Upgrade Reward: 120 Xp</H2>
+
+<H1>Level 7 Skeleton Stats</H1>
+
+<H2>Health: 43</H2>
+<H2>Destruction Per Second: 8</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 110 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 4500 Water</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 1 Hour</H2>
+<H2>Upgrade Reward: 140 Xp</H2>
+
+<H1>Level 8 Skeleton Stats</H1>
+
+<H2>Health: 50</H2>
+<H2>Destruction Per Second: 9</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 120 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 10000 Water</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 2 Hours</H2>
+<H2>Upgrade Reward: 160 Xp</H2>
+
+<H1>Level 9 Skeleton Stats</H1>
+
+<H2>Health: 59</H2>
+<H2>Destruction Per Second: 10</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 130 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 21500 Water</H2>
+<H2>Requires Workshop level 5 to upgrade</H2>
+<H2>Upgrade time: 3 Hours</H2>
+<H2>Upgrade Reward: 180 Xp</H2>
+
+<H1>Level 10 Skeleton Stats</H1>
+
+<H2>Health: 68</H2>
+<H2>Destruction Per Second: 12</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 140 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 31500 Water</H2>
+<H2>Requires Workshop level 5 to upgrade</H2>
+<H2>Upgrade time: 4 Hours</H2>
+<H2>Upgrade Reward: 200 Xp</H2>
+
+<H1>Level 11 Skeleton Stats</H1>
+
+<H2>Health: 75</H2>
+<H2>Destruction Per Second: 14</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 150 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 50000 Water</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 5 Hours</H2>
+<H2>Upgrade Reward: 220 Xp</H2>
+
+<H1>Level 12 Skeleton Stats</H1>
+
+<H2>Health: 83</H2>
+<H2>Destruction Per Second: 15</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 160 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 90000 Water</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 6 Hours</H2>
+<H2>Upgrade Reward: 240 Xp</H2>
+
+<H1>Level 13 Skeleton Stats</H1>
+
+<H2>Health: 91</H2>
+<H2>Destruction Per Second: 17</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 170 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 100000 Water</H2>
+<H2>Requires Workshop level 7 to upgrade</H2>
+<H2>Upgrade time: 7 Hours</H2>
+<H2>Upgrade Reward: 260 Xp</H2>
+
+<H1>Level 14 Skeleton Stats</H1>
+
+<H2>Health: 98</H2>
+<H2>Destruction Per Second: 19</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 180 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 150000 Water</H2>
+<H2>Requires Workshop level 7 to upgrade</H2>
+<H2>Upgrade time: 8 Hours</H2>
+<H2>Upgrade Reward: 280 Xp</H2>
+
+<H1>Level 15 Skeleton Stats</H1>
+
+<H2>Health: 105</H2>
+<H2>Destruction Per Second: 23</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 190 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 180000 Water</H2>
+<H2>Requires Workshop level 8 to upgrade</H2>
+<H2>Upgrade time: 8 Hours</H2>
+<H2>Upgrade Reward: 300 Xp</H2>
+
+<H1>Level 16 Skeleton Stats</H1>
+
+<H2>Health: 115</H2>
+<H2>Destruction Per Second: 25</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Ground And Air</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>First targets: Resources, Storages, Economics, Residences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 0.5</H2>
+<H2>Training Cost: 200 Water</H2>
+<H2>Training Time: 3 Seconds</H2>
+<H2>Upgrade Cost: 250000 Water</H2>
+<H2>Requires Workshop level 8 to upgrade</H2>
+<H2>Upgrade time: 8 Hours</H2>
+<H2>Upgrade Reward: 320 Xp</H2>
+
+<H1>Level 1 R.A.M.O.B.O.T Stats</H1>
+
+<H2>Health: 220</H2>
+<H2>Destruction Per Second: 20</H2>
+<H2>Speed: 10-70</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Resources, Storages, Economics, Residences, Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 5</H2>
+<H2>Training Cost: 500 gold</H2>
+<H2>Training Time: 30 Seconds</H2>
+<H2>Upgrade Cost: 5000 Gold</H2>
+<H2>Requires Workshop level 2 to upgrade</H2>
+<H2>Upgrade time: 1 Hours</H2>
+<H2>Upgrade Reward: 30 Xp</H2>
+
+<H1>Level 2 R.A.M.O.B.O.T Stats</H1>
+
+<H2>Health: 250</H2>
+<H2>Destruction Per Second: 25</H2>
+<H2>Speed: 10-71</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Resources, Storages, Economics, Residences, Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 5</H2>
+<H2>Training Cost: 650 gold</H2>
+<H2>Training Time: 30 Seconds</H2>
+<H2>Upgrade Cost: 6500 Gold</H2>
+<H2>Requires Workshop level 2 to upgrade</H2>
+<H2>Upgrade time: 2 Hours</H2>
+<H2>Upgrade Reward: 60 Xp</H2>
+
+
+<H1>Level 3 R.A.M.O.B.O.T Stats</H1>
+
+<H2>Health: 297</H2>
+<H2>Destruction Per Second: 32</H2>
+<H2>Speed: 10-72</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Resources, Storages, Economics, Residences, Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 5</H2>
+<H2>Training Cost: 800 gold</H2>
+<H2>Training Time: 30 Seconds</H2>
+<H2>Upgrade Cost: 8000 Gold</H2>
+<H2>Requires Workshop level 3 to upgrade</H2>
+<H2>Upgrade time: 3 Hours</H2>
+<H2>Upgrade Reward: 90 Xp</H2>
+
+
+<H1>Level 4 R.A.M.O.B.O.T Stats</H1>
+
+<H2>Health: 380</H2>
+<H2>Destruction Per Second: 48</H2>
+<H2>Speed: 10-73</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Resources, Storages, Economics, Residences, Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 5</H2>
+<H2>Training Cost: 1000 gold</H2>
+<H2>Training Time: 30 Seconds</H2>
+<H2>Upgrade Cost: 10000 Gold</H2>
+<H2>Requires Workshop level 3 to upgrade</H2>
+<H2>Upgrade time: 4 Hours</H2>
+<H2>Upgrade Reward: 120 Xp</H2>
+
+<H1>Level 5 R.A.M.O.B.O.T Stats</H1>
+
+<H2>Health: 455</H2>
+<H2>Destruction Per Second: 55</H2>
+<H2>Speed: 10-74</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Resources, Storages, Economics, Residences, Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 5</H2>
+<H2>Training Cost: 1200 gold</H2>
+<H2>Training Time: 30 Seconds</H2>
+<H2>Upgrade Cost: 12000 Gold</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 5 Hours</H2>
+<H2>Upgrade Reward: 150 Xp</H2>
+
+<H1>Level 6 R.A.M.O.B.O.T Stats</H1>
+
+<H2>Health: 510</H2>
+<H2>Destruction Per Second: 67</H2>
+<H2>Speed: 10-75</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Resources, Storages, Economics, Residences, Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 5</H2>
+<H2>Training Cost: 1500 gold</H2>
+<H2>Training Time: 30 Seconds</H2>
+<H2>Upgrade Cost: 15000 Gold</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 6 Hours</H2>
+<H2>Upgrade Reward: 180 Xp</H2>
+
+<H1>Level 7 R.A.M.O.B.O.T Stats</H1>
+
+<H2>Health: 620</H2>
+<H2>Destruction Per Second: 77</H2>
+<H2>Speed: 10-76</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Resources, Storages, Economics, Residences, Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 5</H2>
+<H2>Training Cost: 2000 gold</H2>
+<H2>Training Time: 30 Seconds</H2>
+<H2>Upgrade Cost: 20000 Gold</H2>
+<H2>Requires Workshop level 5 to upgrade</H2>
+<H2>Upgrade time: 7 Hours</H2>
+<H2>Upgrade Reward: 210 Xp</H2>
+
+
+<H1>Level 8 R.A.M.O.B.O.T Stats</H1>
+
+<H2>Health: 745</H2>
+<H2>Destruction Per Second: 95</H2>
+<H2>Speed: 10-77</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Resources, Storages, Economics, Residences, Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 5</H2>
+<H2>Training Cost: 3000 gold</H2>
+<H2>Training Time: 30 Seconds</H2>
+<H2>Upgrade Cost: 30000 Gold</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 7 Hours</H2>
+<H2>Upgrade Reward: 240 Xp</H2>
+
+<H1>Level 9 R.A.M.O.B.O.T Stats</H1>
+
+<H2>Health: 845</H2>
+<H2>Destruction Per Second: 115</H2>
+<H2>Speed: 10-78</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Resources, Storages, Economics, Residences, Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 5</H2>
+<H2>Training Cost: 5000 gold</H2>
+<H2>Training Time: 30 Seconds</H2>
+<H2>Upgrade Cost: 50000 Gold</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 8 Hours</H2>
+<H2>Upgrade Reward: 270 Xp</H2>
+
+<H1>Level 10 R.A.M.O.B.O.T Stats</H1>
+
+<H2>Health: 930</H2>
+<H2>Destruction Per Second: 145</H2>
+<H2>Speed: 10-79</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Resources, Storages, Economics, Residences, Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 5</H2>
+<H2>Training Cost: 10000 gold</H2>
+<H2>Training Time: 30 Seconds</H2>
+<H2>Upgrade Cost: 100000 Gold</H2>
+<H2>Requires Workshop level 7 to upgrade</H2>
+<H2>Upgrade time: 9 Hours</H2>
+<H2>Upgrade Reward: 300 Xp</H2>
+
+<H1>Level 11 R.A.M.O.B.O.T Stats</H1>
+
+<H2>Health: 1005</H2>
+<H2>Destruction Per Second: 167</H2>
+<H2>Speed: 10-80</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Resources, Storages, Economics, Residences, Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 5</H2>
+<H2>Training Cost: 12500 gold</H2>
+<H2>Training Time: 30 Seconds</H2>
+<H2>Upgrade Cost: 125000 Gold</H2>
+<H2>Requires Workshop level 7 to upgrade</H2>
+<H2>Upgrade time: 10 Hours</H2>
+<H2>Upgrade Reward: 320 Xp</H2>
+
+<H1>Level 12 R.A.M.O.B.O.T Stats</H1>
+
+<H2>Health: 1125</H2>
+<H2>Destruction Per Second: 189</H2>
+<H2>Speed: 10-80</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Resources, Storages, Economics, Residences, Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 5</H2>
+<H2>Training Cost: 16000 gold</H2>
+<H2>Training Time: 30 Seconds</H2>
+<H2>Upgrade Cost: 160000 Gold</H2>
+<H2>Requires Workshop level 8 to upgrade</H2>
+<H2>Upgrade time: 11 Hours</H2>
+<H2>Upgrade Reward: 360 Xp</H2>
+
+<H1>Level 1 Iceman Stats</H1>
+
+<H2>Health: 225</H2>
+<H2>Destruction Per Second: 75</H2>
+<H2>Death Damage: 50</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Cooldown Ability: -20% attack speed</H2>
+<H2>Cooldown Duration: 3 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 10</H2>
+<H2>Training Cost: 400 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 4000 Gold</H2>
+<H2>Requires Workshop level 2 to upgrade</H2>
+<H2>Upgrade time: 1 Hour</H2>
+<H2>Upgrade Reward: 40 Xp</H2>
+
+
+<H1>Level 2 Iceman Stats</H1>
+
+<H2>Health: 245</H2>
+<H2>Destruction Per Second: 85</H2>
+<H2>Death Damage: 75</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Cooldown Ability: -22% attack speed</H2>
+<H2>Cooldown Duration: 3.5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 10</H2>
+<H2>Training Cost: 600 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 6000 Gold</H2>
+<H2>Requires Workshop level 2 to upgrade</H2>
+<H2>Upgrade time: 2 Hours</H2>
+<H2>Upgrade Reward: 80 Xp</H2>
+
+<H1>Level 3 Iceman Stats</H1>
+
+<H2>Health: 285</H2>
+<H2>Destruction Per Second: 103</H2>
+<H2>Death Damage: 100</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Cooldown Ability: -24% attack speed</H2>
+<H2>Cooldown Duration: 4 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 10</H2>
+<H2>Training Cost: 800 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 8000 Gold</H2>
+<H2>Requires Workshop level 3 to upgrade</H2>
+<H2>Upgrade time: 3 Hours</H2>
+<H2>Upgrade Reward: 120 Xp</H2>
+
+
+<H1>Level 4 Iceman Stats</H1>
+
+<H2>Health: 315</H2>
+<H2>Destruction Per Second: 105</H2>
+<H2>Death Damage: 125</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Cooldown Ability: -26% attack speed</H2>
+<H2>Cooldown Duration: 4.5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 10</H2>
+<H2>Training Cost: 1000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 10000 Gold</H2>
+<H2>Requires Workshop level 3 to upgrade</H2>
+<H2>Upgrade time: 4 Hours</H2>
+<H2>Upgrade Reward: 160 Xp</H2>
+
+<H1>Level 5 Iceman Stats</H1>
+
+<H2>Health: 360</H2>
+<H2>Destruction Per Second: 120</H2>
+<H2>Death Damage: 150</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Cooldown Ability: -28% attack speed</H2>
+<H2>Cooldown Duration: 5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 10</H2>
+<H2>Training Cost: 1200 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 12000 Gold</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 5 Hours</H2>
+<H2>Upgrade Reward: 200 Xp</H2>
+
+<H1>Level 6 Iceman Stats</H1>
+
+<H2>Health: 450</H2>
+<H2>Destruction Per Second: 150</H2>
+<H2>Death Damage: 175</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Cooldown Ability: -30% attack speed</H2>
+<H2>Cooldown Duration: 5.5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 10</H2>
+<H2>Training Cost: 1400 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 14000 Gold</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 6 Hours</H2>
+<H2>Upgrade Reward: 240 Xp</H2>
+
+<H1>Level 7 Iceman Stats</H1>
+
+<H2>Health: 540</H2>
+<H2>Destruction Per Second: 180</H2>
+<H2>Death Damage: 200</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Cooldown Ability: -32% attack speed</H2>
+<H2>Cooldown Duration: 6 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 10</H2>
+<H2>Training Cost: 1600 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 16000 Gold</H2>
+<H2>Requires Workshop level 5 to upgrade</H2>
+<H2>Upgrade time: 7 Hours</H2>
+<H2>Upgrade Reward: 280 Xp</H2>
+
+<H1>Level 8 Iceman Stats</H1>
+
+<H2>Health: 660</H2>
+<H2>Destruction Per Second: 220</H2>
+<H2>Death Damage: 225</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Cooldown Ability: -34% attack speed</H2>
+<H2>Cooldown Duration: 6.5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 10</H2>
+<H2>Training Cost: 1800 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 18000 Gold</H2>
+<H2>Requires Workshop level 5 to upgrade</H2>
+<H2>Upgrade time: 8 Hours</H2>
+<H2>Upgrade Reward: 320 Xp</H2>
+
+
+<H1>Level 9 Iceman Stats</H1>
+
+<H2>Health: 720</H2>
+<H2>Destruction Per Second: 240</H2>
+<H2>Death Damage: 250</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Cooldown Ability: -36% attack speed</H2>
+<H2>Cooldown Duration: 7 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 10</H2>
+<H2>Training Cost: 2000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 20000 Gold</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 9 Hours</H2>
+<H2>Upgrade Reward: 360 Xp</H2>
+
+<H1>Level 10 Iceman Stats</H1>
+
+<H2>Health: 810</H2>
+<H2>Destruction Per Second: 270</H2>
+<H2>Death Damage: 275</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Cooldown Ability: -38% attack speed</H2>
+<H2>Cooldown Duration: 7.5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 10</H2>
+<H2>Training Cost: 2300 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 23000 Gold</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 10 Hours</H2>
+<H2>Upgrade Reward: 400 Xp</H2>
+
+<H1>Level 11 Iceman Stats</H1>
+
+<H2>Health: 960</H2>
+<H2>Destruction Per Second: 320</H2>
+<H2>Death Damage: 300</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Cooldown Ability: -40% attack speed</H2>
+<H2>Cooldown Duration: 8 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 10</H2>
+<H2>Training Cost: 2500 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 25000 Gold</H2>
+<H2>Requires Workshop level 7 to upgrade</H2>
+<H2>Upgrade time: 11 Hours</H2>
+<H2>Upgrade Reward: 440 Xp</H2>
+
+<H1>Level 12 Iceman Stats</H1>
+
+<H2>Health: 1050</H2>
+<H2>Destruction Per Second: 350</H2>
+<H2>Death Damage: 325</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Cooldown Ability: -42% attack speed</H2>
+<H2>Cooldown Duration: 8.5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 10</H2>
+<H2>Training Cost: 3000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 30000 Gold</H2>
+<H2>Requires Workshop level 7 to upgrade</H2>
+<H2>Upgrade time: 11 Hours</H2>
+<H2>Upgrade Reward: 480 Xp</H2>
+
+<H1>Level 1 Magmaman Stats</H1>
+
+<H2>Health: 800</H2>
+<H2>Destruction Per Second: 200</H2>
+<H2>Death Damage: 100</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Fire Ability: 20 DPS</H2>
+<H2>Fire Ability Cooldown: 3 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 12</H2>
+<H2>Training Cost: 5000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 50000 Gold</H2>
+<H2>Requires Workshop level 3 to upgrade</H2>
+<H2>Upgrade time: 3 Hours</H2>
+<H2>Upgrade Reward: 50 Xp</H2>
+
+<H1>Level 2 Magmaman Stats</H1>
+
+<H2>Health: 1000</H2>
+<H2>Destruction Per Second: 250</H2>
+<H2>Death Damage: 120</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Fire Ability: 25 DPS</H2>
+<H2>Fire Ability Cooldown: 3.5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 12</H2>
+<H2>Training Cost: 6000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 60000 Gold</H2>
+<H2>Requires Workshop level 3 to upgrade</H2>
+<H2>Upgrade time: 4 Hours</H2>
+<H2>Upgrade Reward: 100 Xp</H2>
+
+<H1>Level 3 Magmaman Stats</H1>
+
+<H2>Health: 1200</H2>
+<H2>Destruction Per Second: 300</H2>
+<H2>Death Damage: 140</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Fire Ability: 30 DPS</H2>
+<H2>Fire Ability Cooldown: 4 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 12</H2>
+<H2>Training Cost: 7000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 70000 Gold</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 6 Hours</H2>
+<H2>Upgrade Reward: 150 Xp</H2>
+
+
+<H1>Level 4 Magmaman Stats</H1>
+
+<H2>Health: 1500</H2>
+<H2>Destruction Per Second: 350</H2>
+<H2>Death Damage: 160</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Fire Ability: 35 DPS</H2>
+<H2>Fire Ability Cooldown: 4.5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 12</H2>
+<H2>Training Cost: 8000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 80000 Gold</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 7 Hours</H2>
+<H2>Upgrade Reward: 200 Xp</H2>
+
+<H1>Level 5 Magmaman Stats</H1>
+
+<H2>Health: 2000</H2>
+<H2>Destruction Per Second: 500</H2>
+<H2>Death Damage: 180</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Fire Ability: 40 DPS</H2>
+<H2>Fire Ability Cooldown: 5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 12</H2>
+<H2>Training Cost: 9000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 90000 Gold</H2>
+<H2>Requires Workshop level 5 to upgrade</H2>
+<H2>Upgrade time: 8 Hours</H2>
+<H2>Upgrade Reward: 250 Xp</H2>
+
+<H1>Level 6 Magmaman Stats</H1>
+
+<H2>Health: 2500</H2>
+<H2>Destruction Per Second: 750</H2>
+<H2>Death Damage: 200</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Fire Ability: 45 DPS</H2>
+<H2>Fire Ability Cooldown: 5.5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 12</H2>
+<H2>Training Cost: 10000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 100000 Gold</H2>
+<H2>Requires Workshop level 5 to upgrade</H2>
+<H2>Upgrade time: 9 Hours</H2>
+<H2>Upgrade Reward: 300 Xp</H2>
+
+<H1>Level 7 Magmaman Stats</H1>
+
+<H2>Health: 2600</H2>
+<H2>Destruction Per Second: 760</H2>
+<H2>Death Damage: 220</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Fire Ability: 50 DPS</H2>
+<H2>Fire Ability Cooldown: 6 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 12</H2>
+<H2>Training Cost: 11000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 120000 Gold</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 10 Hours</H2>
+<H2>Upgrade Reward: 350 Xp</H2>
+
+<H1>Level 8 Magmaman Stats</H1>
+
+<H2>Health: 2750</H2>
+<H2>Destruction Per Second: 780</H2>
+<H2>Death Damage: 240</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Fire Ability: 55 DPS</H2>
+<H2>Fire Ability Cooldown: 6.5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 12</H2>
+<H2>Training Cost: 11000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 120000 Gold</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 11 Hours</H2>
+<H2>Upgrade Reward: 400 Xp</H2>
+
+<H1>Level 9 Magmaman Stats</H1>
+
+<H2>Health: 2950</H2>
+<H2>Destruction Per Second: 810</H2>
+<H2>Death Damage: 260</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Fire Ability: 60 DPS</H2>
+<H2>Fire Ability Cooldown: 7 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 12</H2>
+<H2>Training Cost: 12000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 140000 Gold</H2>
+<H2>Requires Workshop level 7 to upgrade</H2>
+<H2>Upgrade time: 12 Hours</H2>
+<H2>Upgrade Reward: 450 Xp</H2>
+
+<H1>Level 10 Magmaman Stats</H1>
+
+<H2>Health: 3150</H2>
+<H2>Destruction Per Second: 877</H2>
+<H2>Death Damage: 280</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Fire Ability: 65 DPS</H2>
+<H2>Fire Ability Cooldown: 7.5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 12</H2>
+<H2>Training Cost: 12000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 140000 Gold</H2>
+<H2>Requires Workshop level 7 to upgrade</H2>
+<H2>Upgrade time: 16 Hours</H2>
+<H2>Upgrade Reward: 500 Xp</H2>
+
+<H1>Level 11 Magmaman Stats</H1>
+
+<H2>Health: 3400</H2>
+<H2>Destruction Per Second: 938</H2>
+<H2>Death Damage: 300</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Fire Ability: 70 DPS</H2>
+<H2>Fire Ability Cooldown: 8 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 12</H2>
+<H2>Training Cost: 13000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 180000 Gold</H2>
+<H2>Requires Workshop level 8 to upgrade</H2>
+<H2>Upgrade time: 20 Hours</H2>
+<H2>Upgrade Reward: 550 Xp</H2>
+
+<H1>Level 12 Magmaman Stats</H1>
+
+<H2>Health: 3750</H2>
+<H2>Destruction Per Second: 1000</H2>
+<H2>Death Damage: 320</H2>
+<H2>Speed: 10</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Fire Ability: 75 DPS</H2>
+<H2>Fire Ability Cooldown: 8.5 Seconds</H2>
+<H2>First targets: Walls, fences</H2>
+<H2>Second Targets: Defenses</H2>
+<H2>Third Targets: ANY</H2>
+<H2>Space Required: 12</H2>
+<H2>Training Cost: 15000 gold</H2>
+<H2>Training Time: 20 Seconds</H2>
+<H2>Upgrade Cost: 200000 Gold</H2>
+<H2>Requires Workshop level 8 to upgrade</H2>
+<H2>Upgrade time: 22 Hours</H2>
+<H2>Upgrade Reward: 600 Xp</H2>
+
+<H1>Level 1 Coal Miner Stats</H1>
+
+<H2>Health: 350</H2>
+<H2>Destruction Per Second: 100</H2>
+<H2>Mining Speed: 5</H2>
+<H2>Speed: 20</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second Targets: BUILDINGS</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 800 gold</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 8000 Gold</H2>
+<H2>Requires Workshop level 3 to upgrade</H2>
+<H2>Upgrade time: 2 Hours</H2>
+<H2>Upgrade Reward: 60 Xp</H2>
+
+<H2>Level 2 Coal Miner Stats</H2>
+
+<H2>Health: 450</H2>
+<H2>Destruction Per Second: 120</H2>
+<H2>Mining Speed: 5</H2>
+<H2>Speed: 21</H2>
+<H2>Troop Type: Underground, and Ground</H2>              REPLACE "GOLD" WITH COINS FROM THIS POINT UP /\
+<H2>Attack Type: Double Hit</H2>                                                                      /  \
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second Targets: BUILDINGS</H2>                                                                     ||
+<H2>Space Required: 6</H2>                                                                             ||
+<H2>Training Cost: 1200 Coins</H2>                                                                     ||
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 12000 Coins</H2>
+<H2>Requires Workshop level 3 to upgrade</H2>
+<H2>Upgrade time: 3 Hours</H2>
+<H2>Upgrade Reward: 120 Xp</H2>
+
+<H2>Level 3 Coal Miner Stats</H2>
+
+<H2>Health: 620</H2>
+<H2>Destruction Per Second: 145</H2>
+<H2>Mining Speed: 6</H2>
+<H2>Speed: 22</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second Targets: BUILDINGS</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 1500 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 15000 Coins</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 4 Hours</H2>
+<H2>Upgrade Reward: 180 Xp</H2>
+
+<H2>Level 4 Coal Miner Stats</H2>
+
+<H2>Health: 800</H2>
+<H2>Destruction Per Second: 162</H2>
+<H2>Mining Speed: 6</H2>
+<H2>Speed: 23</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second Targets: BUILDINGS</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 2000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 20000 Coins</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 5 Hours</H2>
+<H2>Upgrade Reward: 240 Xp</H2>
+
+<H2>Level 5 Coal Miner Stats</H2>
+
+<H2>Health: 990</H2>
+<H2>Destruction Per Second: 197</H2>
+<H2>Mining Speed: 7</H2>
+<H2>Speed: 24</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second Targets: BUILDINGS</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 2500 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 25000 Coins</H2>
+<H2>Requires Workshop level 5 to upgrade</H2>
+<H2>Upgrade time: 6 Hours</H2>
+<H2>Upgrade Reward: 300 Xp</H2>
+
+<H2>Level 6 Coal Miner Stats</H2>
+
+<H2>Health: 1255</H2>
+<H2>Destruction Per Second: 242</H2>
+<H2>Mining Speed: 7</H2>
+<H2>Speed: 25</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second Targets: BUILDINGS</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 4000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 40000 Coins</H2>
+<H2>Requires Workshop level 5 to upgrade</H2>
+<H2>Upgrade time: 8 Hours</H2>
+<H2>Upgrade Reward: 360 Xp</H2>
+
+<H2>Level 7 Coal Miner Stats</H2>
+
+<H2>Health: 1435</H2>
+<H2>Destruction Per Second: 278</H2>
+<H2>Mining Speed: 8</H2>
+<H2>Speed: 26</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second Targets: BUILDINGS</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 5000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 50000 Coins</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 9 Hours</H2>
+<H2>Upgrade Reward: 720 Xp</H2>
+
+<H2>Level 8 Coal Miner Stats</H2>
+
+<H2>Health: 1600</H2>
+<H2>Destruction Per Second: 320</H2>
+<H2>Mining Speed: 8</H2>
+<H2>Speed: 27</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second Targets: BUILDINGS</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 8000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 80000 Coins</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 10 Hours</H2>
+<H2>Upgrade Reward: 780 Xp</H2>
+
+<H2>Level 9 Coal Miner Stats</H2>
+
+<H2>Health: 1850</H2>
+<H2>Destruction Per Second: 360</H2>
+<H2>Mining Speed: 9</H2>
+<H2>Speed: 28</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second Targets: BUILDINGS</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 9000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 90000 Coins</H2>
+<H2>Requires Workshop level 7 to upgrade</H2>
+<H2>Upgrade time: 12 Hours</H2>
+<H2>Upgrade Reward: 840 Xp</H2>
+
+<H2>Level 10 Coal Miner Stats</H2>
+
+<H2>Health: 2150</H2>
+<H2>Destruction Per Second: 480</H2>
+<H2>Mining Speed: 9</H2>
+<H2>Speed: 29</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second Targets: BUILDINGS</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 10000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 100000 Coins</H2>
+<H2>Requires Workshop level 7 to upgrade</H2>
+<H2>Upgrade time: 15 Hours</H2>
+<H2>Upgrade Reward: 900 Xp</H2>
+
+<H2>Level 11 Coal Miner Stats</H2>
+
+<H2>Health: 2450</H2>
+<H2>Destruction Per Second: 660</H2>
+<H2>Mining Speed: 10</H2>
+<H2>Speed: 30</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second Targets: BUILDINGS</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 12000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 120000 Coins</H2>
+<H2>Requires Workshop level 8 to upgrade</H2>
+<H2>Upgrade time: 16 Hours</H2>
+<H2>Upgrade Reward: 960 Xp</H2>
+
+
+<H2>Level 12 Coal Miner Stats</H2>
+
+<H2>Health: 2950</H2>
+<H2>Destruction Per Second: 800</H2>
+<H2>Mining Speed: 11</H2>
+<H2>Speed: 30</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second Targets: BUILDINGS</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 15000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 150000 Coins</H2>
+<H2>Requires Workshop level 8 to upgrade</H2>
+<H2>Upgrade time: 16 Hours</H2>
+<H2>Upgrade Reward: 960 Xp</H2>
+
+<H2>Level 1 Magic Miner Stats</H2>
+
+<H2>Health: 2000</H2>
+<H2>Destruction Per Second: 500</H2>
+<H2>Mining Speed: 20</H2>
+<H2>Speed: 60</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second targets: Walls, fences</H2>
+<H2>Third Targets: Defenses</H2>
+<H2>Fourth Targets: ANY</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 25000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 250000 Coins</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 16 Hours</H2>
+<H2>Upgrade Reward: 70 Xp</H2>
+
+<H2>Level 2 Magic Miner Stats</H2>
+
+<H2>Health: 2400</H2>
+<H2>Destruction Per Second: 600</H2>
+<H2>Mining Speed: 21</H2>
+<H2>Speed: 61</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second targets: Walls, fences</H2>
+<H2>Third Targets: Defenses</H2>
+<H2>Fourth Targets: ANY</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 35000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 350000 Coins</H2>
+<H2>Requires Workshop level 4 to upgrade</H2>
+<H2>Upgrade time: 20 Hours</H2>
+<H2>Upgrade Reward: 140 Xp</H2>
+
+<H2>Level 3 Magic Miner Stats</H2>
+
+<H2>Health: 2800</H2>
+<H2>Destruction Per Second: 700</H2>
+<H2>Mining Speed: 22</H2>
+<H2>Speed: 62</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second targets: Walls, fences</H2>
+<H2>Third Targets: Defenses</H2>
+<H2>Fourth Targets: ANY</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 55000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 550000 Coins</H2>
+<H2>Requires Workshop level 5 to upgrade</H2>
+<H2>Upgrade time: 22 Hours</H2>
+<H2>Upgrade Reward: 210 Xp</H2>
+
+<H2>Level 4 Magic Miner Stats</H2>
+
+<H2>Health: 3200</H2>
+<H2>Destruction Per Second: 800</H2>
+<H2>Mining Speed: 23</H2>
+<H2>Speed: 63</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second targets: Walls, fences</H2>
+<H2>Third Targets: Defenses</H2>
+<H2>Fourth Targets: ANY</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 80000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 800000 Coins</H2>
+<H2>Requires Workshop level 5 to upgrade</H2>
+<H2>Upgrade time: 1 Day</H2>
+<H2>Upgrade Reward: 280 Xp</H2>
+
+<H2>Level 5 Magic Miner Stats</H2>
+
+<H2>Health: 3600</H2>
+<H2>Destruction Per Second: 900</H2>
+<H2>Mining Speed: 24</H2>
+<H2>Speed: 64</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second targets: Walls, fences</H2>
+<H2>Third Targets: Defenses</H2>
+<H2>Fourth Targets: ANY</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 80000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 800000 Coins</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 1 Day</H2>
+<H2>Upgrade Reward: 350 Xp</H2>
+
+<H2>Level 6 Magic Miner Stats</H2>
+
+<H3>Can Your 64 Bit Computer handle the level 6 Magic Miner? He might be too slim to go through that bit</H3>
+
+<H2>Health: 3600</H2>
+<H2>Destruction Per Second: 900</H2>
+<H2>Mining Speed: 24</H2>
+<H2>Speed: 64</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: UNDERGROUND</H2>
+<H2>Second targets: Walls, fences</H2>
+<H2>Third Targets: Defenses</H2>
+<H2>Fourth Targets: ANY</H2>
+<H2>Space Required: 6</H2>
+<H2>Training Cost: 80000 Coins</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 800000 Coins</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 1 Day</H2>
+<H2>Upgrade Reward: 350 Xp</H2>
+
+<H2>Level 1 Ultra T.E.R.K.A (HERO) Stats</H2>
+
+<H3>The Most Powerful Turkey Robot in the game! What could be his weakness?</H3>
+
+<H2>Health: 9650000</H2>
+<H2>Destruction Per Second: 2750000</H2>
+<H2>Speed: 5</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Can Attack: UNDERGROUND, Ground, Air, and Space</H2>
+<H2>Attack Type: Single Hit</H2>
+<H2>Time Between Hits: 3 Seconds</H2>
+<H2>Health: 3600</H2>
+<H2>Destruction Per Second: 900</H2>
+<H2>Mining Speed: 24</H2>
+<H2>Speed: 64</H2>
+<H2>Troop Type: Underground, and Ground</H2>
+<H2>Attack Type: Double Hit</H2>
+<H2>First Targets: Troops</H2>
+<H2>Second Target: Walls, Fences</H2>
+<H2>Third Target: Non-Defensive Buildings</H2>
+<H2>Fourth Target: Defenses</H2>
+<H2>Fifth Target: ANY</H2>
+<H2>Regeneration Time: 16 Hours</H2>
+<H2>Ability: Godlike Smash</H2>
+<H2>Godlike Smash: +999.999% Damage for the next 7 hits</H2>
+<H2>Space Required: 10000</H2>
+<H2>Training Time: 55 Seconds</H2>
+<H2>Upgrade Cost: 1000000000 Coins</H2>
+<H2>Requires Workshop level 6 to upgrade</H2>
+<H2>Upgrade time: 1 Day</H2>
+<H2>Upgrade Reward: 100000 Xp</H2>
+
+<H1>Level 1 DestructoSluggo (HERO) Stats</H1>
+
+<H3>This heroic robotic slug will slide through the enemy's base... very slowly doing heavy damage, destroying a straight line of area in it's path. It might have enough health to Plow down the city, but it can only be used once</H3>
+
+<H2>Health: 19568227</H2>
+<H2>Destruction Per Second: 5000</H2>
+<H2>Speed: 1</H2>
+<H2>Troop Type: Ground</H2>
+<H2>Can Attack: UNDERGROUND, Ground, Air, and Space</H2>
+<H2>Attack Type: Splash</H2>
+<H2>Unit Size: 50x50</H2>
+<H2>Time Between Hits: 0.2 Seconds</H2>
+<H2>First Targets: EVERYTHING IN IT'S PATH</H2>
+<H2>Ability: Sonic Engine</H2>
+<H3>Sonic Engine Increases the slug's speed by 999.999% for 6 full seconds, making it plow any building in less than a second, getting through the village even faster. This ability can only be used once</H3>
+<H2>Space Required: 10000</H3>
+
+<H1>Level 1 Troop Camp Statistics</H1>
+
+<H3>Make your troops a nice place to stay before fighting to protect and rise your base. This is the best place for them</H3>
+
+<H2>Health: 25000</H2>
+<H2>Damage Per Second: 5</H2>
+<H2>Targets: ALL</H2>
+<H2>Size: 400x400</H2>
+<H2>Capacity: 1000</H2>
+<H2>Upgrade Cost: 500000 Coins</H2>
+<H2>Upgrade Requires level 50</H2>
+<H2>Upgrade Time: 1 Day</H2>
+<H3>Upgrade Reward: 10000 Xp</H3>
+
+<H1>Level 2 Troop Camp Statistics</H1>
+
+<H3>Troops have a nice place here to stay before fighting to protect and rise your base. This is the best place for them</H3>
+
+<H2>Health: 28500</H2>
+<H2>Damage Per Second: 8</H2>
+<H2>Targets: ALL</H2>
+<H2>Size: 400x400</H2>
+<H2>Capacity: 2000</H2>
+<H2>Upgrade Cost: 1200000 Coins</H2>
+<H2>Upgrade Requires level 60</H2>
+<H2>Upgrade Time: 2 Days</H2>
+<H3>Upgrade Reward: 40000 Xp</H3>
+
+<H1>Level 3 Troop Camp Statistics</H1>
+
+<H3>Troops have a nice place here to stay before fighting to protect and rise your base. This is the best place for them</H3>
+
+<H2>Health: 48500</H2>
+<H2>Damage Per Second: 16</H2>
+<H2>Targets: ALL</H2>
+<H2>Size: 400x400</H2>
+<H2>Capacity: 5000</H2>
+<H2>Upgrade Cost: 3200000 Coins</H2>
+<H2>Upgrade Requires level 70</H2>
+<H2>Upgrade Time: 3 Days</H2>
+<H3>Upgrade Reward: 90000 Xp</H3>
+
+<H1>Level 4 Troop Camp Statistics</H1>
+
+<H3>Troops have a nice place here to stay before fighting to protect and rise your base. This is the best place for them</H3>
+
+<H2>Health: 75500</H2>
+<H2>Damage Per Second: 32</H2>
+<H2>Targets: ALL</H2>
+<H2>Size: 400x400</H2>
+<H2>Capacity: 10000</H2>
+<H2>Upgrade Cost: 5000000 Coins</H2>
+<H2>Upgrade Requires level 80</H2>
+<H2>Upgrade Time: 5 Days</H2>
+<H3>Upgrade Reward: 290000 Xp</H3>
+
+<H1>Level 5 Troop Camp Statistics</H1>
+
+<H3>Troops have a nice place here to stay before fighting to protect and rise your base. This is the best place for them</H3>
+
+<H2>Health: 200000</H2>
+<H2>Damage Per Second: 64</H2>
+<H2>Targets: ALL</H2>
+<H2>Size: 400x400</H2>
+<H2>Capacity: 25000</H2>
+<H2>Upgrade Cost: 10000000 Coins</H2>
+<H2>Upgrade Requires level 90</H2>
+<H2>Upgrade Time: 6 Days</H2>
+<H3>Upgrade Reward: 790000 Xp</H3>
+
+<H1>Level 6 Troop Camp Statistics</H1>
+
+<H3>Troops have a nice place here to stay before fighting to protect and rise your base. This is the best place for them</H3>
+
+<H2>Health: 500000</H2>
+<H2>Damage Per Second: 128</H2>
+<H2>Targets: ALL</H2>
+<H2>Size: 400x400</H2>
+<H2>Capacity: 50000</H2>
+<H2>Upgrade Cost: 20000000 Coins</H2>
+<H2>Upgrade Requires level 100</H2>
+<H2>Upgrade Time: 8 Days</H2>
+<H3>Upgrade Reward: 1000000 Xp</H3>
+
+
+<H1>Level 7 Troop Camp Statistics</H1>
+
+<H3>Troops have a nice place here to stay before fighting to protect and rise your base. This is the best place for them</H3>
+
+<H2>Health: 1000000</H2>
+<H2>Damage Per Second: 256</H2>
+<H2>Targets: ALL</H2>
+<H2>Size: 400x400</H2>
+<H2>Capacity: 100000</H2>
+
+== ADD VARIABLES TO ALL TROOPS:
+
+ATTACK SPEED
+LIFETIME
+DESCRIPTION
+UNIT SIZE
+TIME BETWEEN HITS
+
+
+
+<H1>Workshop level 1 Statistics</H1>
+
+<H2>Health: 5000</H2>
+<H2>Max Upgraded At A Time: 1</H2>
+<H2>Building Type: Research, Economics, Defenses</H2>
+<H2>Damage Per Second 1</H2>
+<H2>Upgrade Cost: 12000 gold, 4000 Water</H2>
+<H2>Upgrade Requires level 10</H2>
+<H2>Upgrade Time: 1 Hour</H2>
+<H3>Upgrade Reward: 100 Xp</H3>
+
+
+<H1>Workshop level 2 Statistics</H1>
+
+<H2>Health: 5500</H2>
+<H2>Max Upgraded At A Time: 1</H2>
+<H2>Building Type: Research, Economics, Defenses</H2>
+<H2>Damage Per Second 1.5</H2>
+<H2>Upgrade Cost: 22000 gold, 8000 Water</H2>
+<H2>Upgrade Requires level 12</H2>
+<H2>Upgrade Time: 1 Hour 20 Minutes</H2>
+<H3>Upgrade Reward: 200 Xp</H3>
+
+
+<H1>Workshop level 3 Statistics</H1>
+
+<H2>Health: 6000</H2>
+<H2>Max Upgraded At A Time: 2</H2>
+<H2>Building Type: Research, Economics, Defenses</H2>
+<H2>Damage Per Second 2</H2>
+<H2>Upgrade Cost: 32000 gold, 24000 Water</H2>
+<H2>Upgrade Requires level 15</H2>
+<H2>Upgrade Time: 2 Hours</H2>
+<H3>Upgrade Reward: 300 Xp</H3>
+
+<H1>Workshop level 4 Statistics</H1>
+
+<H2>Health: 6500</H2>
+<H2>Max Upgraded At A Time: 2</H2>
+<H2>Building Type: Research, Economics, Defenses</H2>
+<H2>Damage Per Second 2.5</H2>
+<H2>Upgrade Cost: 62000 gold, 54000 Water</H2>
+<H2>Upgrade Requires level 18</H2>
+<H2>Upgrade Time: 3 Hours</H2>
+<H3>Upgrade Reward: 500 Xp</H3>
+
+<H1>Workshop level 5 Statistics</H1>
+
+<H2>Health: 7000</H2>
+<H2>Max Upgraded At A Time: 3</H2>
+<H2>Building Type: Research, Economics, Defenses</H2>
+<H2>Damage Per Second 3</H2>
+<H2>Upgrade Cost: 132000 gold, 124000 Water</H2>
+<H2>Upgrade Requires level 22</H2>
+<H2>Upgrade Time: 4 Hours</H2>
+<H3>Upgrade Reward: 700 Xp</H3>
+
+<H1>Workshop level 6 Statistics</H1>
+
+<H2>Health: 7580</H2>
+<H2>Max Upgraded At A Time: 4</H2>
+<H2>Building Type: Research, Economics, Defenses</H2>
+<H2>Damage Per Second 4.5</H2>
+<H2>Upgrade Cost: 150000 gold, 140000 Water</H2>
+<H2>Upgrade Requires level 25</H2>
+<H2>Upgrade Time: 5 Hours</H2>
+<H3>Upgrade Reward: 900 Xp</H3>
+
+<H1>Workshop level 7 Statistics</H1>
+
+<H2>Health: 8580</H2>
+<H2>Max Upgraded At A Time: 5</H2>
+<H2>Building Type: Research, Economics, Defenses</H2>
+<H2>Damage Per Second 5</H2>
+<H2>Upgrade Cost: 250000 gold, 190000 Water</H2>
+<H2>Upgrade Requires level 28</H2>
+<H2>Upgrade Time: 6 Hours</H2>
+<H3>Upgrade Reward: 1200 Xp</H3>
+
+<H1>Workshop level 8 Statistics</H1>
+
+<H2>Health: 10000</H2>
+<H2>Max Upgraded At A Time: 5</H2>
+<H2>Building Type: Research, Economics, Defenses</H2>
+<H2>Damage Per Second: 6</H2>
+<H2>Upgrade Cost: 450000 gold, 340000 Water</H2>
+<H2>Upgrade Requires level 32</H2>
+<H2>Upgrade Time: 7 Hours</H2>
+<H3>Upgrade Reward: 1500 Xp</H3>
+
+
+<H1>Workshop level 9 Statistics</H1>
+
+<H2>Health: 10550</H2>
+<H2>Max Upgraded At A Time: 5</H2>
+<H2>Building Type: Research, Economics, Defenses</H2>
+<H2>Damage Per Second: 6.5</H2>
+<H2>Upgrade Cost: 950000 gold, 940000 Water</H2>
+<H2>Upgrade Requires level 35</H2>
+<H2>Upgrade Time: 8 Hours</H2>
+<H3>Upgrade Reward: 1750 Xp</H3>
+
+<H1>Workshop level 10 Statistics</H1>
+
+<H2>Health: 11250</H2>
+<H2>Max Upgraded At A Time: 5</H2>
+<H2>Building Type: Research, Economics, Defenses</H2>
+<H2>Damage Per Second: 7</H2>
+<H2>Upgrade Cost: 1250000 gold, 1250000 Water</H2>
+<H2>Upgrade Requires level 39</H2>
+<H2>Upgrade Time: 9 Hours</H2>
+<H3>Upgrade Reward: 2200 Xp</H3>
+
+<H1>Workshop level 11 Statistics</H1>
+
+<H2>Health: 15000</H2>
+<H2>Max Upgraded At A Time: 5</H2>
+<H2>Building Type: Research, Economics, Defenses</H2>
+<H2>Damage Per Second: 8</H2>
+<H2>Upgrade Cost: 1500000 gold, 1500000 Water</H2>
+<H2>Upgrade Requires level 41</H2>
+<H2>Upgrade Time: 10 Hours</H2>
+<H3>Upgrade Reward: 2670 Xp</H3>
+
+<H1>Workshop level 12 Statistics</H1>
+
+<H2>Health: 17600</H2>
+<H2>Max Upgraded At A Time: 5</H2>
+<H2>Building Type: Research, Economics, Defenses</H2>
+<H2>Damage Per Second: 9</H2>
+<H2>Upgrade Cost: 2000000 gold, 2000000 Water</H2>
+<H2>Upgrade Requires level 45</H2>
+<H2>Upgrade Time: 12 Hours</H2>
+<H3>Upgrade Reward: 1750 Xp</H3>
+
+<H1>Level 1 Inferno Wall Statistics</H1>
+
+<H3>The Hottest wall in the known universe, this wall will increase in power and will be able to melt any troop it touches, no matter how tanky. But somehow, it doesn't destroy other buildings</H3>
+
+<H2>Health: 8100</H2>
+<H2>Damage Per Second: 1-81000
+<H2>Size: 2x2</H2>
+<H2>Targets: Ground, Underground, and Air</H2>
+
+
+<H1>Level 1 Base Hall Statistics</H1>
+
+<H3>This Structure is the heart of your base! Don't Let it get destroyed</H3>
+<H3>Immune to DestructoSluggo, the slug will just go around it</H3>
+
+<H2>Health: 15200000</H2>
+<H2>Size: 50x50</H2>
+<H2>Shield Count: 3</H2>
+<H2>Shield Health: 50000</H2>
+<H2>Coin Capacity: 10000</H2>
+<H2>Water Capacity: 10000</H2>
+<H2>Building Type: Core, Economics, Structures, Storage</H2>
+<H2>Upgrade Cost: 50000 Coins, 50000 Water</H2>
+<H2>Upgrade Requires level 5</H2>
+<H2>Upgrade Time: 12 Hours</H2>
+<H3>Upgrade Reward: 2000 Xp</H3>
+
+<H1>Level 2 Base Hall Statistics</H1>
+
+<H3>This Structure is the heart of your base! Don't Let it get destroyed</H3>
+<H3>Immune to DestructoSluggo, the slug will just go around it</H3>
+
+<H2>Health: 25200000</H2>
+<H2>Size: 50x50</H2>
+<H2>Shield Count: 3</H2>
+<H2>Shield Health: 100000</H2>
+<H2>Coin Capacity: 25000</H2>
+<H2>Water Capacity: 25000</H2>
+<H2>Building Type: Core, Economics, Structures, Storage</H2>
+<H2>Upgrade Cost: 250000 Coins, 250000 Water</H2>
+<H2>Upgrade Requires level 10</H2>
+<H2>Upgrade Time: 1 Day</H2>
+<H3>Upgrade Reward: 5000 Xp</H3>
+
+<H1>Level 3 Base Hall Statistics</H1>
+
+<H3>This Structure is the heart of your base! Don't Let it get destroyed</H3>
+<H3>Immune to DestructoSluggo, the slug will just go around it</H3>
+
+<H2>Health: 50000000</H2>
+<H2>Size: 50x50</H2>
+<H2>Shield Count: 3</H2>
+<H2>Shield Health: 200000</H2>
+<H2>Coin Capacity: 50000</H2>
+<H2>Water Capacity: 50000</H2>
+<H2>Building Type: Core, Economics, Structures, Storage</H2>
+<H2>Upgrade Cost: 750000 Coins, 750000 Water</H2>
+<H2>Upgrade Requires level 15</H2>
+<H2>Upgrade Time: 2 Days</H2>
+<H3>Upgrade Reward: 10000 Xp</H3>
+
+<H1>Level 4 Base Hall Statistics</H1>
+
+<H3>This Structure is the heart of your base! Don't Let it get destroyed</H3>
+<H3>Immune to DestructoSluggo, the slug will just go around it</H3>
+
+<H2>Health: 150000000</H2>
+<H2>Size: 50x50</H2>
+<H2>Shield Count: 3</H2>
+<H2>Shield Health: 500000</H2>
+<H2>Coin Capacity: 150000</H2>
+<H2>Water Capacity: 150000</H2>
+<H2>Building Type: Core, Economics, Structures, Storage</H2>
+<H2>Upgrade Cost: 2750000 Coins, 2750000 Water</H2>
+<H2>Upgrade Requires level 20</H2>
+<H2>Upgrade Time: 4 Days</H2>
+<H3>Upgrade Reward: 25000 Xp</H3>
+
+<H1>Level 5 Base Hall Statistics</H1>
+
+<H3>This Structure is the heart of your base! Don't Let it get destroyed</H3>
+<H3>Immune to DestructoSluggo, the slug will just go around it</H3>
+
+<H2>Health: 450000000</H2>
+<H2>Size: 50x50</H2>
+<H2>Shield Count: 3</H2>
+<H2>Shield Health: 1000000</H2>
+<H2>Coin Capacity: 500000</H2>
+<H2>Water Capacity: 500000</H2>
+<H2>Building Type: Core, Economics, Structures, Storage</H2>
+<H2>Upgrade Cost: 5000000 Coins, 5000000 Water</H2>
+<H2>Upgrade Requires level 25</H2>
+<H2>Upgrade Time: 6 Days</H2>
+<H3>Upgrade Reward: 50000 Xp</H3>
+
+<H1>Potion House</H1>
+
+<H3>The Potion house is home to elder Magicians and wizards, making potions that will aid you in defense and attack</H3>
+
+<H2>Select A Potion</H2>
+
+<H3>1. Fog Potion</H3>
+
+<H3>2. Heal Potion</H3>
+
+<H3>3. Boom Potion</H3>
+
+<H3>4. Speed Potion</H3>
+
+<H3>5. Freeze Potion</H3>
+
+<H3>6. Fire Potion</H3>
+
+<H3>7. Jump Potion</H3>
+
+<H3>8. Skeleton Potion</H3>
+
+<H3>9. Respawn Potion</H3>
+
+<H3>10. Water Potion</H3>
+
+<H3>11. Furious Potion</H3>
+
+<H3>12. Dark Potion</H3>
+
+<H3>13. Fly Potion</H3>
+
+<H3>14. Weighted Potion</H3>
+
+<H3>15. Tornado Potion</H3>
+
+<H3>16. Lightning Potion</H3>
+
+<H3>17. Tsunami Potion</H3>
+
+<H3>18. Clone Potion</H3>
+
+<H3>19. Acid Potion</H3>
+
+<H3>20. Invincibility Potion</H3>
+
+<H3>21. Invisibility Potion</H3>
+
+<H3>22. Earthquake Potion</H3>
+
+<H3>23. Ice Potion</H3>
+
+<H3>24. Giant Potion</H3>
+
+<H3>25. Chill Potion</H3>
+
+<H3>26. Nuke Potion</H3>
+
+<H1>Level 1 Fog Potion Stats</H1>
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invisible to all defenses  for a short period of time</H3>
+<H3>However, while troops are in the fog, They cannot Attack or be attacked. This gives you more time to think of a strategy</H3>
+
+
+<H2>Brewing Cost: 1000 Water</H2>
+<H2>Brewing Time: 20 seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Duration: 5 Seconds</H2>
+<H2>Upgrade Cost: 5000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 10</H2>
+<H2>Upgrade Time: 1 Hour</H2>
+<H2>Upgrade Reward: 300 Xp</H2>
+
+<H1>Level 2 Fog Potion Stats</H1>
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invisible to all defenses  for a short period of time</H3>
+<H3>However, while troops are in the fog, They cannot Attack or be attacked. This gives you more time to think of a strategy</H3>
+
+
+<H2>Brewing Cost: 2000 Water</H2>
+<H2>Brewing Time: 20 seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Duration: 6 Seconds</H2>
+<H2>Upgrade Cost: 25000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 11</H2>
+<H2>Upgrade Time: 3 Hours</H2>
+<H2>Upgrade Reward: 600 Xp</H2>
+
+<H1>Level 3 Fog Potion Stats</H1>
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invisible to all defenses  for a short period of time</H3>
+<H3>However, while troops are in the fog, They cannot Attack or be attacked. This gives you more time to think of a strategy</H3>
+
+
+<H2>Brewing Cost: 3000 Water</H2>
+<H2>Brewing Time: 20 seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Duration: 7 Seconds</H2>
+<H2>Upgrade Cost: 25000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 12</H2>
+<H2>Upgrade Time: 6 Hours</H2>
+<H2>Upgrade Reward: 800 Xp</H2>
+
+<H1>Level 4 Fog Potion Stats</H1>
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invisible to all defenses  for a short period of time</H3>
+<H3>However, while troops are in the fog, They cannot Attack or be attacked. This gives you more time to think of a strategy</H3>
+
+
+<H2>Brewing Cost: 4000 Water</H2>
+<H2>Brewing Time: 20 seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Duration: 8 Seconds</H2>
+<H2>Upgrade Cost: 75000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 13</H2>
+<H2>Upgrade Time: 8 Hours</H2>
+<H2>Upgrade Reward: 1250 Xp</H2>
+
+<H1>Level 5 Fog Potion Stats</H1>
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invisible to all defenses  for a short period of time</H3>
+<H3>However, while troops are in the fog, They cannot Attack or be attacked. This gives you more time to think of a strategy</H3>
+
+
+<H2>Brewing Cost: 5000 Water</H2>
+<H2>Brewing Time: 20 Seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Duration: 9 Seconds</H2>
+<H2>Upgrade Cost: 200000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 14</H2>
+<H2>Upgrade Time: 12 Hours</H2>
+<H2>Upgrade Reward: 2250 Xp</H2>
+
+<H1>Level 6 Fog Potion Stats</H1>
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invisible to all defenses  for a short period of time</H3>
+<H3>However, while troops are in the fog, They cannot Attack or be attacked. This gives you more time to think of a strategy</H3>
+
+
+<H2>Brewing Cost: 6000 Water</H2>
+<H2>Brewing Time: 20 Seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Duration: 10 Seconds</H2>
+
+<H1>Level 1 Heal Potion Stats</H1>
+
+<H3>This potion will heal your troops while they are in it's radius for a short time</H3>
+<H3>Your troops will now have more health to stay in the fight longer</H3>
+
+
+<H2>Brewing Cost: 2000 Water</H2>
+<H2>Brewing Time: 40 Seconds</H2>
+<H2>Space Required: 2</H2>
+<H2>Radius: 15x15</H2>
+<H2>Duration: 5 Seconds</H2>
+<H2>Heal Per Second: 10</H2>
+<H2>Upgrade Cost: 5000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 11</H2>
+<H2>Upgrade Time: 1 Hour</H2>
+<H2>Upgrade Reward: 300 Xp</H2>
+
+<H1>Level 2 Heal Potion Stats</H1>
+
+<H3>This potion will heal your troops while they are in it's radius for a short time</H3>
+<H3>Your troops will now have more health to stay in the fight longer</H3>
+
+
+<H2>Brewing Cost: 4000 Water</H2>
+<H2>Brewing Time: 40 seconds</H2>
+<H2>Space Required: 2</H2>
+<H2>Radius: 15x15</H2>
+<H2>Duration: 6 Seconds</H2>
+<H2>Heal Per Second: 15</H2>
+<H2>Upgrade Cost: 25000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 12</H2>
+<H2>Upgrade Time: 3 Hours</H2>
+<H2>Upgrade Reward: 600 Xp</H2>
+
+<H1>Level 3 Heal Potion Stats</H1>
+
+<H3>This potion will heal your troops while they are in it's radius for a short time</H3>
+<H3>Your troops will now have more health to stay in the fight longer</H3>
+
+
+<H2>Brewing Cost: 6000 Water</H2>
+<H2>Brewing Time: 40 seconds</H2>
+<H2>Space Required: 2</H2>
+<H2>Radius: 15x15</H2>
+<H2>Duration: 7 Seconds</H2>
+<H2>Heal Per Second: 25</H2>
+<H2>Upgrade Cost: 25000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 13</H2>
+<H2>Upgrade Time: 6 Hours</H2>
+<H2>Upgrade Reward: 800 Xp</H2>
+
+<H1>Level 4 Heal Potion Stats</H1>
+
+<H3>This potion will heal your troops while they are in it's radius for a short time</H3>
+<H3>Your troops will now have more health to stay in the fight longer</H3>
+
+
+<H2>Brewing Cost: 8000 Water</H2>
+<H2>Brewing Time: 40 seconds</H2>
+<H2>Space Required: 2</H2>
+<H2>Radius: 15x15</H2>
+<H2>Duration: 8 Seconds</H2>
+<H2>Heal Per Second: 40</H2>
+<H2>Upgrade Cost: 75000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 14</H2>
+<H2>Upgrade Time: 8 Hours</H2>
+<H2>Upgrade Reward: 1250 Xp</H2>
+
+<H1>Level 5 Heal Potion Stats</H1>
+
+<H3>This potion will heal your troops while they are in it's radius for a short time</H3>
+<H3>Your troops will now have more health to stay in the fight longer</H3>
+
+
+<H2>Brewing Cost: 10000 Water</H2>
+<H2>Brewing Time: 40 Seconds</H2>
+<H2>Space Required: 2</H2>
+<H2>Radius: 15x15</H2>
+<H2>Duration: 9 Seconds</H2>
+<H2>Heal Per Second: 65</H2>
+<H2>Upgrade Cost: 200000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 15</H2>
+<H2>Upgrade Time: 12 Hours</H2>
+<H2>Upgrade Reward: 2250 Xp</H2>
+
+<H1>Level 6 Heal Potion Stats</H1>
+
+<H3>This potion will heal your troops while they are in it's radius for a short time</H3>
+<H3>Your troops will now have more health to stay in the fight longer</H3>
+
+
+<H2>Brewing Cost: 12000 Water</H2>
+<H2>Brewing Time: 40 Seconds</H2>
+<H2>Space Required: 2</H2>
+<H2>Radius: 15x15</H2>
+<H2>Duration: 10 Seconds</H2>
+<H2>Heal Per Second: 95</H2>
+
+<H1>Level 1 Boom Potion Stats</H1>
+
+<H3>This potion will Blow chunks of health off any building you choose</H3>
+<H3>It can also blow up enemy troops, but it only deals 50% damage</H3>
+<H3>However, if your troops come near it, they will take 50% of the damage of the spell</H3>
+<H3>So Be Careful</H3>
+
+
+<H2>Brewing Cost: 1000 Water</H2>
+<H2>Brewing Time: 20 Seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Damage: 500</H2>
+<H2>Upgrade Cost: 5000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 12</H2>
+<H2>Upgrade Time: 1 Hour</H2>
+<H2>Upgrade Reward: 300 Xp</H2>
+
+<H1>Level 2 Boom Potion Stats</H1>
+
+<H3>This potion will Blow chunks of health off any building you choose</H3>
+<H3>It can also blow up enemy troops, but it only deals 50% damage</H3>
+<H3>However, if your troops come near it, they will take 50% of the damage of the spell</H3>
+<H3>So Be Careful</H3>
+
+
+
+<H2>Brewing Cost: 2000 Water</H2>
+<H2>Brewing Time: 20 seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Damage: 1000</H2>
+<H2>Upgrade Cost: 25000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 13</H2>
+<H2>Upgrade Time: 3 Hours</H2>
+<H2>Upgrade Reward: 600 Xp</H2>
+
+<H1>Level 3 Boom Potion Stats</H1>
+
+<H3>This potion will Blow chunks of health off any building you choose</H3>
+<H3>It can also blow up enemy troops, but it only deals 50% damage</H3>
+<H3>However, if your troops come near it, they will take 50% of the damage of the spell</H3>
+<H3>So Be Careful</H3>
+
+
+
+<H2>Brewing Cost: 3000 Water</H2>
+<H2>Brewing Time: 20 seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Damage: 1500</H2>
+<H2>Upgrade Cost: 25000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 14</H2>
+<H2>Upgrade Time: 6 Hours</H2>
+<H2>Upgrade Reward: 800 Xp</H2>
+
+<H1>Level 4 Boom Potion Stats</H1>
+
+<H3>This potion will Blow chunks of health off any building you choose</H3>
+<H3>It can also blow up enemy troops, but it only deals 50% damage</H3>
+<H3>However, if your troops come near it, they will take 50% of the damage of the spell</H3>
+<H3>So Be Careful</H3>
+
+
+
+<H2>Brewing Cost: 4000 Water</H2>
+<H2>Brewing Time: 20 seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Damage: 2000</H2>
+<H2>Upgrade Cost: 75000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 15</H2>
+<H2>Upgrade Time: 8 Hours</H2>
+<H2>Upgrade Reward: 1250 Xp</H2>
+
+<H1>Level 5 Boom Potion Stats</H1>
+
+<H3>This potion will Blow chunks of health off any building you choose</H3>
+<H3>It can also blow up enemy troops, but it only deals 50% damage</H3>
+<H3>However, if your troops come near it, they will take 50% of the damage of the spell</H3>
+<H3>So Be Careful</H3>
+
+
+
+<H2>Brewing Cost: 5000 Water</H2>
+<H2>Brewing Time: 20 Seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Damage: 2500</H2>
+<H2>Upgrade Cost: 200000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 16</H2>
+<H2>Upgrade Time: 12 Hours</H2>
+<H2>Upgrade Reward: 2250 Xp</H2>
+
+<H1>Level 6 Boom Potion Stats</H1>
+
+<H3>This potion will Blow chunks of health off any building you choose</H3>
+<H3>It can also blow up enemy troops, but it only deals 50% damage</H3>
+<H3>However, if your troops come near it, they will take 50% of the damage of the spell</H3>
+<H3>So Be Careful</H3>
+
+
+
+<H2>Brewing Cost: 6000 Water</H2>
+<H2>Brewing Time: 20 Seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Damage: 3000</H2>
+
+<H1>Level 1 Boom Potion Stats</H1>
+
+<H3>This potion will Blow chunks of health off any building you choose</H3>
+<H3>It can also blow up enemy troops, but it only deals 50% damage</H3>
+<H3>However, if your troops come near it, they will take 50% of the damage of the spell</H3>
+<H3>So Be Careful</H3>
+
+
+<H2>Brewing Cost: 1000 Water</H2>
+<H2>Brewing Time: 20 Seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Damage: 500</H2>
+<H2>Upgrade Cost: 5000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 12</H2>
+<H2>Upgrade Time: 1 Hour</H2>
+<H2>Upgrade Reward: 300 Xp</H2>
+
+<H1>Level 2 Boom Potion Stats</H1>
+
+<H3>This potion will Blow chunks of health off any building you choose</H3>
+<H3>It can also blow up enemy troops, but it only deals 50% damage</H3>
+<H3>However, if your troops come near it, they will take 50% of the damage of the spell</H3>
+<H3>So Be Careful</H3>
+
+
+
+<H2>Brewing Cost: 2000 Water</H2>
+<H2>Brewing Time: 20 seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Damage: 1000</H2>
+<H2>Upgrade Cost: 25000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 13</H2>
+<H2>Upgrade Time: 3 Hours</H2>
+<H2>Upgrade Reward: 600 Xp</H2>
+
+<H1>Level 3 Boom Potion Stats</H1>
+
+<H3>This potion will Blow chunks of health off any building you choose</H3>
+<H3>It can also blow up enemy troops, but it only deals 50% damage</H3>
+<H3>However, if your troops come near it, they will take 50% of the damage of the spell</H3>
+<H3>So Be Careful</H3>
+
+
+
+<H2>Brewing Cost: 3000 Water</H2>
+<H2>Brewing Time: 20 seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Damage: 1500</H2>
+<H2>Upgrade Cost: 25000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 14</H2>
+<H2>Upgrade Time: 6 Hours</H2>
+<H2>Upgrade Reward: 800 Xp</H2>
+
+<H1>Level 4 Boom Potion Stats</H1>
+
+<H3>This potion will Blow chunks of health off any building you choose</H3>
+<H3>It can also blow up enemy troops, but it only deals 50% damage</H3>
+<H3>However, if your troops come near it, they will take 50% of the damage of the spell</H3>
+<H3>So Be Careful</H3>
+
+
+
+<H2>Brewing Cost: 4000 Water</H2>
+<H2>Brewing Time: 20 seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Damage: 2000</H2>
+<H2>Upgrade Cost: 75000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 15</H2>
+<H2>Upgrade Time: 8 Hours</H2>
+<H2>Upgrade Reward: 1250 Xp</H2>
+
+<H1>Level 5 Boom Potion Stats</H1>
+
+<H3>This potion will Blow chunks of health off any building you choose</H3>
+<H3>It can also blow up enemy troops, but it only deals 50% damage</H3>
+<H3>However, if your troops come near it, they will take 50% of the damage of the spell</H3>
+<H3>So Be Careful</H3>
+
+
+
+<H2>Brewing Cost: 5000 Water</H2>
+<H2>Brewing Time: 20 Seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Damage: 2500</H2>
+<H2>Upgrade Cost: 200000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 16</H2>
+<H2>Upgrade Time: 12 Hours</H2>
+<H2>Upgrade Reward: 2250 Xp</H2>
+
+<H1>Level 6 Boom Potion Stats</H1>
+
+<H3>This potion will Blow chunks of health off any building you choose</H3>
+<H3>It can also blow up enemy troops, but it only deals 50% damage</H3>
+<H3>However, if your troops come near it, they will take 50% of the damage of the spell</H3>
+<H3>So Be Careful</H3>
+
+
+
+<H2>Brewing Cost: 6000 Water</H2>
+<H2>Brewing Time: 20 Seconds</H2>
+<H2>Space Required: 1</H2>
+<H2>Radius: 5x5</H2>
+<H2>Damage: 3000</H2>
+
+<H1>Level 1 Speed Potion Stats</H1>
+
+<H3>This Potion causes a chemical reaction, which makes your troops faster for the entire time they are in radius</H3>
+<H3>However, once it wears off, they go back to normal</H3>
+<H3>THIS SPELL DOESN'T WORK ON TROOPS WITH SPEEDS SLOWER THAN 10</H3>
+
+
+<H2>Brewing Cost: 3000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 50x50</H2>
+<H2>Duration: 10 Seconds</H2>
+<H2>Speed Increase: 30%</H2>
+<H2>Upgrade Cost: 5000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 13</H2>
+<H2>Upgrade Time: 1 Hour</H2>
+<H2>Upgrade Reward: 300 Xp</H2>
+
+<H1>Level 2 Speed Potion Stats</H1>
+
+<H3>This Potion causes a chemical reaction, which makes your troops faster for the entire time they are in radius</H3>
+<H3>However, once it wears off, they go back to normal</H3>
+<H3>THIS SPELL DOESN'T WORK ON TROOPS WITH SPEEDS SLOWER THAN 10</H3>
+
+<H2>Brewing Cost: 6000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 50x50</H2>
+<H2>Duration: 15 Seconds</H2>
+<H2>Speed Increase: 40%</H2>
+<H2>Upgrade Cost: 25000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 14</H2>
+<H2>Upgrade Time: 3 Hours</H2>
+<H2>Upgrade Reward: 600 Xp</H2>
+
+<H1>Level 3 Speed Potion Stats</H1>
+
+<H3>This Potion causes a chemical reaction, which makes your troops faster for the entire time they are in radius</H3>
+<H3>However, once it wears off, they go back to normal</H3>
+<H3>THIS SPELL DOESN'T WORK ON TROOPS WITH SPEEDS SLOWER THAN 10</H3>
+
+<H2>Brewing Cost: 9000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 50x50</H2>
+<H2>Duration: 20 Seconds</H2>
+<H2>Speed Increase: 50%</H2>
+<H2>Upgrade Cost: 25000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 15</H2>
+<H2>Upgrade Time: 6 Hours</H2>
+<H2>Upgrade Reward: 800 Xp</H2>
+
+<H1>Level 4 Speed Potion Stats</H1>
+
+<H3>This Potion causes a chemical reaction, which makes your troops faster for the entire time they are in radius</H3>
+<H3>However, once it wears off, they go back to normal</H3>
+<H3>THIS SPELL DOESN'T WORK ON TROOPS WITH SPEEDS SLOWER THAN 10</H3>
+
+<H2>Brewing Cost: 12000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 50x50</H2>
+<H2>Duration: 25 Seconds</H2>
+<H2>Speed Increase: 60%</H2>
+<H2>Upgrade Cost: 75000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 16</H2>
+<H2>Upgrade Time: 8 Hours</H2>
+<H2>Upgrade Reward: 1250 Xp</H2>
+
+<H1>Level 5 Speed Potion Stats</H1>
+
+<H3>This Potion causes a chemical reaction, which makes your troops faster for the entire time they are in radius</H3>
+<H3>However, once it wears off, they go back to normal</H3>
+<H3>THIS SPELL DOESN'T WORK ON TROOPS WITH SPEEDS SLOWER THAN 10</H3>
+
+<H2>Brewing Cost: 15000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 50x50</H2>
+<H2>Duration: 30 Seconds</H2>
+<H2>Speed Increase: 70%</H2>
+<H2>Upgrade Cost: 200000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 17</H2>
+<H2>Upgrade Time: 12 Hours</H2>
+<H2>Upgrade Reward: 2250 Xp</H2>
+
+<H1>Level 6 Speed Potion Stats</H1>
+
+<H3>This Potion causes a chemical reaction, which makes your troops faster for the entire time they are in radius</H3>
+<H3>However, once it wears off, they go back to normal</H3>
+<H3>THIS SPELL DOESN'T WORK ON TROOPS WITH SPEEDS SLOWER THAN 10</H3>
+
+<H2>Brewing Cost: 18000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 50x50</H2>
+<H2>Duration: 10 Seconds</H2>
+<H2>Speed Increase: 80%</H2>
+
+<H1>Level 1 Fire Potion Stats</H1>
+
+<H3>Want to start a flame war, put out some mistake spells, or watch the world burn? then the fire potion is perfect for you</H3>
+<H3>The fire potion will burn everything in it's path, until it reached water, or ice or if it is over 10 tiles away from the next item</H3>
+<H3>If it has no fuel (buildings, or troops) it will automatically go out in 5 seconds</H3>
+<H3>The fire potion will put itself out and put the water potion out if they touch</H3>
+<H3>The fire potion will put itself out and start melting the freeze spell when they touch</H3>
+<H3>If you are being attacked with this spell, here is what you do:</H3>
+<H3>Place all buildings 13 tiles apart or further</H3>
+<H3>Or...</H3>
+<H3>Put water or ice paths, buildings, or rivers between buildings</H3>
+<H3>This spell also works on troops</H3>
+
+
+<H2>Brewing Cost: 5000 Water</H2>
+<H2>Brewing Time: 2 Minutes</H2>
+<H2>Space Required: 5</H2>
+<H2>Radius: 10x10</H2>
+<H2>Damage Per Second: 20</H2>
+<H2>Upgrade Cost: 5000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 14</H2>
+<H2>Upgrade Time: 1 Hour</H2>
+<H2>Upgrade Reward: 300 Xp</H2>
+
+<H1>Level 2 Fire Potion Stats</H1>
+
+<H3>Want to start a flame war, put out some mistake spells, or watch the world burn? then the fire potion is perfect for you</H3>
+<H3>The fire potion will burn everything in it's path, until it reached water, or ice or if it is over 10 tiles away from the next item</H3>
+<H3>If it has no fuel (buildings, or troops) it will automatically go out in 5 seconds</H3>
+<H3>The fire potion will put itself out and put the water potion out if they touch</H3>
+<H3>The fire potion will put itself out and start melting the freeze spell when they touch</H3>
+<H3>If you are being attacked with this spell, here is what you do:</H3>
+<H3>Place all buildings 13 tiles apart or further</H3>
+<H3>Or...</H3>
+<H3>Put water or ice paths, buildings, or rivers between buildings</H3>
+<H3>This spell also works on troops</H3>
+
+<H2>Brewing Cost: 10000 Water</H2>
+<H2>Brewing Time: 2 Minutes</H2>
+<H2>Space Required: 5</H2>
+<H2>Radius: 10x10</H2>
+<H2>Damage Per Second: 30</H2>
+<H2>Upgrade Cost: 25000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 15</H2>
+<H2>Upgrade Time: 3 Hours</H2>
+<H2>Upgrade Reward: 600 Xp</H2>
+
+<H1>Level 3 Fire Potion Stats</H1>
+
+<H3>Want to start a flame war, put out some mistake spells, or watch the world burn? then the fire potion is perfect for you</H3>
+<H3>The fire potion will burn everything in it's path, until it reached water, or ice or if it is over 10 tiles away from the next item</H3>
+<H3>If it has no fuel (buildings, or troops) it will automatically go out in 5 seconds</H3>
+<H3>The fire potion will put itself out and put the water potion out if they touch</H3>
+<H3>The fire potion will put itself out and start melting the freeze spell when they touch</H3>
+<H3>If you are being attacked with this spell, here is what you do:</H3>
+<H3>Place all buildings 13 tiles apart or further</H3>
+<H3>Or...</H3>
+<H3>Put water or ice paths, buildings, or rivers between buildings</H3>
+<H3>This spell also works on troops</H3>
+
+<H2>Brewing Cost: 15000 Water</H2>
+<H2>Brewing Time: 2 Minutes</H2>
+<H2>Space Required: 5</H2>
+<H2>Radius: 10x10</H2>
+<H2>Damage Per second: 50</H2>
+<H2>Upgrade Cost: 25000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 16</H2>
+<H2>Upgrade Time: 6 Hours</H2>
+<H2>Upgrade Reward: 800 Xp</H2>
+
+<H1>Level 4 Fire Potion Stats</H1>
+
+<H3>Want to start a flame war, put out some mistake spells, or watch the world burn? then the fire potion is perfect for you</H3>
+<H3>The fire potion will burn everything in it's path, until it reached water, or ice or if it is over 10 tiles away from the next item</H3>
+<H3>If it has no fuel (buildings, or troops) it will automatically go out in 5 seconds</H3>
+<H3>The fire potion will put itself out and put the water potion out if they touch</H3>
+<H3>The fire potion will put itself out and start melting the freeze spell when they touch</H3>
+<H3>If you are being attacked with this spell, here is what you do:</H3>
+<H3>Place all buildings 13 tiles apart or further</H3>
+<H3>Or...</H3>
+<H3>Put water or ice paths, buildings, or rivers between buildings</H3>
+<H3>This spell also works on troops</H3>
+
+<H2>Brewing Cost: 20000 Water</H2>
+<H2>Brewing Time: 2 Minutes</H2>
+<H2>Space Required: 5</H2>
+<H2>Radius: 10x10</H2>
+<H2>Damage Per Second: 95</H2>
+<H2>Upgrade Cost: 75000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 17</H2>
+<H2>Upgrade Time: 8 Hours</H2>
+<H2>Upgrade Reward: 1250 Xp</H2>
+
+<H1>Level 5 Fire Potion Stats</H1>
+
+<H3>Want to start a flame war, put out some mistake spells, or watch the world burn? then the fire potion is perfect for you</H3>
+<H3>The fire potion will burn everything in it's path, until it reached water, or ice or if it is over 10 tiles away from the next item</H3>
+<H3>If it has no fuel (buildings, or troops) it will automatically go out in 5 seconds</H3>
+<H3>The fire potion will put itself out and put the water potion out if they touch</H3>
+<H3>The fire potion will put itself out and start melting the freeze spell when they touch</H3>
+<H3>If you are being attacked with this spell, here is what you do:</H3>
+<H3>Place all buildings 13 tiles apart or further</H3>
+<H3>Or...</H3>
+<H3>Put water or ice paths, buildings, or rivers between buildings</H3>
+<H3>This spell also works on troops</H3>
+
+<H2>Brewing Cost: 25000 Water</H2>
+<H2>Brewing Time: 2 Minutes</H2>
+<H2>Space Required: 5</H2>
+<H2>Radius: 10x10</H2>
+<H2>Damage Per Second: 150</H2>
+<H2>Upgrade Cost: 200000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 18</H2>
+<H2>Upgrade Time: 12 Hours</H2>
+<H2>Upgrade Reward: 2250 Xp</H2>
+
+<H1>Level 6 Fire Potion Stats</H1>
+
+<H3>Want to start a flame war, put out some mistake spells, or watch the world burn? then the fire potion is perfect for you</H3>
+<H3>The fire potion will burn everything in it's path, until it reached water, or ice or if it is over 10 tiles away from the next item</H3>
+<H3>If it has no fuel (buildings, or troops) it will automatically go out in 5 seconds</H3>
+<H3>The fire potion will put itself out and put the water potion out if they touch</H3>
+<H3>The fire potion will put itself out and start melting the freeze spell when they touch</H3>
+<H3>If you are being attacked with this spell, here is what you do:</H3>
+<H3>Place all buildings 13 tiles apart or further</H3>
+<H3>Or...</H3>
+<H3>Put water or ice paths, buildings, or rivers between buildings</H3>
+<H3>This spell also works on troops</H3>
+
+<H2>Brewing Cost: 30000 Water</H2>
+<H2>Brewing Time: 2 Minute</H2>
+<H2>Space Required: 5</H2>
+<H2>Radius: 10x10</H2>
+<H2>Damage Per Second: 210</H2>
+
+// Lost numbers: lvl 1: 10 lvl 2: 35 lvl 3: 95 lvl 4: 125 lvl 5: 180 lvl 6: 210
+
+
+<H1>Level 1 Invisibility Potion Stats</H1>
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely Invisible for a short period of time</H3>
+<H3>However when it wears off, your troops will still have the same previous health level</H3>
+<H3>Often Confused with Invincibility Potion</H3>
+
+<H2>Brewing Cost: 10000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 8x8</H2>
+<H2>Duration: 5 Seconds</H2>
+<H2>Upgrade Cost: 20000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 31</H2>
+<H2>Upgrade Time: 1 Hour</H2>
+<H2>Upgrade Reward: 300 Xp</H2>
+
+<H1>Level 2 Invisibility Potion Stats</H1>
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invisible for a short period of time</H3>
+<H3>However when it wears off, your troops will still have the same previous health level</H3>
+<H3>Often Confused with Invisibility Potion</H3>
+
+<H2>Brewing Cost: 20000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 8x8</H2>
+<H2>Duration: 6 Seconds</H2>
+<H2>Upgrade Cost: 85000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 32</H2>
+<H2>Upgrade Time: 3 Hours</H2>
+<H2>Upgrade Reward: 600 Xp</H2>
+
+<H1>Level 3 Invisibility Potion Stats</H1>
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invisible for a short period of time</H3>
+<H3>However when it wears off, your troops will still have the same previous health level</H3>
+<H3>Often Confused with Invisibility Potion</H3>
+
+<H2>Brewing Cost: 25000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 8x8</H2>
+<H2>Duration: 7 Seconds</H2>
+<H2>Upgrade Cost: 105000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 33</H2>
+<H2>Upgrade Time: 6 Hours</H2>
+<H2>Upgrade Reward: 800 Xp</H2>
+
+<H1>Level 4 Invisibility Potion Stats</H1>
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invisible for a short period of time</H3>
+<H3>However when it wears off, your troops will still have the same previous health level</H3>
+<H3>Often Confused with Invisibility Potion</H3>
+
+<H2>Brewing Cost: 30000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 8x8</H2>
+<H2>Duration: 8 Seconds</H2>
+<H2>Upgrade Cost: 250000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 34</H2>
+<H2>Upgrade Time: 8 Hours</H2>
+<H2>Upgrade Reward: 1250 Xp</H2>
+
+<H1>Level 5 Invisibility Potion Stats</H1>
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invisible for a short period of time</H3>
+<H3>However when it wears off, your troops will still have the same previous health level</H3>
+<H3>Often Confused with Invisibility Potion</H3>
+
+<H2>Brewing Cost: 32000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 8x8</H2>
+<H2>Duration: 9 Seconds</H2>
+<H2>Upgrade Cost: 500000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 35</H2>
+<H2>Upgrade Time: 12 Hours</H2>
+<H2>Upgrade Reward: 2250 Xp</H2>
+
+<H1>Level 6 Invisibility Potion Stats</H1>
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invisible to damage for a short period of time</H3>
+<H3>However when it wears off, your troops will still have the same previous health level</H3>
+<H3>Often Confused with Invisibility Potion</H3>
+
+<H2>Brewing Cost: 40000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 8x8</H2>
+<H2>Duration: 10 Seconds</H2>
+
+<H1>Level 1 Invincibility Potion Stats</H1>
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invulnerable to damage for a short period of time</H3>
+<H3>However when it wears off, your troops will still have the same previous health level</H3>
+<H3>Often Confused with Invisibility Potion</H3>
+
+<H2>Brewing Cost: 10000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 8x8</H2>
+<H2>Duration: 5 Seconds</H2>
+<H2>Upgrade Cost: 20000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 32</H2>
+<H2>Upgrade Time: 1 Hour</H2>
+<H2>Upgrade Reward: 300 Xp</H2>
+
+<H1>Level 2 Invincibility Potion Stats</H1>
+
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invulnerable to damage for a short period of time</H3>
+<H3>However when it wears off, your troops will still have the same previous health level</H3>
+<H3>Often Confused with Invisibility Potion</H3>
+
+<H2>Brewing Cost: 20000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 8x8</H2>
+<H2>Duration: 6 Seconds</H2>
+<H2>Upgrade Cost: 85000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 33</H2>
+<H2>Upgrade Time: 3 Hours</H2>
+<H2>Upgrade Reward: 600 Xp</H2>
+
+<H1>Level 3 Invinsibility Potion Stats</H1>
+
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invulnerable to damage for a short period of time</H3>
+<H3>However when it wears off, your troops will still have the same previous health level</H3>
+<H3>Often Confused with Invisibility Potion</H3>
+
+<H2>Brewing Cost: 25000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 8x8</H2>
+<H2>Duration: 7 Seconds</H2>
+<H2>Upgrade Cost: 105000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 34</H2>
+<H2>Upgrade Time: 6 Hours</H2>
+<H2>Upgrade Reward: 800 Xp</H2>
+
+<H1>Level 4 Invinsibility Potion Stats</H1>
+
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invulnerable to damage for a short period of time</H3>
+<H3>However when it wears off, your troops will still have the same previous health level</H3>
+<H3>Often Confused with Invisibility Potion</H3>
+
+<H2>Brewing Cost: 30000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 8x8</H2>
+<H2>Duration: 8 Seconds</H2>
+<H2>Upgrade Cost: 250000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 35</H2>
+<H2>Upgrade Time: 8 Hours</H2>
+<H2>Upgrade Reward: 1250 Xp</H2>
+
+<H1>Level 5 Invincibility Potion Stats</H1>
+
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invulnerable to damage for a short period of time</H3>
+<H3>However when it wears off, your troops will still have the same previous health level</H3>
+<H3>Often Confused with Invisibility Potion</H3>
+
+<H2>Brewing Cost: 32000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 8x8</H2>
+<H2>Duration: 9 Seconds</H2>
+<H2>Upgrade Cost: 500000 Coins</H2>
+<H2>Upgrade Requires Workshop Level 36</H2>
+<H2>Upgrade Time: 12 Hours</H2>
+<H2>Upgrade Reward: 2250 Xp</H2>
+
+<H1>Level 6 Invisibility Potion Stats</H1>
+
+
+<H3>This Potion makes ALL the troops in this spells radius to become completely invulnerable to damage for a short period of time</H3>
+<H3>However when it wears off, your troops will still have the same previous health level</H3>
+<H3>Often Confused with Invisibility Potion</H3>
+
+<H2>Brewing Cost: 40000 Water</H2>
+<H2>Brewing Time: 1 Minute</H2>
+<H2>Space Required: 3</H2>
+<H2>Radius: 8x8</H2>
+<H2>Duration: 10 Seconds</H2>
+
+<H2>Level 1 Nuke Potion Stats</H2>
+
+<H3>The Mother of all bombs, made into a potion. Compression technology will never be good enough to make this into a small size potion, so this is the best you can get</H3>
+<H3>This takes up so much space that you can only bring in 1 per battle</H3>
+<H3>This spell is also so powerful that it can't be upgraded!</H3>
+<H3>WARNING! DO NOT PLACE TROOPS BEFORE USING THIS SPELL</H3>
+<H3>NOTE: this can only be used in attacks against players level 200 or higher to prevent overkill and cheating</H3>
+
+<H3>Brewing Cost: 15000000 Water</H2>
+<H2>Brewing Time: 2 Days</H2>
+<H2>Space Required: 50000</H2>
+<H2>Radius: 1000000x1000000</H2>
+<H2>Damage: 1000000000000 total</H2>
+
+<H1>Level Requirements</H1>
+
+<H2>Level 2</H2>
+<H3>500 Xp</H3>
+
+<H2>Level 3</H2>
+<H3>1000 Xp</H3>
+
+<H2>Level 4</H2>
+<H3>2500 Xp</H3>
+
+<H2>Level 5</H2>
+<H3>5000 Xp</H3>
+
+<H2>Level 6</H2>
+<H3>10000 Xp</H3>
+
+<H2>Level 7</H2>
+<H3>15000 Xp</H3>
+
+<H2>Level 8</H2>
+<H3>25000 Xp</H3>
+
+<H2>Level 9</H2>
+<H3>40000 Xp</H3>
+
+<H2>Level 10</H2>
+<H3>70000 Xp</H3>
+
+<H2>Level 11</H2>
+<H3>100000 Xp</H3>
+
+<H2>Level 12</H2>
+<H3>120000 Xp</H3>
+
+<H2>Level 13</H2>
+<H3>150000 Xp</H3>
+
+<H2>Level 14</H2>
+<H3>180000 Xp</H3>
+
+<H2>Level 15</H2>
+<H3>210000 Xp</H3>
+
+<H2>Level 16</H2>
+<H2>250000 Xp</H3>
+
+<H2>Level 17</H2>
+<H3>300000 Xp</H3>
+
+<H2>Level 18</H2>
+<H3>360000 Xp</H3>
+
+<H2>Level 19</H2>
+<H3>420000 Xp</H3>
+
+<H2>Level 20</H2>
+<H3>500000 Xp</H3>
+
+<H2>Level 21</H2>
+<H3>600000 Xp</H3>
+
+<H2>Level 22</H2>
+<H3>750000 Xp</H3>
+
+<H2>Level 23</H2>
+<H3>900000 Xp</H3>
+
+<H2>Level 24</H2>
+<H3>1080000 Xp</H3>
+
+<H2>Level 25</H2>
+<H3>1200000 Xp</H3>
+
+<H2>Level 26</H2>
+<H3>1350000 Xp</H3>
+
+<H2>Level 27</H2>
+<H3>1500000 Xp</H3>
+
+<H2>Level 28</H2>
+<H3>1800000 Xp</H3>
+
+<H2>Level 29</H2>
+<H3>1900000 Xp</H3>
+
+<H2>Level 30</H2>
+<H3>2000000 Xp</H3>
+
+<H2>Level 31</H2>
+<H3>2100000 Xp</H3>
+
+<H2>Level 32</H2>
+<H3>2250000 Xp</H3>
+
+<H2>Level 33</H2>
+<H3>2500000 Xp</H3>
+
+<H2>Level 34</H2>
+<H3>2750000 Xp</H3>
+
+<H2>Level 35</H2>
+<H3>3000000 Xp</H3>
+
+<H2>Level 36</H2>
+<H3>3500000 Xp</H3>
+
+<H2>Level 37</H2>
+<H3>4000000 Xp</H3>
+
+<H2>Level 38</H2>
+<H3>5000000 Xp</H3>
+
+<H2>Level 39</H2>
+<H3>7500000 Xp</H3>
+
+<H2>Level 40</H2>
+<H3>10000000 Xp</H3>
+
+<H2>Level 41</H2>
+<H3>11000000 Xp</H3>
+
+<H2>Level 42</H2>
+<H3>12500000 Xp</H3>
+
+<H2>Level 43</H2>
+<H3>15000000 Xp</H3>
+
+<H2>Level 44</H2>
+<H3>20000000 Xp</H3>
+
+<H2>Level 45</H2>
+<H3>25000000 Xp</H3>
+
+<H2>Level 46</H2>
+<H3>30000000 Xp</H3>
+
+<H2>Level 47</H2>
+<H3>40000000 Xp</H3>
+
+<H2>Level 48</H2>
+<H3>50000000 Xp</H3>
+
+<H2>Level 49</H2>
+<H3>60000000 Xp</H3>
+
+<H2>Level 50</H2>
+<H3>75000000 Xp</H3>
+
+<H2>Level 51</H2>
+<H3>90000000 Xp</H3>
+
+<H2>Level 52</H2>
+<H3>100000000 Xp</H3>
+
+<H2>Level 53</H2>
+<H3>130000000 Xp</H3>
+
+<H1>Settings</H1>
+
+<H1>Audio Settings</H1>
+
+<H1>Mute Music</H1>
+<H1>UnMute Music</H1>
+
+<H1>Mute Troop Sound Effects</H1>
+<H1>UnMute Troop Sound Effects</H1>
+
+<H1>Mute Collection Sound Effects</H1>
+<H1>UnMute Collection Sound Effects</H1>
+
+<H1>Special Features</H1>
+
+<H1>Show Total Damage Per Second For Select Items</H1>
+<H1>Hide Total Damage Per Second For Select Items</H1>
+
+<H1>Show Total Health For Select Items</H1>
+<H1>Hide Total Health Per Second For Select Items</H1>
+
+<H1>Show Building Count Stat</H1>
+<H1>Hide Building Count Stat</H1>
+
+<H1>Show Decoration Count Stat</H1>
+<H1>Hide Decoration Count Stat</H1>
+
+<H1>History Logs</H1>
+
+<H1>Upgrade History</H1>
+<H1>Activity History</H1>
+<H1>Attack History</H1>
+<H1>Collection History</H1>
+<H1>In-Game Purchase History</H1>
+<H1>In-App Purchase History</H1>
+<H1>Base Layout History</H1>
+<H1>Defense History</H1>
+
+
+<H1>End Of Site</H1>
+
+<HR>
+<HR>
+</BODY>
+</HTML>

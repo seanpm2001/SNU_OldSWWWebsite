@@ -1,0 +1,148 @@
+<HTML>
+<HEAD>
+<TITLE>The Computer Digital Morgue Virus Database</TITLE>
+</HEAD>
+<BODY BGCOLOR="#93B874">
+<HR>
+<H1>Welcome To The Computer Digital Morgue, The best place to download viruses</H1>
+<H2>Warning! we are not responsible for ANYTHING that happens to your PC, download at your own risk</H2>  
+<H2>We Highly Recommend Using a Virtual Machine Such As Oracle, or Virtual Box </H2>
+<H2>We Also Recommend To Turn Off Network And Shared Folders To Prevent The Viruses From Escaping</H2>
+<H1>You Have Been Warned!</H1>
+<H1>Windows Viruses</H1>
+<H1>MSDOS Viruses</H1>
+<H1>Batch Files</H1>
+<H1>Windows 1x Viruses</H1>
+<H1>VBS Files</H1>
+<H1>Batch Files</H1>
+<H1>Windows 2x Viruses</H1>
+<H1>VBS Files</H1>
+<H1>Batch Files</H1>
+<H1>Windows 3x Viruses</H1>
+<H1>VBS Files</H1>
+<H1>Batch Files</H1>
+<H1>Windows 9x Viruses</H1>
+<H1>VBS Files</H1>
+<H1>Batch Files</H1>
+<H1>Joke Programs</H1>
+<H1>Ransomware</H1>
+<H1>Executables</H1>
+<H1>Trojans</H1>
+<H1>Memz Trojan Download For Windows 98, Windows 98 SE, Windows 2000, And Windows ME</H1>
+<H1>Spyware</H1>
+<H1>Bonzi Buddy Download For Windows 2000 And Windows ME</H1>
+<H1>Adware</H1>
+<H1>Windows XP Viruses</H1>
+<H1>VBS Files</H1>  
+<H1>Batch Files</H1>
+<H1>Joke Programs</H1>
+<H1>Blast Buttons Download For Windows XP</H1>
+<H1>Ransomware</H1>
+<H1>Executables</H1>
+<H1>Trojans</H1>
+<H1>Memz Trojan Download For Windows XP</H1>
+<H1>VineMemz Trojan Download For Windows XP</H1>
+<H1>Spyware</H1>
+<H1>Adware</H1>
+<H1>Windows Vista Viruses</H1>
+<H1>VBS Files</H1>
+<H1>Batch Files</H1>
+<H1>Joke Programs</H1>
+<H1>Ransomware</H1>
+<H1>Executables</H1>
+<H1>Trojans</H1>
+<H1>Spyware</H1>
+<H1>Adware</H1>
+<H1>Windows 7 Viruses</H1>
+<H1>VBS Files</H1>
+<H1>Batch Files</H1>
+<H1>Joke Programs</H1>
+<H1>Ransomware</H1>
+<H1>Executables</H1>
+<H1>Trojans</H1>
+<H1>Spyware</H1>
+<H1>Adware</H1>
+<H1>Windows 8x Viruses</H1>
+<H1>VBS Files</H1>
+<H1>Batch Files</H1>
+<H1>Joke Programs</H1>
+<H1>Ransomware</H1>
+<H1>Executables</H1>
+<H1>Trojans</H1>
+<H1>Spyware</H1>
+<H1>Adware</H1>
+<H1>Windows 10 Viruses</H1>
+<H1>VBS Files</H1>
+<H1>Batch Files</H1>
+<H1>Joke Programs</H1>
+<H1>Ransomware</H1>
+<H1>Executables</H1>
+<H1>Trojans</H1>
+<H1>Spyware</H1>
+<H1>Adware</H1>
+<H1>Word 1x Viruses</H1>
+<H1>Excel 1x Viruses</H1>
+<H1>Powerpoint 1x Viruses</H1>
+<H1>Word 95 Viruses</H1>
+<H1>Excel 95 Viruses</H1>
+<H1>Powerpoint 95 Viruses</H1>
+<H1>Access 95 Viruses</H1>
+<H1>Word 97 Viruses</H1>
+<H1>Excel 97 Viruses</H1>
+<H1>Powerpoint 97 Viruses</H1>
+<H1>Access 97 Viruses</H1>
+<H1>Word 2000 Viruses</H1>
+<H1>Excel 2000 Viruses</H1>
+<H1>Powerpoint 2000 Viruses</H1>
+<H1>Access 2000 Viruses</H1>
+<H1>Word XP Viruses</H1>
+<H1>Excel XP Viruses</H1>
+<H1>Powerpoint XP Viruses</H1>
+<H1>Access XP Viruses</H1>
+<H1>Word 2003 Viruses</H1>
+<H1>Excel 2003 Viruses</H1>
+<H1>Powerpoint 2003 Viruses</H1>
+<H1>Access 2003 Viruses</H1>
+<H1>Word 2007 Viruses</H1>
+<H1>Excel 2007 Viruses</H1>
+<H1>Powerpoint 2007 Viruses</H1>
+<H1>Access 2007 Viruses</H1>
+<H1>Word 2010 Viruses</H1>
+<H1>Excel 2010 Viruses</H1>
+<H1>Powerpoint 2010 Viruses</H1>
+<H1>Access 2010 Viruses</H1>
+<H1>Word 2013 Viruses</H1>
+<H1>Excel 2013 Viruses</H1>
+<H1>Powerpoint 2013 Viruses</H1>
+<H1>Access 2013 Viruses</H1>
+<H1>Word 2016 Viruses</H1>
+<H1>Excel 2016 Viruses</H1>
+<H1>Powerpoint 2016 Viruses</H1>
+<H1>Access 2016 Viruses</H1>
+<H1>Mac Viruses</H1>
+<H1>Linux Viruses</H1>
+<H1>Android Viruses</H1>
+<H1>IOS Viruses</H1>
+<H1>Ubuntu Viruses</H1> 
+<H1>Create An Account For 20 Dollars</H1>
+<H2>Account Features</H2>
+<H3>Post Your Own Viruses and Joke Programs</H3>
+<H3>Sell Your Programs</H3>
+<H3>Write Comments</H3>
+<H3>Modify Other Peoples Programs</H3>
+<H3>Leave Likes</H3>
+<H3>Customize Your Account With Different Themes</H3>
+<H3>Earn XP and Level UP</H3>
+<H3>Add up to 100 links To Your Websites And Channels</H3>
+<H3>Add Friends</H3>
+<H3>Chat With Friends and Followers</H3>
+<H3>Follow your Favorite creators</H3>
+<H3>Earn Followers</H3>
+<H3>Make Lists</H3>
+<H3>Add a Bio</H3>
+<H3>Earn and Buy Chips</H3>
+<H3>Get a Profile Picture and Username profile picture can even be animated</H3>
+<H1>Note You Do NOT Need An Account To Download Programs Off The Site</H1>                                                                                                                 
+<HR>
+</BODY>
+</HTML>

@@ -1,0 +1,1128 @@
+<HTML>
+<HEAD>
+<TITLE>Untitled Restaurant Game</TITLE>
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<HR>
+<H1>Sean Walla Walla Restaurant</H1>
+<H3>Version Beta 1.00</H3>
+
+<H1>Sign Up</H1>
+<H3>Costs: FREE</H3>
+
+<H1>Sign In</H1>
+<H3>Costs: FREE</H3>
+
+
+<H1>Startup Stats</H1>
+
+<H2>80000 Gold</H2>
+<H2>100 Diamonds</H2>
+<H2>100x100 Size</H2>
+<H2>1 Grill</H2>
+<H2>1 Stone Table</H2>
+<H2>1 Rock Chair</H2>
+<H2>1 Stone Counter</H2>
+<H2>1 No Door Entrance</H2>
+<H2>1 Employee</H2>
+<H2>1 Host Desk</H2>
+<H2>5 Opponents</H2>
+
+<H1>Opponents</H1>
+
+<H2>1. PretzelLand</H2>
+<H3>Level 15</H3>
+<H3>Popularity: 15%</H3>
+<H3>Average Daily Customers: 1120</H3>
+<H3>Employees: 8</H3>
+<H3>Size: 150x150</H3>
+<H3>Daily Stock Quantity: 5000</H3>
+<H3>Daily Income: 100000 Gold</H3>
+
+<H1>Hire Workers</H1>
+
+<H2>Butcher     1 Diamond</H2>
+<H3>Payment: 480 Gold per day</H3>
+<H3>Specialty: Meat</H3>
+
+<H2>Host        2 Diamonds</H2>
+<H3>Payment: 620 Gold Per Day</H3>
+<H3>Specialty: Ringing up Customers/bringing in customers</H3>
+
+<H2>Carver      3 Diamonds</H2>
+<H3>Payment: 620 Gold Per Day</H3>
+<H3>Specialty: Counter Delivery/Meat</H3>
+
+<H2>Janitor     3 Diamonds</H2>
+<H3>Payment: 480 Gold Per Day</H3>
+<H3>Specialty: Cleaning</H3>
+
+<H2>Drive Thru Host   5 Diamonds</H2>
+<H3>Payment: 720 Gold Per Day</H3>
+<H3>Specialty: Delivery/Ringing Up Customers/Bagging/Drive Thru</H3>
+
+<H2>Chef              5 Diamonds</H2>
+<H3>Payment: 1000 Gold Per Day</H3>
+<H3>Specialty: Cooking</H3>
+
+<H2>Waiter           10 Diamonds</H2>
+<H3>Payment: 480 Gold Per Day</H3>
+<H3>Specialty: Table Delivery</H3>
+
+<H2>Mascot           20 Diamonds</H2>
+<H3>Payment: 2500 Gold Per Day</H3>
+<H3>Specialty: Entertainment/Popularity</H3>
+<H3>Requires level 5</H3>
+
+<H2>Valet Parker    25 Diamonds</H2>
+<H3>Payment: 4500 Gold Per Day</H3>
+<H3>Specialty: Parking/Popularity/Security</H3>
+<H3>Requires level 8</H3>
+
+<H2>Security Officer 25 Diamonds</H2>
+<H3>Payment: 6000 Gold Per Day</H3>
+<H3>Specialty: Security</H3>
+<H3>Requires level 12</H3>
+
+
+<H1>Oven Recipes</H1>
+
+<H2>Apple Pie</H2>
+<H2>Chicken Pot Pie</H2>
+<H2>Chicken Tenders</H2>
+<H2>Baked Chicken</H2>
+<H2>Roast Chicken</H2>
+<H2>Chicken Legs</H2>
+<H2>Roast Turkey</H2>
+<H2>Baked Turkey</H2>
+<H2>Turkey Legs</H2>
+<H2>Roast Duck</H2>
+<H2>Baked Duck</H2>
+<H2>Duck Legs</H2>
+<H2>TurDuckEn</H2>
+
+<H1>Store/Decorations</H1>
+
+<H1>Store/Counters</H1>
+
+<H2>Stone Counter</H2>
+<H3>Holds: 100-20000</H3>
+<H3>Costs: 250 Gold</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Plywood Counter</H2>
+<H3>Holds: 400-100000</H3>
+<H3>Costs: 800 Gold</H3>
+<H3>XP Reward: 10</H3>
+
+<H1>Store/Tables</H1>
+
+<H2>Stone Table</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 50 Gold</H3>
+<H3>XP Reward: 10</H3>
+
+<H1>Store/Chairs</H1>
+
+<H2>Rock Chair</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 5 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Rock Bench</H2>
+<H3>Capacity: 2</H3>
+<H3>Costs: 15 Gold</H3>
+<H3>Space Required 1x3</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Stone Chair</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 50 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Stone Bench</H2>
+<H3>Capacity: 2</H3>
+<H3>Costs: 100 Gold</H3>
+<H3>Space Required 1x3</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Plywood Chair</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 150 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Plywood Bench</H2>
+<H3>Capacity: 3</H3>
+<H3>Costs: 400 Gold</H3>
+<H3>Space Required 1x3</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Grey Brick Stool</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 600 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Rock Stool</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 250 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Stone Stool</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 300 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Red Brick Stool</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 1000 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+
+<H2>Red Brick Chair</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 900 Gold</H3>
+<H3>Space Required 1X1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Red Brick Bench</H2>
+<H3>Capacity: 3</H3>
+<H3>Costs: 2000 Gold</H3>
+<H3>Space Required 1x3</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Dark Blue Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Teal Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Cyan Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Purple Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Cherry Red Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>White Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Black Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Grey Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Brown Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Salmon Pink Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Light Yellow Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Bright Yellow Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Light Orange Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Bright Orange Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Dark Orange Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Dark Yellow Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Dark Green Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Magenta Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Dark Red Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Dark Grey Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Dark Brown Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Bronze Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 10000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Silver Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 20000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Chrome Couch</H2>
+<H3>Capacity: 4</H3>
+<H3>Costs: 100000 Gold</H3>
+<H3>Space Required 1x4</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Chrome Chair</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 20000 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Chrome Stool</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 45000 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Chrome Bench</H2>
+<H3>Capacity: 3</H3>
+<H3>Costs: 80000 Gold</H3>
+<H3>Space Required 1x3</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Silver Chair</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 10000 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Silver Stool</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 25000 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Silver Bench</H2>
+<H3>Capacity: 3</H3>
+<H3>Costs: 30000 Gold</H3>
+<H3>Space Required 1x3</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Bronze Chair</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 5000 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Bronze Stool</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 8000 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Bronze Bench</H2>
+<H3>Capacity: 3</H3>
+<H3>Costs: 10000 Gold</H3>
+<H3>Space Required 1x3</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Golden Chair</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 1000000 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Golden Bench</H2>
+<H3>Capacity: 3</H3>
+<H3>Costs: 1500000 Gold</H3>
+<H3>Space Required 1x3</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Golden Stool</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 1250000 Gold</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Diamond Chair</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 200 Diamonds</H3>
+<H3>UNSELLABLE ITEM</H3>
+<H3>UNDELETEABLE ITEM</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Diamond Bench</H2>
+<H3>Capacity: 3</H3>
+<H3>Costs: 600 Diamonds</H3>
+<H3>UNSELLABLE ITEM</H3>
+<H3>UNDELETEABLE ITEM</H3>
+<H3>Space Required 1x3</H3>
+<H3>XP Reward: 10</H3>
+
+<H2>Diamond Stool</H2>
+<H3>Capacity: 1</H3>
+<H3>Costs: 300 Diamonds</H3>
+<H3>UNSELLABLE ITEM</H3>
+<H3>UNDELETEABLE ITEM</H3>
+<H3>Space Required 1x1</H3>
+<H3>XP Reward: 10</H3>
+
+<H1>Store/Wall Decorations</H1>
+
+<H2>Wooden Shelf</H2>
+<H3>Costs: 50 Gold</H3>
+<H3>Space Required 1x1</H3>
+
+<H1>Level Requirements</H1>
+
+<H2>Level 1</H2>
+<H3>0 Xp</H3>
+
+<H2>Level 2</H2>
+<H3>500 Xp</H3>
+
+<H2>Level 3</H2>
+<H3>1000 Xp</H3>
+
+<H2>Level 4</H2>
+<H3>2000 Xp</H3>
+
+<H2>Level 5</H2>
+<H3>3000 Xp</H3>
+
+<H2>Level 6</H2>
+<H3>4000 Xp</H3>
+
+<H2>Level 7</H2>
+<H3>5000 Xp</H3>
+
+<H2>Level 8</H2>
+<H3>6000 Xp</H3>
+
+<H2>Level 9</H2>
+<H3>7000 Xp</H3>
+
+<H2>Level 10</H2>
+<H3>8000 Xp</H3>
+
+<H2>Level 11</H2>
+<H3>9000 Xp</H3>
+
+<H2>Level 12</H2>
+<H3>10000 Xp</H3>
+
+<H2>Level 13</H2>
+<H3>20000 Xp</H3>
+
+<H2>Level 14</H2>
+<H3>30000 Xp</H3>
+
+<H2>Level 15</H2>
+<H3>40000 Xp</H3>
+
+<H2>Level 16</H2>
+<H3>50000 Xp</H3>
+
+<H2>Level 17</H2>
+<H3>60000 Xp</H3>
+
+<H2>Level 18</H2>
+<H3>70000 Xp</H3>
+
+<H2>Level 19</H2>
+<H3>90000 Xp</H3>
+
+<H2>Level 20</H2>
+<H3>100000 Xp</H3>
+
+<H2>Level 21</H2>
+<H3>110000 Xp</H3>
+
+<H2>Level 22</H2>
+<H3>120000 Xp</H3>
+
+<H2>Level 23</H2>
+<H3>130000 Xp</H3>
+
+<H2>Level 24</H2>
+<H3>140000 Xp</H3>
+
+<H2>Level 25</H2>
+<H3>150000 Xp</H3>
+
+<H2>Level 26</H2>
+<H3>160000 Xp</H3>
+
+<H2>Level 27</H2>
+<H3>170000 Xp</H3>
+
+<H2>Level 28</H2>
+<H3>180000 Xp</H3>
+
+<H2>Level 29</H2>
+<H3>190000 Xp</H3>
+
+<H2>Level 30</H2>
+<H3>200000 Xp</H3>
+
+<H2>Level 31</H2>
+<H3>300000 Xp</H3>
+
+<H2>Level 32</H2>
+<H3>400000 Xp</H3>
+
+<H2>Level 33</H2>
+<H3>500000 Xp</H3>
+
+<H2>Level 34</H2>
+<H3>600000 Xp</H3>
+
+<H2>Level 35</H2>
+<H3>700000 Xp</H3>
+
+<H2>Level 36</H2>
+<H3>800000 Xp</H3>
+
+<H2>Level 37</H2>
+<H3>900000 Xp</H3>
+
+<H2>Level 38</H2>
+<H3>1000000 Xp</H3>
+
+<H2>Level 39</H2>
+<H3>1100000 Xp</H3>
+
+<H2>Level 40</H2>
+<H3>1200000 Xp</H3>
+
+<H2>Level 41</H2>
+<H3>1300000 Xp</H3>
+
+<H2>Level 42</H2>
+<H3>1400000 Xp</H3>
+
+<H2>Level 43</H2>
+<H3>1500000 Xp</H3>
+
+<H2>Level 44</H2>
+<H3>1600000 Xp</H3>
+
+<H2>Level 45</H2>
+<H3>1700000 Xp</H3>
+
+<H2>Level 46</H2>
+<H3>1800000 Xp</H3>
+
+<H2>Level 47</H2>
+<H3>1900000 Xp</H3>
+
+<H2>Level 48</H2>
+<H3>2000000 Xp</H3>
+
+<H2>Level 49</H2>
+<H3>3000000 Xp</H3>
+
+<H2>Level 50</H2>
+<H3>4000000 Xp</H3>
+
+<H2>Level 51</H2>
+<H3>5000000 Xp</H3>
+
+<H2>Level 52</H2>
+<H3>6000000 Xp</H3>
+
+<H2>Level 53</H2>
+<H3>7000000 Xp</H3>
+
+<H2>Level 54</H2>
+<H3>8000000 Xp</H3>
+
+<H2>Level 55</H2>
+<H3>9000000 Xp</H3>
+
+<H2>Level 56</H2>
+<H3>10000000 Xp</H3>
+
+<H2>Level 57</H2>
+<H3>11000000 Xp</H3>
+
+<H2>Level 58</H2>
+<H3>12000000 Xp</H3>
+
+<H2>Level 59</H2>
+<H3>13000000 Xp</H3>
+
+<H2>Level 60</H2>
+<H3>14000000 Xp</H3>
+
+<H2>Level 61</H2>
+<H3>15000000 Xp</H3>
+
+<H2>Level 62</H2>
+<H3>16000000 Xp</H3>
+
+<H2>Level 63</H2>
+<H3>17000000 Xp</H3>
+
+<H2>Level 64</H2>
+<H3>18000000 Xp</H3>
+
+<H2>Level 65</H2>
+<H3>19000000 Xp</H3>
+
+<H2>Level 66</H2>
+<H3>20000000 Xp</H3>
+
+<H2>Level 67</H2>
+<H3>30000000 Xp</H3>
+
+<H2>Level 68</H2>
+<H3>40000000 Xp</H3>
+
+<H2>Level 69</H2>
+<H3>50000000 Xp</H3>
+
+<H2>Level 70</H2>
+<H3>60000000 Xp</H3>
+
+<H2>Level 71</H2>
+<H3>70000000 Xp</H3>
+
+<H2>Level 72</H2>
+<H3>80000000 Xp</H3>
+
+<H2>Level 73</H2>
+<H3>90000000 Xp</H3>
+
+<H2>Level 74</H2>
+<H3>100000000 Xp</H3>
+
+<H2>Level 75</H2>
+<H3>110000000 Xp</H3>
+
+<H2>Level 76</H2>
+<H3>120000000 Xp</H3>
+
+<H2>Level 77</H2>
+<H3>130000000 Xp</H3>
+
+<H2>Level 78</H2>
+<H3>140000000 Xp</H3>
+
+<H2>Level 79</H2>
+<H3>150000000 Xp</H3>
+
+<H2>Level 80</H2>
+<H3>160000000 Xp</H3>
+
+<H2>Level 81</H2>
+<H3>170000000 Xp</H3>
+
+<H2>Level 82</H2>
+<H3>180000000 Xp</H3>
+
+<H2>Level 83</H2>
+<H3>190000000 Xp</H3>
+
+<H2>Level 84</H2>
+<H3>200000000 Xp</H3>
+
+<H2>Level 85</H2>
+<H3>30000000 Xp</H3>
+
+<H2>Level 86</H2>
+<H3>40000000 Xp</H3>
+
+<H2>Level 87</H2>
+<H3>50000000 Xp</H3>
+
+<H2>Level 88</H2>
+<H3>60000000 Xp</H3>
+
+<H2>Level 89</H2>
+<H3>70000000 Xp</H3>
+
+<H2>Level 90</H2>
+<H3>80000000 Xp</H3>
+
+<H2>Level 91</H2>
+<H3>90000000 Xp</H3>
+
+<H2>Level 92</H2>
+<H3>100000000 Xp</H3>
+
+<H2>Level 93</H2>
+<H3>110000000 Xp</H3>
+
+<H2>Level 94</H2>
+<H3>120000000 Xp</H3>
+
+<H2>Level 95</H2>
+<H3>130000000 Xp</H3>
+
+<H2>Level 96</H2>
+<H3>140000000 Xp</H3>
+
+<H2>Level 97</H2>
+<H3>150000000 Xp</H3>
+
+<H2>Level 98</H2>
+<H3>160000000 Xp</H3>
+
+<H2>Level 99</H2>
+<H3>170000000 Xp</H3>
+
+<H2>Level 100</H2>
+<H3>180000000 Xp</H3>
+
+<H2>Level 101</H2>
+<H3>190000000 Xp</H3>
+
+<H2>Level 102</H2>
+<H3>200000000 Xp</H3>
+
+<H2>Level 103</H2>
+<H3>300000000 Xp</H3>
+
+<H2>Level 104</H2>
+<H3>40000000 Xp</H3>
+
+<H2>Level 105</H2>
+<H3>50000000 Xp</H3>
+
+<H2>Level 106</H2>
+<H3>60000000 Xp</H3>
+
+<H2>Level 107</H2>
+<H3>70000000 Xp</H3>
+
+<H2>Level 108</H2>
+<H3>80000000 Xp</H3>
+
+<H2>Level 109</H2>
+<H3>90000000 Xp</H3>
+
+<H2>Level 110</H2>
+<H3>100000000 Xp</H3>
+
+<H2>Every level up, you still have all your xp</H2>
+<H3>Example:</H3>
+<H3>Starting Level 4</H3>
+<H3>Minimum 3.5k XP (3500 XP</H3>
+
+<H1>Update Log</H1>
+
+<H2>Version Beta 1.00</H2>
+<H3>Added Option To Create An Account</H3>
+<H3>Added Option To Log In</H3>
+<H3>Added Update Log</H3>
+<H3>Added Opponents</H3>
+<H3>Added Credits</H3>
+<H3>Added Settings</H3>
+<H3>Added Shop</H3>
+<H3>Added Shop Tab: Counters</H3>
+<H3>Added Shop Tab: Tables</H3>
+<H3>Added Shop Tab: Chairs</H3>
+<H3>Added Shop Tab: Wall Decorations</H3>
+<H3>Added 110 Levels</H3>
+<H3>Added 10 Employees</H3>
+<H3>Added Gold</H3>
+<H3>Added Diamonds</H3>
+<H3>Added XP</H3>
+<H3>Added In-App Purchases</H3>
+<H3>Added Oven</H3>
+<H3>Added Terms Of Service</H3>
+<H3>Added About Page</H3>
+<H3>Added Help Page</H3>
+
+<H1>Credits</H1>
+
+<H2>Game Project Idea</H2>
+
+<H3>Sean Patrick Myrick</H3>
+
+<H2>HTML BIOS Programming</H2>
+
+<H3>Sean Patrick Myrick</H3>
+
+<H2>Music</H2>
+
+<H3>NONE YET</H3>
+
+<H2>Sound Effects</H2>
+
+<H3>NONE YET</H3>
+
+<H2>Inspired By</H2>
+
+<H3>Danooct1</H3>
+<H3>Vinesauce Joel</H3>
+<H3>Storm8</H3>
+<H3>Restaurant Story</H3>
+<H3>Bakery Story</H3>
+<H3>Pet Shop Story</H3>
+<H3>Fashion Story</H3>
+<H3>Farm story</H3>
+<H3>Pet Hotel
+<H3>Microsoft</H3>
+<H3>Google</H3>
+<H3>William Henry Gates (Bill Gates)</H3>
+<H3>Linux</H3>
+
+<H1>In-App Purchases</H1>
+
+<H1>WARNING! All of the following purchases COST REAL MONEY. If you would like to disable In-App Purchases, You can change that in the settings</H1>
+
+<H2>1200 Diamonds</H2>
+<H3>$0.99</H3>
+
+<H2>2500 Diamonds</H2>
+<H3>$1.99</H3>
+
+<H2>8000 Diamonds</H2>
+<H3>$5.99</H3>
+
+<H2>20000 Diamonds</H2>
+<H3>$9.99</H3>
+
+<H2>40000 Diamonds</H2>
+<H3>$19.99</H3>
+
+<H2>90000 Diamonds</H2>
+<H3>$39.99</H3>
+
+<H2>135000 Diamonds</H2>
+<H3>$49.99</H3>
+
+<H2>300000 Diamonds</H2>
+<H3>$99.99</H3>
+
+<H1>Settings</H1>
+
+<H2>Disable Following</H2>
+<H2>Disable In-App Purchases</H2>
+<H2>Change Password</H2>
+<H2>Create Second Account</H2>
+<H2>Create Third Account</H2>
+<H2>Create Fourth Account</H2>
+<H2>Create Fifth Account</H2>
+<H2>Create Sixth Account</H2>
+<H2>Create Seventh Account</H2>
+<H2>Create Eighth Account</H2>
+<H2>Create Ninth Account</H2>
+<H2>Create Tenth Account</H2>
+<H2>Create Eleventh Account</H2>
+<H2>Sign Out</H2>
+<H2>Log Out</H2>
+<H2>Switch User</H2>
+<H2>Sign In To Google Play</H2>
+<H2>Sign In To Game Center</H2>
+<H2>Sign Out of Google Play</H2>
+<H2>Sign Out of Game Center</H2>
+<H2>Mute Music</H2>
+<H2>UnMute Music</H2>
+<H2>Mute Sound Effects</H2>
+<H2>UnMute Sound Effects</H2>
+<H2>Help</H2>
+<H2>Terms Of Service</H2>
+<H2>About</H2>
+<H2>More By SeanWallaWalla</H2>
+
+<H1>About Sean Walla Walla Restaurant</H1>
+
+<H2>Version Beta 1.00</H2>
+<H3>Build 1</H3>
+
+<H2>Supported Video Qualities</H2>
+<H3>144p</H3>
+<H3>144I</H3>
+<H3>240p</H3>
+<H3>240I</H3>
+<H3>360p</H3>
+<H3>360I</H3>
+<H3>480p</H3>
+<H3>480I</H3>
+<H3>720p</H3>
+<H3>720I</H3>
+<H3>1080p</H3>
+<H3>1080I</H3>
+<H3>1440p</H3>
+<H3>1440I</H3>
+<H3>2160p (4K)</H3>
+<H3>2160I (4K)</H3>
+<H3>4320p (8K)</H3>
+<H3>4320I (8K)</H3>
+
+<H2>Software Recommendations</H2>
+
+<H2>For This Build</H2>
+
+<H3>Running 480i or lower: 2 GB Ram</H3>
+<H3>Running 720p to 720I: 3 GB Ram</H3>
+<H3>Running 1080p or 1080I: 4 GB Ram</H3>
+<H3>Running 1440p or 1440I: 6 GB Ram</H3>
+<H3>Running 2160p(4k) or 2160I (4K): 12 GB Ram</H3>
+<H3>Running 4320p(8k) or 4320I (8K): 20 GB Ram</H3>
+
+<H1>Supported Operating Systems</H1>
+
+
+<H2>MS-DOS</H2>
+
+<H2>MS-DOS 1.x</H2>
+
+<H3>MS-DOS 1.10 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 1.11 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 1.14 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 1.24 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 1.25 (OEM) NOT SUPPORTED</H3>
+<H3>Compaq DOS 1.12 (OEM) NOT SUPPORTED</H3>
+<H3>Zenith Z-DOS 1.19 (OEM) NOT SUPPORTED</H3>
+
+<H2>MS-DOS 2.x</H2>
+
+<H3>MS-DOS 2.0 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 2.1 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 2.11 (OEM) NOT SUPPORTED</H3>
+<H3>Altos MS-DOS 2.11 (OEM) NOT SUPPORTED</H3>
+<H3>TeleVideo MS-DOS 2.10 (OEM) NOT SUPPORTED</H3>
+
+<H2>MS-DOS 3.x</H2>
+
+<H3>MS-DOS 3.0 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 3.1 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 3.2 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 3.21 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 3.22 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 3.25 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 3.3 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 3.3a (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 3.31 (OEM) NOT SUPPORTED</H3>
+
+<H2>MS-DOS 4.x</H2>
+
+<H3>MS-DOS 4.00 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 4.01 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 4.01a (OEM) NOT SUPPORTED</H3>
+
+<H2>MS-DOS 5.x</H2>
+
+<H3>MS-DOS 5.0 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 5.0a (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 5.50 (OEM) NOT SUPPORTED</H3>
+
+<H2>MS-DOS 6.x</H2>
+
+<H3>MS-DOS 6.00 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 6.02 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 6.21 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 6.22 (OEM) NOT SUPPORTED</H3>
+
+<H2>MS-DOS 7.x (Windows 95, Windows 98, Windows 98 SE)</H2>
+
+<H3>MS-DOS 7.0 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 7.1 (OEM) NOT SUPPORTED</H3>
+
+<H2>MS-DOS 8.x (Windows ME, Windows XP)</H2>
+
+<H3>MS-DOS 8.0 (OEM) NOT SUPPORTED</H3>
+<H3>MS-DOS 8.1 (OEM) NOT SUPPORTED</H3>
+
+<H2>Windows 1x</H2>
+
+<H3>Windows 1.00 NOT SUPPORTED</H3>
+<H3>Windows 1.01 NOT SUPPORTED</H3>
+<H3>Windows 1.02 NOT SUPPORTED</H3>
+<H3>Windows 1.03 NOT SUPPORTED</H3>
+<H3>Windows 1.04 NOT SUPPORTED</H3>
+<H3>Windows 1.05 NOT SUPPORTED</H3>
+
+<H2>Windows 2x</H2>
+
+<H3>Windows 2.00 NOT SUPPORTED</H3>
+<H3>Windows 2.01 NOT SUPPORTED</H3>
+<H3>Windows 2.02 NOT SUPPORTED</H3>
+<H3>Windows 2.03 NOT SUPPORTED</H3>
+<H3>Windows 2.04 NOT SUPPORTED</H3>
+<H3>Windows 2.05 NOT SUPPORTED</H3>
+
+<H2>Windows 3x</H2>
+
+<H3>Windows 3.0 NOT SUPPORTED</H3>
+<H3>Windows 3.1 (144p)</H3>
+<H3>Windows 3.5 (144p)</H3>
+<H3>Windows 3.51 (144I)</H3>
+
+<H2>Windows 9x</H2>
+
+<H3>Windows 95 (240p or lower)</H3>
+<H3>Windows 98 (360p or Lower)</H3>
+<H3>Windows 98 SE (360p or lower)</H3>
+<H3>Windows ME (480I or lower)</H3>
+<H3>Windows 2000 (480p or lower)</H3>
+
+<H2>Windows NT</H2>
+
+<H3>Windows XP (1080i or lower)</H3>
+<H3>Windows Vista (1080i or lower)</H3>
+<H3>Windows 7 (2160p (4k) or lower)</H3>
+<H3>Windows 8 (2160I (4K) or lower)</H3>
+<H3>Windows 8.1 (2160I (4K) or lower)</H3>
+<H3>Windows 10 (4320p (8K) or lower)</H3>
+
+<H2>Macintosh System</H2>
+
+<H3>Macintosh System 1 NOT SUPPORTED</H3>
+<H3>System 2 (MAC) NOT SUPPORTED</H3>
+<H3>System 3 (MAC) NOT SUPPORTED</H3>
+<H3>System 4 (MAC) NOT SUPPORTED</H3>
+<H3>System 5 (MAC) NOT SUPPORTED</H3>
+<H3>System 6 (MAC) NOT SUPPORTED</H3>
+<H3>System 7 (MAC) (360I or lower)</H3>
+<H3>System 7.6 (480p or lower)</H3>
+<H3>System 8 (480p or lower)</H3>
+
+<H2>Mac OS</H2>
+
+<H3>Mac OS 9 (480p or lower)</H3>
+<H3>Mac OS X 10.0 (720I or lower)</H3>
+<H3>Mac OS X 10.1 (1080p or lower)</H3>
+<H3>Mac OS X 10.2 (1080I or lower)</H3>
+<H3>Mac OS X Panther (1080I or lower)</H3>
+<H3>Mac OS X Tiger (1080I or lower)</H3>
+<H3>Mac OS X Leopard (1440p or lower)</H3>
+<H3>Mac OS X Snow Leopard (1440p or lower)</H3>
+<H3>Mac OS X Lion (1440I or Lower)</H3>
+
+<H2>OS X</H2>
+
+<H3>OS X Mountain Lion (2160p (4K) or lower)</H3>
+<H3>OS X Mavericks (2160p (4K) or lower)</H3>
+<H3>OS X Yosemite (2160I (4K) or lower)</H3>
+<H3>OS X El Capitan (4320p (8K) or lower)</H3>
+
+<H2>MacOS</H2>
+
+<H3>MacOS Sierra (4320I (8K) or lower)</H3>
+<H3>MacOS High Sierra (4320I (8K) or lower)</H3>
+
+<H2>Supported Color Formats</H2>
+
+<H3>8 Bit: UNSUPPORTED</H3>
+<H3>Monochrome: SUPPORTED</H3>
+<H3>16 Color: SUPPORTED</H3>
+<H3>256 Color: SUPPORTED</H3>
+<H3>16 Bit: SUPPORTED</H3>
+<H3>20 Bit: SUPPORTED</H3>
+<H3>24 Bit: SUPPORTED</H3>
+<H3>32 Bit: SUPPORTED</H3>
+<H3>48 Bit: SUPPORTED</H3>
+<H3>64 Bit: SUPPORTED</H3>
+
+<H1>Help</H1>
+
+<H2>Select an article</H2>
+
+<H3>1. Multiple Users</H3>
+<H3>2. Account Safety</H3>
+<H3>3. In-App Purchases</H3>
+<H3>4. Running in Old Operating Systems (windows 2000 and lower)</H3>
+<H3>5. Social Features</H3>
+<H3>6. Rivals and opponents</H3>
+<H3>7. Levels and level up benefits</H3>
+<H3>8. Software Recommendations</H3>
+<H3>9. 
+
+<H1>Help Topic 1: Multiple Users</H1>
+
+<H2>If you have a family sharing this game, you can create a Multiple users server to play multiple accounts at once. The second account is Free, but after that, each new account costs $0.99 to prevent account spam.</H2>
+<H2>When playing multiple accounts, you can switch users, but if you try to switch to an active user, you will get a prompt, logging you out of the server</H2>
+<H2>Server settings can be advanced, like you can set passwords to accounts, add pins, add questions and hints, just to make servers safer</H2>
+<H2>You can also customize your accounts by adding custom profile pictures, backgrounds, adding themes, and much more (NOTE: customization features only unlock with servers with 3 people or more</H2>
+<H2>You can set the server to run off a mobile hotspot (only recommended for short periods and high end phones) wifi boxes (recommended for constant server play) or LAN (recommended for small and multiple servers)</H2>
+<H2>Everyone in your server will automatically be friended to you, only 1 person can go on an account at once though</H2>
+<H2>The recommended server playime for mobile hotspot is below</H2>
+<H3>2 People: up to 3 hours = 1 GB to 50 GB (Depending on quality and server usage)</H3>
+<H3>3 People: up to 2 hours 45 minutes = 1.7 GB to 99 GB (Depending on quality and server usage)</H3>
+<H3>4 People: up to 2 hours 30 minutes = 2.35 GB to 133 GB (Depending on quality and server usage)</H3>
+<H3>5 People: up to 2 hours 15 minutes = 2.95 GB to 165 GB (Depending on quality and server usage)</H3>
+<H3>6 People: up to 2 hours = 4 GB to 255 GB (Depending on quality and server usage)</H3>
+<H3>7 People: up to 1 hour 30 minutes = 6 GB to 500 GB (Depending on quality and server usage)</H3>
+<H2>The max player count for a mobile hotspot server is 7, to prevent system and server failure</H2>
+<H2>Dial-Up is NOT Supported from Windows 98 and up, Mac OS 9 and up</H2>
+
+<H1>End of article</H1>
+
+<HR>
+</BODY>
+</HTML>

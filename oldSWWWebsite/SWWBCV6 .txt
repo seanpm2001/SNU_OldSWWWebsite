@@ -1,0 +1,821 @@
+<HTML>
+<HEAD>
+<TITLE>Sean Walla Walla Business Center</TITLE>
+</HEAD>
+<BODY BGCOLOR="#3BB9FF">
+<HR>
+
+
+<H1>Welcome to the Sean Walla Walla Business Center Website!</H1>
+
+<H1>Select a category:</H1>
+
+<H2>Residence</H2>
+
+<H3>Apartments: Currently Unavailable</H3>
+
+<H3>The Lofts: $200.00 Per night</H3>
+
+<H3>Guest Center: Currently Unavailable</H3>
+
+<H2>Loft Features</H2>
+<H3>Patio</H3>
+<H3>Fridge</H3>
+<H3>Loft Bed</H3>
+<H3>Lots of space</H3>
+<H3>Free Wi-Fi</H3>
+<H3>Lots of space for animals</H3>
+
+<H2>Park</H2>
+
+<H2>Certain rides in the park are very fun but risky! You will need to sign a waiver before entering some rides</H2>
+
+<H2>Rides</H2>
+
+<H3>See-saw/Teeter-Totter</H3>
+
+<H3>Weight Limit: 600 LB per side 1200 LB total</H3>
+<H3>Capacity: 4</H3>
+<H3>Ride time: 25 Cents Per minute</H3>
+<H2>WAIVER REQUIRED</H2>
+
+<H3>Slip N Slide</H3>
+
+<H3>Admission: 5 Dollars Per Family, 1 person at a time</H3>
+
+<H3>Basketball</H3>
+
+<H3>Admission: FREE</H3>
+<H3>Capacity: 25</H3>
+<H3>Weight Limit: 16000 LB</H3>
+
+<H3>Golfing</H3>
+
+<H3>Admission: FREE</H3>
+<H3>Capacity: 8</H3>
+<H3>Weight Limit: 4000 LB</H3>
+
+<H3>Ring Toss</H3>
+
+<H3>Weight Limit: 4000 LB</H3>
+<H3>Capacity: 5</H3>
+<H3>Ring Cost: 5 rings for 25 cents</H3>
+
+<H3>Prizes</H3>
+
+<H3>Tickets</H3>
+<H3>3D Printer Objects</H3>
+
+<H3>Horse Shoe Toss</H3>
+
+<H3>Weight Limit: 4000 LB</H3>
+<H3>Capacity: 7</H3>
+<H3>Horse Shoe Cost: 10 Horse Shoes For 3 Dollars</H3>
+<H2>WAIVER REQUIRED</H2>
+
+<H3>Trampoline House</H3>
+
+<H3>Weight Limit: 400 LB Per Person Max Weight: 950 LB</H3>
+<H3>Max 2 people at once, recommended 1 person at once for safety</H3>
+<H3>Time Cost: 20 Cents Per Minute, 99 Cents Per Minute For Special Events</H3>
+<H2>Waiver Required</H2>
+
+<H1>Special Events</H1>
+
+<H2>Waterfall Bounce Time</H2>
+
+<H2>Available upon Request</H2>
+<H3>During This Time, You can bounce in the center of a 6 foot tall water fall. The water is 60-72 Degrees in the summer, 73-85 Degrees in the fall, 86-95 Degrees in the winter, And 59-74 Degrees In the spring</H3>
+<H3>You can also adjust the water temperature ONLY in summer, fall, and spring</H3>
+
+<H2>Ball Party Time<H2>
+
+<H2>Available upon Request</H2>
+<H3>During This Time, You can bounce around with tons of beach balls. You can choose from 1 to 25 balls. This event can also be combined with all other events and is a year long event</H3>
+
+<H2>Cave Heights Time</H2>
+
+<H3>During This Time, You can bounce in the dark! This event can also be combined with all other events and is a year long event</H3>
+
+<H2>Spring Jump Time</H2>
+
+<H3>During This Time, You can bounce in the dark! This event can also be combined with all other events and is a year long event</H3>
+<H3>Available All year, 50% Off In the spring</H3>
+
+<H2>Horse Riding</H2>
+
+<H3>Capacity: 2 adults or up to 2 adults and 2 kids</H3>
+<H3>Cost: 25 Cents Per Minute</H3>
+<H3>Weight Limit: 600 LB per Horse, 1200 LB Max</H3>
+<H2>WAIVER REQUIRED</H2>
+
+<H2>Food And Drink</H2>
+
+<H3>Popcorn: 1 Dollar per bag</H3>
+<H3>Hot Chocolate: 2 Dollars</H3>
+<H3>Pancakes: 75 Cents Each</H3>
+<H3>Macaroni And Cheese: Small: $0.80 Medium: $1.50 Large: $3.25</H3>
+<H3>Pork Bacon: 15 Cents Per Piece</H3>
+<H3>Scrambled Eggs: 25 Cents Each</H3>
+<H3>Squirt: Small: $0.50 Medium: $0.90 Large: $1.50</H3>
+<H3>Mountain Dew: Small: $0.50 Medium: $0.90 Large: $1.50</H3> 
+<H3>7-UP: Small: $0.50 Medium: $0.90 Large: $1.50</H3>
+<H3>Diet Pepsi: Small: $0.50 Medium: $0.90 Large: $1.50</H3> 
+<H3>Mountain Dew Slushee: Small: $0.50 Medium: $0.90 Large: $1.50</H3> 
+<H3>7-UP Slushee: Small: $0.50 Medium: $0.90 Large: $1.50</H3> 
+<H3>Squirt Slushee: Small: $0.50 Medium: $0.90 Large: $1.50</H3> 
+<H3>Toast: 0.10 Cents per slice</H3>
+<H3>Apple Juice: Small: $0.60 Medium: $1.00 Large: $1.60</H3>
+<H3>Orange Juice: Small: $0.60 Medium: $1.00 Large: $1.60</H3>
+<H3>Chocolate Milk: Small: $0.60 Medium: $1.00 Large: $1.60</H3>
+<H3>Strawberry Milk: Small: $0.60 Medium: $1.00 Large: $1.60</H3>
+<H3>Sweet Tea: Small: $0.60 Medium: $1.00 Large: $1.60</H3>
+
+<H2>Activities</H2>
+
+<H2>VR TIME</H2>
+
+<H3>Play VR in a Controlled Environment to get the full VR Experience</H3>
+<H3>Admission: 2 Dollars For 5 minutes</H3>
+<H3>Capacity: 3</H3>
+
+<H2>Gaming Room</H2>
+
+<H3>Capacity: 15</H3>
+<H3>Admission: 1 Dollar Per Hour Per Person</H3>
+<H3>Wi-Fi: YES</H3>
+
+<H3>Activities withing gaming Room:</H3>
+
+<H2>1. AND 2. WII And U-DRAW WII Gameplay</H2>
+<H2>3. Puzzles</H2>
+<H2>4. Arts and Crafts</H2>
+<H2>5. Playstation 2 Gameplay</H2>
+<H2>6. Charging Stations</H2>
+
+<H2>2ND Game Room</H2>
+
+<H3>Admission: 10 Dollars Per Person Per Hour</H3>
+
+<H3>Activities</H3>
+
+<H2>1. Legos</H2>
+<H2>2. Cars</H2>
+<H2>3. Hide And Seek</H2>
+
+<H2>Swing Set</H2>
+
+<H3>You Must take turns, only one person at a time</H3>
+<H3>Available ALL DAY</H3>
+<H3>Event is FREE</H3>
+<H3>5 minute limit per person</H3>
+
+<H2>Music Room</H2>
+
+<H3>Music is always playing Here</H3>
+
+<H2>Library</H2>
+
+<H2>VIP ONLY</H2>
+<H2>Admission: 5 Dollars Per Hour</H2>
+
+<H2>Barn Tour</H2>
+
+<H3>Admission: 0.10 Cents</H3>
+<H3>Wi-Fi: YES</H3>
+
+<H2>Garden Tour</H2>
+
+<H3>Admission: 0.25 Cents</H3>
+<H3>Wi-Fi: YES</H3>
+
+<H2>Campus Special Events</H2>
+
+<H2>Movie Night</H2>
+<H3>Friday Movies are on the projector</H3>
+<H3>Sunday Movies are on the projector</H3>
+<H3>Saturday Movies are on the TV</H3>
+
+<H3>Friday, Saturday, Sunday, at 7:00 pm to 11:30 pm</H3>
+
+<H2>Campground Event</H2>
+
+<H3>Set up your own tent in the yard</H3>
+<H3>ONLY ON HOLIDAYS</H3>
+<H3>Fires included DO NOT BRING LIGHTERS</H3>
+<H3>Food And Beverages Allowed</H3>
+
+<H2>Trailer Riding</H2>
+
+<H3>Available Only On Weekends From 12:00 pm to 3:00 pm</H3>
+
+<H2>Snowboarding</H2>
+
+<H3>Bring your snowboard and snowboard around the property</H3>
+<H3>Only available when there is snow or ice outside</H3>
+
+<H2>Badminton</H2>
+
+<H3>Admission: 1 DOLLAR For 20 Minutes</H3>
+<H3>Available at random times</H3>
+<H3>Please bring your own boards</H3>
+
+<H1>Rules</H1>
+
+<H2>ABSOLUTELY NO SMOKING</H2>
+<H2>All Pets Allowed for FREE</H2>
+<H2>No weapons or destructive items allowed in building, they will be stored until you leave or want to go on a trip</H2>
+<H2>Alcohol is allowed but you CANNOT bring more than 1 bottle up to 2 liters at once to prevent drunken disturbance</H2>
+<H2>Stealing is never allowed, we pat down all guests before and after leaving</H2>
+<H2>You can order pizza and invite parties, but they must follow all rules. Parties cost 10 Dollars per person</H2>
+<H2>Bathrooms can be used by ALL people, not just guests. there is a 30 minute time limit for the bathroom</H2>
+<H2>You Must Get Permission Before Recording Certain Areas</H2>
+
+<H1>We Hope You Could Come Stay With Us and that you have an EPIC stay!</H1>
+
+<H1>Service: 5:45 AM-11:30 PM</H1>
+<H1>MONDAY-SUNDAY</H1>
+<H1>Open on all holidays except Christmas</H1>
+
+<H1>Our Social Medias</H1>
+
+<H2>Youtube</H2>
+<BODY>
+<A HREF = "https://www.youtube.com/c/SeanWallaWalla">OurChannel</A>
+
+<H2>Our Twitter</H2>
+<BODY>
+<A HREF = "https://www.twitter.com/SeanWallaWalla">OurTwitter</A>
+
+<H2>Scratch</H2>
+<H2>Main account</H2>
+<BODY>
+<A HREF = "https://www.scratch.mit.edu/users/seanwallawalla">OurMainAccount</A>
+
+<H2>Alternate account</H2>
+<BODY>
+<A HREF = "https://www.scratch.mit.edu/users/seanspokane2015">OurAlternateAccount</A>
+
+<H2>Our Khan Academy</H2>
+<BODY>
+<A HREF = "https://www.khanacademy.org/profile/seanwallawallaofficial/">OurKhanAcademyPage</A>
+
+<H2>For reservations and business inquiries: seanwallawallabusiness@gmail.com</H2> 
+
+<H1>Site Version 1.03 Build 4</H1>
+
+<H1>Update Log</H1>
+
+<H2>Version 1.02 Build 3 Update Features</H2>
+
+<H3>Added update log</H3>
+<H3>Enhanced Website Code By Putting Spaces To Prevent Eye Strain</H3>
+<H3>Added Info About The Loft</H3>
+<H3>Added Build Number</H3>
+<H3>Fixed description for Horse shoe game, Snowboarding, movie night, and campground event</H3>
+<H3>Added social media links for Youtube, Twitter, And Khan Academy</H3>
+
+<H2>Version 1.03 Build 4 Update Features</H2>
+
+<H3>Updated Update Log</H3>
+<H3>Added Social Media Links for Both of our scratch accounts</H3>
+<H3>Added a behind the scenes section</H3>
+<H3>Added 1 video to behind the scenes section</H3>
+<H3>Changed the website background color to Deep Sky Blue</H3>
+<H3>Added 9 Items to the food menu</H3>
+
+<H2>Version 1.04 Build 5 Update Features</H2>
+
+<H3>Updated Update Log</H3>
+<H3>Added 7 new videos to the barn behind the scenes section</H3>
+<H3>Added a Featured Videos Section</H3>
+<H3>Added a Featured Content Section</H3>
+<H3>In the featured content section, there are sections for: Youtube, twitter, scratch, tumblr, and instagram</H3>
+<H3>Added End Of Site Text</H3> 
+
+<H2>Version 1.05 Build 6 Update Features</H2>
+
+<H3>Updated Update Log</H3>
+<H3>Added website archive section CURRENTLY NOT FUNCTIONAL</H3>
+
+<H1>Behind The Scenes</H1>
+
+<H2>The Barn</H2>
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=E_DKEg1PmXc">BarnConstructionVideo01</A>
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=YxZkH8CcbUY">BarnConstructionVideo02</A>
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=m83Cgn6lSV4">BarnConstructionVideo03</A>
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=aUAqBt-kwD0">BarnConstructionVideo04</A>
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=W_Rhv6dKCmg">BarnConstructionVideo05</A>
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=nKAsIzbWpzA">BarnConstructionVideo06</A>
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=A3Hq7tNNWHc">BarnConstructionVideo07</A>
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=jtROoXzD6nY">BarnConstructionVideo08</A>
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=KupnNLvUTms">BarnConstructionVideo09</A>
+
+<H1>Featured Content</H1>
+
+<H2>Twitter Content</H2>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/887720286937731074">FeaturedTwitterContent1</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/877319363988078592">FeaturedTwitterContent2</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/806627088794951680">FeaturedTwitterContent3</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/805147122651709440">FeaturedTwitterContent4</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/808416843887087616">FeaturedTwitterContent5</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/808417166840066049">FeaturedTwitterContent6</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/785972125995675648">FeaturedTwitterContent7</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/808037036925947904">FeaturedTwitterContent8</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/808056981197975552">FeaturedTwitterContent9</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/808057151323140097">FeaturedTwitterContent10</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/817863362922954752">FeaturedTwitterContent11</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/875072459740819456">FeaturedTwitterContent12</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/867456101041577992">FeaturedTwitterContent13</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/866408547948437504">FeaturedTwitterContent14</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/863880506294681600">FeaturedTwitterContent15</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/863880167625637888">FeaturedTwitterContent16</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/858722828215959552">FeaturedTwitterContent17</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/849714207817736193">FeaturedTwitterContent18</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/846091389712527360">FeaturedTwitterContent19</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/818618491074801665">FeaturedTwitterContent20</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/808061828077010944">FeaturedTwitterContent21</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/797552067090862080">FeaturedTwitterContent22</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/792776546641600513">FeaturedTwitterContent23</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/786001583515443200">FeaturedTwitterContent24</A>
+
+<BODY>
+<A HREF = "https://twitter.com/seanwallawalla/status/785996716835123202">FeaturedTwitterContent25</A>
+
+
+<H2>Featured Youtube Content</H2>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=eUAnF-kbBPM">FeaturedYoutubeContent1</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=MHwqT6nMzdU">FeaturedYoutubeContent2</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=h6jfEYUq8tM">FeaturedYoutubeContent3</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=S2922RRfeDo">FeaturedYoutubeContent4</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=FvSH-CgUNGU">FeaturedYoutubeContent5</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=vxuduq-DgpI">FeaturedYoutubeContent6</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=piJXYPEmyDU">FeaturedYoutubeContent7</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=rG7qNcvNW94">FeaturedYoutubeContent8</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=ancm8VAu4lM&index=1&list=PL7BxIzpfx8wwN3duuSqTBelWou4WZo9fJ">FeaturedYoutubeContent9</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=WlRPbHlp1Iw">FeaturedYoutubeContent10</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=iD1ZRC_9qss">FeaturedYoutubeContent11</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=Qo6qJjzV-LY">FeaturedYoutubeContent12</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=22rNf_vFuYw">FeaturedYoutubeContent13</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=5ss1vsAP1oU">FeaturedYoutubeContent14</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=yw-ZHTw9ZhI">FeaturedYoutubeContent15</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=YKETthB4yXI">FeaturedYoutubeContent16</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=F6wsJOwAWSw">FeaturedYoutubeContent17</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=NhNuZWvQ6pc">FeaturedYoutubeContent18</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=q2kLq0DEj4c">FeaturedYoutubeContent19</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=tc3Yo5F0jqQ">FeaturedYoutubeContent20</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=XJMcnErEndU">FeaturedYoutubeContent21</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=rhlbJ8WcvHM">FeaturedYoutubeContent22</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=FD6FwK7P_k0">FeaturedYoutubeContent23</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=Ck5g2zWhNfU">FeaturedYoutubeContent24</A>
+
+
+<BODY>
+<A HREF = "https://www.youtube.com/watch?v=jyneQ3TwTG0">FeaturedYoutubeContent25</A>
+
+
+<H2>Featured Scratch Content</H2>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/169265649/">FeaturedScratchContent1</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/168325483/">FeaturedScratchContent2</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/167183183/">FeaturedScratchContent3</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/137092694/">FeaturedScratchContent4</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/128166171/">FeaturedScratchContent5</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/118316531/">FeaturedScratchContent6</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/125509740/">FeaturedScratchContent7</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/137702978/">FeaturedScratchContent8</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/120402720/">FeaturedScratchContent9</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/122206147/">FeaturedScratchContent10</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/122622053/">FeaturedScratchContent11</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/122685439/">FeaturedScratchContent12</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/114806411/">FeaturedScratchContent13</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/114406717/">FeaturedScratchContent14</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/112583568/">FeaturedScratchContent15</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/112038371/">FeaturedScratchContent16</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/110320273/">FeaturedScratchContent17</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/101808086/">FeaturedScratchContent18</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/113381550/">FeaturedScratchContent19</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/113257586/">FeaturedScratchContent20</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/110515261/">FeaturedScratchContent21</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/89061056/">FeaturedScratchContent22</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/101057779/">FeaturedScratchContent23</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/113462396/">FeaturedScratchContent24</A>
+
+
+<BODY>
+<A HREF = "https://scratch.mit.edu/projects/114045476/">FeaturedScratchContent25</A>
+
+
+<H2>Featured Instagram Content</H3>
+
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXsdsRg43m/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent1</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXtOULgBff/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent2</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXuZ2GAXkY/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent3</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXu67HgA7R/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent4</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXu1xqALcP/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent5</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXsNqJgP5I/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent6</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXu1xqALcP/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent7</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXtxnWgYsi/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent8</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXteqxgJPm/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent9</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXta9CA60a/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent10</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUKfJY-geeD/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent11</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXuxaHAgfI/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent12</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXtIuOgUcC/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent13</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXrhJBgywt/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent14</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXuDnjAAF8/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent15</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXtV15AQcI/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent16</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXtjZYgxL8/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent17</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXtsp8AZTE/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent18</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXtoGtAFAC/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent19</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXt3qMAT6c/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent20</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXul-vA-6v/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent21</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXurfHg6jg/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent22</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXrovzgpn5/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent23</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXuxaHAgfI/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent24</A>
+
+<BODY>
+<A HREF = "https://www.instagram.com/p/BUXtsp8AZTE/?taken-by=seanwallawalla&hl=en">FeaturedInstagramContent25</A>
+
+
+<H2>Featured Tumblr Content</H2>
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/154297026812/snowboarding-for-the-first-time-in-walla-walla">FeaturedTumblrContent1</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/154039992302/sean-walla-walla-social-media-2016">FeaturedTumblrContent2</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/154000350347/christmas-tree-setup-2016">FeaturedTumblrContent3</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/153999899012/first-time-in-the-crawlspace">FeaturedTumblrContent4</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/153970986677/outdated-info-1222016-of-information-for">FeaturedTumblrContent5</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/153690977487/how-to-take-and-save-a-screenshot-on-windows-10">FeaturedTumblrContent6</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/153606219642/youtube-experience-before-sean-walla-walla">FeaturedTumblrContent7</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/153606202642/youtube-gaming-2015-2016">FeaturedTumblrContent8</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/153535650167/my-windows-10-fanart-that-i-made-myself">FeaturedTumblrContent9</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/153690830677/today-i-reached-18500-views-on-youtube-heres-the">FeaturedTumblrContent10</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/153699968547/i-reached-72-subscribers-on-youtube-today-so-i">FeaturedTumblrContent11</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/154341888952/evil-snowman-that-i-built-today-made-with-over-500">FeaturedTumblrContent12</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/154341930672/my-15th-birthday-party">FeaturedTumblrContent13</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/155032036792/phone-upgrade-2016">FeaturedTumblrContent14</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/155722528582/my-first-famous-youtuber-reply-on-january-9th">FeaturedTumblrContent15</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/156053637327/i-just-reached-78-subscribers-on-youtube-1182017">FeaturedTumblrContent16</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/157702397057/i-just-reached-25753-views-on-youtube-2252017">FeaturedTumblrContent17</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/157742848477/i-just-reached-25810-views-on-youtube-2262017">FeaturedTumblrContent18</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/157949071557/i-just-reached-26048-views-on-youtube-332017">FeaturedTumblrContent19</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/157949169797/i-just-reached-80-subscribers-on-youtube-312017">FeaturedTumblrContent20</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/157994627657/i-just-reached-26109-views-on-youtube-%C2%BE2017-1220">FeaturedTumblrContent21</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/158028848572/i-just-reached-26200-views-on-youtube-352017">FeaturedTumblrContent22</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/159238168122/i-just-reached-27939-views-on-youtube-452017">FeaturedTumblrContent22</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/153970758272/frame-4-of-my-information-for-newcomers-to-channel">FeaturedTumblrContent23</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/153970785827/frame-6-of-my-information-for-newcomers-to-channel">FeaturedTumblrContent24</A>
+
+
+<BODY>
+<A HREF = "https://seanwallawalla.tumblr.com/post/153749398037/frame-3-of-my-information-for-newcomers-to-channel">FeaturedTumblrContent25</A>
+
+
+<H1>Website Archives</H1>
+
+<H2>Builds</H2>
+
+<H3>Version 1.00 Build 1</H3>
+<H3>Version 1.01 Build 2</H3>
+<H3>Version 1.02 Build 3</H3>
+<H3>Version 1.03 Build 4</H3>
+<H3>Version 1.04 Build 5</H3>
+
+<H3>Version 1.05 Build 6 CURRENT</H3>
+
+<H1>END OF WEBSITE</H1>
+<H2>Please Use up, down arrows, page up, page down buttons, ALT - F4, Close Button, or CTRL - ESCAPE</H2>
+<H3>Thank you for Visiting!</H3>
+                                                                          
+<HR>
+</BODY>
+</HTML>
