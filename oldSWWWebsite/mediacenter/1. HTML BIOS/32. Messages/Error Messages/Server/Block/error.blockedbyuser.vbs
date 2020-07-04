@@ -1,0 +1,1 @@
+x=msgbox("You have replied or commented on an owners post, and he did not like it, therefore he blocked you! You can no longer post comments, replies, likes, or dislikes here. There is still the chance that you can be unblocked. However, you can still view the owners posts. Press any key to continue", 2+16, "You Have Been Blocked!")
