@@ -1,0 +1,9 @@
+H1>Add item</H1>
+
+<H2>Fill in info</H2>
+
+<H3>Category</H3>
+<H3>Price:</H3>
+<H3>Quantity</H3>
+<H3>Description</H3>
+<H3>Confirm</H3>
