@@ -1,0 +1,15 @@
+H1>Write a review</H1>
+
+<H2>Categories</H2>
+
+<H3>Restaurant</H3>
+<H3>Bakery</H3>
+<H3>Pet shop</H3>
+<H3>Autoshop</H3>
+<H3>Hospital</H3>
+<H3>Movie</H3>
+<H3>Software</H3>
+<H3>Hardware</H3>
+<H3>Toys</H3>
+<H3>Toy store</H3>
+<H3>Gun store</H3>
