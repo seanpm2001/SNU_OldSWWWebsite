@@ -1,0 +1,20 @@
+<HTML>
+<HEAD>
+<TITLE>Home SWWIDB</TITLE>
+</HEAD>
+<BODY BGCOLOR="9C9C9C">
+<HR>
+
+<H1>SeanWallaWalla Internet Discovery Browser</H1>
+
+<H2>Search:</H2>
+
+<H2>Browser Info Guide</H2>
+
+<H3>Hyperlink</H3>
+
+<H2>Settings</H2>
+
+<HR>
+</BODY>
+</HTML>
