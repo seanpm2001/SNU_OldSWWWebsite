@@ -1,0 +1,18 @@
+<H1>SEmail</H1>
+
+<H2>Main Inbox</H2>
+<H2>Private Inbox</H2>
+<H2>Business Inbox</H2>
+<H2>Personal Inbox</H2>
+<H2>Compose</H2>
+<H2>Drafts</H2>
+<H2>Trash</H2>
+<H2>Online</H2>
+<H2>Add</H2>
+<H2>Change Password</H2>
+<H2>Convert to basic HTML</H2>
+<H2>Change background picture</H2>
+<H2>Change Theme Color</H2>
+<H2>Ads</H2>
+<H2>Make EMAILS Public</H2>
+<H2>Make EMAILS Private</H2>
