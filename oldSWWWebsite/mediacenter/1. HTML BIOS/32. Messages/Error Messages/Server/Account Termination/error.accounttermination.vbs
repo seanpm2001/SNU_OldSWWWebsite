@@ -1,0 +1,1 @@
+x=msgbox("You have violated our rules too many times, therefore, we have terminated your account! You can no longer view posts, view your profile or anything here with this account. If you think you got unfairly deleted, you can send an appeal. To continue using this site, you can be a guest", 2+16, "Account Terminated!")
