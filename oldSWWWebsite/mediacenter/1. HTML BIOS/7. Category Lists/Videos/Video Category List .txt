@@ -1,0 +1,175 @@
+<H2>Create Video Content in the following categories</H2>
+
+<H3>No Commentary Gaming</H3>
+<H3>No Commentary Let's Plays</H3>
+<H3>No Commentary Longplays</H3>
+<H3>No Commentary Speedruns</H3>
+<H3>Gaming With Commentary</H3>
+<H3>Let's Plays With Commentary</H3>
+<H3>Longplays With Commentary</H3>
+<H3>SpeedRuns With Commentary</H3>
+<H3>Time Lapse</H3>
+<H3>Stop Motion</H3>
+<H3>Stop Motion Time Lapse</H3>
+<H3>No Commentary Animations</H3>
+<H3>News</H3>
+<H3>Vlogs</H3>
+<H3>Animations With Commentary</H3>
+<H3>Sped Up Gaming No Commentary</H3>
+<H3>Sped Up Gaming With Commentary</H3>
+<H3>Sped Up Let's Plays No Commentary</H3>
+<H3>Sped Up Let's Plays With Commentary</H3>
+<H3>Sped Up Longplays No Commentary</H3>
+<H3>Sped Up Longplays With Commentary</H3>
+<H3>Sped Up Speedruns No Commentary</H3>
+<H3>Sped Up Speedruns With Commentary</H3>
+<H3>Food Reviews</H3>
+<H3>Toy Reviews</H3>
+<H3>Tech Reviews</H3>
+<H3>Virus Showcases No Commentary</H3>
+<H3>Virus Showcases With Commentary</H3>
+<H3>SlideShows No Commentary</H3>
+<H3>SlideShows With Commentary</H3>
+<H3>Art No Commentary</H3>
+<H3>Art With Commentary</H3>
+<H3>Thumbnails</H3>
+<H3>Shoutouts No Commentary</H3>
+<H3>Shoutouts With Commentary</H3>
+<H3>Announcements With Commentary</H3>
+<H3>Announements No Commentary</H3>
+<H3>Top 10s No Commentary</H3>
+<H3>Top 10s With Commentary</H3>
+<H3>Top 5s No Commentary</H3>
+<H3>Top 5s With Commentary</H3>
+<H3>Top 15s No Commentary</H3>
+<H3>Top 15s With Commentary</H3>
+<H3>Top 20s No Commentary</H3>
+<H3>Top 20s With Commentary</H3>
+<H3>Top 25s No Commentary</H3>
+<H3>Top 25s With Commentary</H3>
+<H3>Gaming Compilations No Commentary</H3>
+<H3>Gaming Compilations With Commentary</H3>
+<H3>Gaming Funny Moments No Commentary</H3>
+<H3>Gaming Funny Moments With Commentary</H3>
+<H3>Gaming Glitches No Commentary</H3>
+<H3>Gaming Glitches With Commentary</H3>
+<H3>Gaming Tutorials No Commentary</H3>
+<H3>Gaming Tutorials With Commentary</H3>
+<H3>Life Hacks No Commentary</H3>
+<H3>Life Hacks With Commentary</H3>
+<H3>Art Tutorials No Commentary</H3>
+<H3>Art Tutorials With Commentary</H3>
+<H3>Game Sneak Peeks No Commentary</H3>
+<H3>Game Sneak Peeks With Commentary</H3>
+<H3>Game Reviews No Commentary</H3>
+<H3>Game Reviews With Commentary</H3>
+<H3>Tour Videos No Commentary</H3>
+<H3>Tour Videos With Commentary</H3>
+<H3>Screenshot Videos No Commentary</H3>
+<H3>Screenshot Videos With Commentary</H3>
+<H3>Country Music Videos</H3>
+<H3>Country Music Videos withLyrics</H3>
+<H3>Ambient Music Videos</H3>
+<H3>Jazz Music Videos</H3>
+<H3>Jazz Music Videos with Lyrics</H3>
+<H3>Pop Music Videos</H3>
+<H3>Pop Music Videos with Lyrics</H3>
+<H3>Rock N Roll Videos</H3>
+<H3>Rock N Roll Videos with Lyrics</H3>
+<H3>Love Songs</H3>
+<H3>Love Songs with Lyrics</H3>
+<H3>Dubstep Songs</H3>
+<H3>Dubstep Songs With Lyrics</H3>
+<H3>Rap Songs</H3>
+<H3>Rap Songs With Lyrics</H3>
+<H3>MIDIS</H3>
+<H3>Game Soundtracks</H3>
+<H3>Game Soundtracks With Lyrics
+<H3>Podcasts</H3>
+<H3>Radio</H3>
+<H3>Podcast LiveStreams</H3>
+<H3>Radio LiveStreams</H3>
+<H3>Gameplay LiveStreams No Commentary</H3>
+<H3>Gameplay LiveStreams With Commentary</H3>
+<H3>Longplay LiveStreams No Commentary</H3>
+<H3>Longplay LiveStreams With Commentary</H3>
+<H3>Art Time Lapse</H3>
+<H3>Art Stop Motion</H3>
+<H3>Art Stop Motion Time Lapse</H3>
+<H3>Tech Destruction Videos No Commentary</H3>
+<H3>Tech Destruction Videos With Commentary</H3>
+<H3>Game Advertisements No Commentary</H3>
+<H3>Game Advertisements With Commentary</H3>
+<H3>Software Advertisements No Commentary</H3>
+<H3>Software Advertisements With Commentary</H3>
+<H3>Toy Advertisements No Commentary</H3>
+<H3>Toy Advertisements With Commentary</H3>
+<H3>Business Advertisements No Commentary</H3>
+<H3>Business Advertisements With Commentary</H3>
+<H3>Event Avertisements No Commentary</H3>
+<H3>Event Advertisements With Commentary</H3>
+<H3>Game Trailer Advertisements No Commentary</H3>
+<H3>Game Trailer Advertisements With Commentary</H3>
+<H3>Movie Trailer Advertisements No Commentary</H3>
+<H3>Movie Trailer Advertisements With Commentary</H3>
+<H3>How To: Construction No Commentary</H3>
+<H3>How To: Software No Commentary</H3>
+<H3>Wildlife Documentaries No Commentary</H3>
+<H3>Wildlife Documentaries With Commentary</H3>
+<H3>Book Reviews No Commentary</H3>
+<H3>Book Reviews With Commentary</H3>
+<H3>Cooking Videos No Commentary</H3>
+<H3>Cooking Videos With Commentary</H3>
+<H3>Educational Math Videos</H3>
+<H3>Educational Science Videos</H3>
+<H3>Educational Biology Videos</H3>
+<H3>Educational Software Videos</H3>
+<H3>Educational English Videos</H3>
+<H3>Educational Spanish Videos</H3>
+<H3>Educational French Videos</H3>
+<H3>Anime No Commentary</H3>
+<H3>Anime With Commentary</H3>
+<H3>In A Nutshell Videos No Commentary</H3>
+<H3>In A Nutshell Videos With Commentary</H3>
+<H3>Holiday Videos No Commentary</H3>
+<H3>Holiday Videos With Commentary</H3>
+<H3>Christmas Videos No Commentary</H3>
+<H3>Christmas Videos With Commentary</H3>
+<H3>Halloween Videos No Commentary</H3>
+<H3>Halloween Videos With Commentary</H3>
+<H3>Easter Videos No Commentary</H3>
+<H3>Easter Videos With Commentary</H3>
+<H3>Valentines Day Videos No Commentary</H3>
+<H3>Valentines Day Videos With Commentary</H3>
+<H3>4th Of July Videos No Commentary</H3>
+<H3>4th Of July Videos With Commentary</H3>
+<H3>Thanksgiving Videos No Commentary</H3>
+<H3>Thanksgiving Videos No Commentary</H3>
+<H3>ST. Patricks Day Videos No Commentary</H3>
+<H3>ST. Patricks Day Videos With Commentary</H3>
+<H3>Birthday Videos No Commentary</H3>
+<H3>Birthday Videos With Commentary</H3>
+<H3>Sound Effect Videos</H3>
+<H3>Follower Count LiveStreams No Commentary</H3>
+<H3>Follower Count LiveStreams With Commentary</H3>
+<H3>View Count LiveStreams No Commentary</H3>
+<H3>View Count LiveStreams With Commentary</H3
+<H3>Like Count LiveStreams No Commentary</H3>
+<H3>Like Count LiveStreams With Commentary</H3>
+<H3>PhotoBooth Videos No Commentary</H3>
+<H3>PhotoBooth Videos With Commentary</H3>
+<H3>Comic Videos No Commentary</H3>
+<H3>Comic Videos With Commentary</H3>
+<H3>Storm Videos No Commentary</H3>
+<H3>Storm Videos With Commentary</H3>
+<H3>Skit Videos No Commentary</H3>
+<H3>Skit Videos With Commentary</H3>
+<H3>Game Challenge Videos No Commentary</H3>
+<H3>Game Challenge Videos With Commentary</H3>
+<H3>First Person Shooter Gameplay</H3>
+<H3>Slow Motion Gameplay No Commentary</H3>
+<H3>Slow Motion Gameplay With Commentary</H3>
+<H3>Slow Motion Let's Play No Commentary</H3>
+<H3>Slow Motion Let's Play With Commentary</H3>
+<H3>Slow Motion Longplay No Commentary</H3>
+<H3>Slow Motion Longplay With Commentary</H3>
