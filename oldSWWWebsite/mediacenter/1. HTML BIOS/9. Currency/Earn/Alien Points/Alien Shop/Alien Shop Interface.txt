@@ -1,0 +1,13 @@
+<H1>Alien Shop</H1>
+
+<H2>Class 1 Server Admission Ticket</H2>
+<H3>2500 Alien Points</H3>
+<H3>Allows 10 free admissions to public servers grade C+, C-, C, And D</H3>
+
+<H2>Class 2 Server Admission Ticket</H2>
+<H3>5000 Alien Points</H3>
+<H3>Allows 10 free Admissions to public servers grade B+, B- And B</H3>
+
+<H2>Class 3 Server Admission Ticket</H2>
+<H3>20000 Alien Points</H3>
+<H3>Allows 10 free Admissions to ALL public Servers</H3>
