@@ -1,0 +1,39 @@
+<HTML>
+<HEAD>
+<TITLE>Help Guide For SWWIDB Browser</TITLE>
+</HEAD>
+<BODY BGCOLOR="4F4F4F">
+<HR>
+
+<H1>Site Extension Guide</H1>
+
+<H2>Websites have their extensions to define what their category is. Here is a list of the extensions</H2>
+
+<H2>Com</H2>
+<H3>Community</H3>
+
+<H2>Net</H2>
+<H3>Network</H3>
+
+<H2>Org</H2>
+<H3>Organization</H3>
+
+<H2>Edu</H2>
+<H3>Education, Educational</H3>
+
+<H2>HTML, HTM</H2>
+<H3>Hypertext Markup Language</H3>
+<H3>Used for the background of the website, or to show basic text, colors, and images</H3>
+
+<H1>Keeping Safe</H1>
+
+<H2>The Internet Can Be A Dangerous Place If You Are Not Careful</H2>
+<H2>For maximum security, only go to sites verified by us</H2>
+<H2>You can get lots of viruses, ransomware, and other stuff that can damage your computer to the point where you have to reinstall everything</H2>
+
+
+<H3>
+
+<HR>
+</BODY>
+</HTML>
