@@ -1,0 +1,1 @@
+x=msgbox("We have detected an adblock! To prevent monetization robbery, you have been blocked. You will be unblocked when we no longer detect your adblock. Press Ok when you have turned your adblock off. Repeat offenses will result in account suspension and termination.", 2+16, "Illegal Operation")
