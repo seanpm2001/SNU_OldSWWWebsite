@@ -1,0 +1,6 @@
+
+<H2>View Activity Log</H2>
+<H2>The Activity Log Shows</H2>
+
+<H3>Every Day That You Have Been Online</H3>
+<H3>Everything You Did on that day, along with stuff you earned (you can hide all from public or certain parts of certain days<H3>
