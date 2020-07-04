@@ -1,0 +1,17 @@
+1>Update Log</H1>
+
+<H2>Version 1.00 Build 1</H2>
+
+<H3>The Very first Version</H3>
+<H3>Added Title</H3>
+<H3>Added Background color</H3>
+<H3>Added Text</H3>
+<H3>Added Update Log</H3>
+<H3>Added Title Header</H3>
+<H3>Added CreateAnAccount Option (currently not functional</H3>
+<H3>Added ContinueAsGuest Option (currently not functional</H3>
+<H3>Added Features List</H3>
+<H3>Added Spaces In Website Code To Prevent Eye Strain</H3>
+<H3>Added A List Of Badges</H3>
+<H3>Added Blog Options</H3>
+<H3>Added XXX Zone (adult only)</H3>
