@@ -1,0 +1,89 @@
+<HTML>
+<HEAD>
+<TITLE>Home SWWIDB Compatibility</TITLE>
+</HEAD>
+<BODY BGCOLOR="9C9C9C">
+<HR>
+
+<H1>SeanWallaWalla Internet Discovery Browser</H1>
+<H1>Compatibility Page</H1>
+
+<H1>Super Special Support List</H1>
+
+<H2>Windows</H2>
+
+<H3>Windows 3.0 Version</H3>
+<H3>Windows 3.1 Version</H3>
+<H3>Windows 3.11 Version</H3>
+<H3>Windows 3.5 Version</H3>
+<H3>Windows 3.51 Version</H3>
+<H3>Windows NT 3.0 Version</H3>
+<H3>Windows NT 3.1 Version</H3>
+<H3>Windows NT 3.11 Version</H3>
+<H3>Windows NT 3.5 Version</H3>
+<H3>Windows NT 3.51 Version</H3>
+<H3>Windows 95 Version</H3>
+<H3>Windows NT 4.0 Version</H3>
+<H3>Windows 98 Version</H3>
+<H3>Windows NT 5.0 Version</H3>
+<H3>Windows 98 SE Version</H3>
+<H3>Windows ME Version</H3>
+<H3>Windows 2000 Version</H3>
+
+<H1>Special Support Version List</H1>
+
+<H2>Windows</H2>
+
+<H3>Windows XP 32 Bit Home Basic no service pack</H3>
+<H3>Windows XP 32 Bit Home no service pack</H3>
+<H3>Windowx XP 32 Bit Professional no service pack</H3>
+<H3>Windows XP 32 Bit Home Basic Service Pack 1</H3>
+<H3>Windows XP 32 Bit Home Service Pack 2</H3>
+<H3>Windows XP 32 Bit Professional Service Pack 2</H3>
+<H3>Windows XP 32 Bit Home Basic Service Pack 2</H3>
+<H3>Windows XP 32 Bit Home Service Pack 2</H3>
+<H3>Windows XP 32 Bit Professional Service Pack 2</H3>
+<H3>Windows XP 32 Bit Home Basic Service Pack 3</H3>
+<H3>Windows XP 32 Bit Home Service Pack 3</H3>
+<H3>Windows XP 32 Bit Professional Service Pack 3</H3>
+<H3>Windows XP 64 Bit Home Basic Service Pack 3</H3>
+<H3>Windows XP 64 Bit Home Service Pack 3</H3>
+<H3>Windows XP 64 Bit Professional</H3>
+<H3>Windows Server 2003</H3>
+<H3>Windows Vista 32 Bit Starter Service Pack 1</H3>
+<H3>Windows Vista 32 Bit Home Basic Service Pack 1</H3>
+<H3>Windows Vista 32 Bit Home Premium Service Pack 1</H3>
+<H3>Windows Vista 32 Bit Business Service Pack 1</H3>
+<H3>Windows Vista 32 Bit Enterprise Service Pack 1</H3>
+<H3>Windows Vista 64 Bit Starter Service Pack 1</H3>
+<H3>Windows Vista 64 Bit Home Basic Service Pack 1</H3>
+<H3>Windows Vista 64 Bit Home Premium Service Pack 1</H3>
+<H3>Windows Vista 64 Bit Business Service Pack 1</H3>
+<H3>Windows Vista 64 Bit Enterprise Service Pack 1</H3>
+<H3>Windows 7 32 Bit Starter Service Pack 1</H3>
+<H3>Windows 7 32 Bit Home Basic Service Pack 1</H3>
+<H3>Windows 7 32 Bit Home Premium Service Pack 1</H3>
+<H3>Windows 7 32 Bit Business Service Pack 1</H3>
+<H3>Windows 7 32 Bit Enterprise Service Pack 1</H3>
+<H3>Windows 7 64 Bit Starter Service Pack 1</H3>
+<H3>Windows 7 64 Bit Home Basic Service Pack 1</H3>
+<H3>Windows 7 64 Bit Home Premium Service Pack 1</H3>
+<H3>Windows 7 64 Bit Business Service Pack 1</H3>
+<H3>Windows 7 64 Bit Enterprise Service Pack 1</H3>
+<H3>Windows 8 64 Bit</H3>
+
+<H1>Advanced Support Version List</H1>
+
+<H2>Windows</H2>
+
+<H3>Windows Chicago</H3>
+<H3>Windows Memphis</H3>
+<H3>Windows Blackcomb</H3>
+<H3>Windows Whistler</H3>
+<H3>Windows Longhorn</H3>
+
+
+
+<HR>
+</BODY>
+</HTML>
