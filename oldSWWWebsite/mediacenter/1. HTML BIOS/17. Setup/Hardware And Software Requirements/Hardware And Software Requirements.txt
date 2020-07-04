@@ -1,0 +1,4 @@
+<H2>Hardware and Software Requirements</H2>
+
+<H2>8 gigabytes of ram for running</H2>
+<H2>20 gigabytes of ram for descent running</H2>
