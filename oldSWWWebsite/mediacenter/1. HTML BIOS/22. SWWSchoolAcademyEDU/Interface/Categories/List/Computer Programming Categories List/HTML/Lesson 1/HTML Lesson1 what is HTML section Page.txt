@@ -1,0 +1,6 @@
+<H2>HTML Lesson 1: What Is HTML</H2>
+
+<H3>HTML (Hypertext Markup Language) is a programming language, which is used for making websites</H3>
+<H3>HTML is one of the easiest programming language</H3>
+<H3>In this lesson, we will teach you how to build html webpages and websites</H3>
+<H3>You will go from knowing nothing to being able to make a wonderful website</H3>
