@@ -1,0 +1,13 @@
+<H1>HTML Lesson 2: Recommended Programs</H1>
+
+<H1>For Windows</H1>
+
+<H2>Notepad</H2>
+<H3>Notepad is probably the best way to start HTML on windows because it comes with every version of windows and it will do everything you need for the basics</H3>
+<H3>Notepad can also be used to do ANY programming language</H3>
+<H3>Notepad has been in windows since the very first version (windows 1.00)</H3>
+<H2>Notepad++</H2>
+<H3>You will have to download this but this is a way for more advanced programmers to program.</H3>
+<H3>Notepad++ will work for all programming languages just like notepad<H3>
+<H3>Notepad++ shows the row numbers, character count, current line, and it has an unlimited range</H3>
+<H3>With Notepad++, you can also switch from one note to another, without having to open another program</H3>
