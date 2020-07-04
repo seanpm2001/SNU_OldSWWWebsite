@@ -1,0 +1,26 @@
+<H1>Help - Uploading</H1>
+
+<H2>If you want to be famous or you want to show your family or friends something, uploading is a good idea!</H2>
+<H2>You can upload videos, pictures, blogs, links, text messages, and audio files</H2>
+<H2>If you want your content to get the chance to be famous, set the privacy settings to public</H2>
+<H2>If you want to keep your content private until you want someone to see it, change it to unlisted</H2>
+<H2>When content is unlisted, only people with the post link are able to view it</H2>
+<H2>If you don't want anybody to see it except for you, set it to private</H2>
+<H2>Note: you can always change the privacy settings, even after upload</H2>
+
+<H1>Help - Upload Settings</H1>
+
+<H1>Help - Content Types</H1>
+
+<H2>You can make posts in the following categories</H2>
+
+<H3>Video - MP4, AVI, MOV</H3>
+<H3>Pictures - PNG, JPG, JPEG, GIF, ICO, SVG</H3>
+<H3>Blogs - SWWMCBF, TXT, HTML, DOCX, RTF</H3>
+<H3>Links - SWWMCLF</H3>
+<H3>Text Messages - SWWMCTF</H3>
+<H3>Audio Files - WAV, MP3</H3>
+
+<H2>For Privacy Settings help, go here: _</H2>
+
+<H2>It takes steps to upload your content, you have to go through alot of settings</H2>
