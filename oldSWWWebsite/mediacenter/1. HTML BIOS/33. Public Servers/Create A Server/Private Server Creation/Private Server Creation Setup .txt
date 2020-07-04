@@ -1,0 +1,211 @@
+<H1>Create A Private Server</H1>
+
+<H1>Select A Server Class</H1>
+
+<H2>Private Server Class D $9.99 Per Month</H2>
+
+<H3>Features</H3>
+
+<H3>Add up to 10 people on your server</H3>
+<H3>You can only send text messages up to 1 megabyte each</H3>
+<H3>Messaging has a 5 second cooldown between messages</H3>
+<H3>Available 24/7</H3>
+<H3>No Hyperlinks allowed</H3>
+<H3>No Voice Chat allowed</H3>
+<H3>Can hold up to 6 gigabytes of messages per month</H3>
+<H3>No Image Sending allowed</H3>
+<H3>No Video Sending Allowed</H3>
+<H3>No Custom Background Allowed</H3>
+
+<H2>Private Server Class C- $14.99 Per Month</H2>
+
+<H3>Features</H3>
+
+<H3>Add up to 15 People on your server</H3>
+<H3>You can only send text messages up to 2 megabytes each</H3>
+<H3>Messaging has a 4 second cooldwon between messages</H3>
+<H3>Available 24/7</H3>
+<H3>You can send hyperlinks</H3>
+<H3>No Voice Chat allowed</H3>
+<H3>Can hold up to 12 gigabytes of messages per month</H3>
+<H3>No Image Sending allowed</H3>
+<H3>No Video Sending Allowed</H3>
+<H3>No Custom Background Allowed</H3>
+
+<H3>Private Server Class C $21.99 Per Month</H2>
+
+<H3>Features</H3>
+
+<H3>Add up to 22 People on your server</H3>
+<H3>You can only send text messages up to 3.5 megabytes each</H3>
+<H3>Messaging has a 3 second cooldown between messages</H3>
+<H3>Available 24/7</H3>
+<H3>You can send hyperlinks</H3>
+<H3>You can use voice chat</H3>
+<H3>Can hold up to 25 Gigabytes of messages per month</H3>
+<H3>No Image Sending allowed</H3>
+<H3>No Video Sending Allowed</H3>
+<H3>No Custom Background Allowed</H3>
+
+<H2>Private Server Class C+ $24.99 Per Month</H2>
+
+<H3>Features</H3>
+
+<H3>Add up to 25 People on your server</H3>
+<H3>You can send Images with text up to 10 Megabytes each</H3>
+<H3>Messaging has a 3 second cooldown between messages</H3>
+<H3>Available 24/7</H3>
+<H3>You can send hyperlinks</H3>
+<H3>You can use voice chat</H3>
+<H3>Can hold up to 45 Gigabytes of messages per month</H3>
+<H3>No Video Sending Allowed</H3>
+<H3>No Custom Background Allowed</H3>
+
+<H2>Private Server Class B- 32.99 Per Month</H2>
+
+<H3>Features</H3>
+
+<H3>Add up to 33 People on your server</H3>
+<H3>You can send Images with text up to 25 Megabytes each</H3>
+<H3>Messaging has a 3 second cooldown between messages</H3>
+<H3>Available 24/7</H3>
+<H3>You can send hyperlinks</H3>
+<H3>You can use voice chat</H3>
+<H3>Can hold up to 85 Gigabytes of messages per month</H3>
+<H3>No video sending Allowed</H3>
+<H3>Custom Background Available (still image only no animated ones</H3>
+
+<H2>Private Server Class B 42.99 Per Month</H2>
+
+<H3>Features</H3>
+
+<H3>Add up to 43 People on your server</H3>
+<H3>You can send Images with text up to 50 Megabytes each</H3>
+<H3>Messaging has a 3 second cooldown between messages</H3>
+<H3>Available 24/7</H3>
+<H3>You can send hyperlinks</H3>
+<H3>You can use voice chat</H3>
+<H3>Can hold up to 125 Gigabytes of messages per month</H3>
+<H3>Video sending allowed (only up to 30 seconds per video, quality up to 1440p 60 fps)</H3>
+<H3>Custom Background Available (still image only no animated ones</H3>
+
+
+<H2>Private Server Class B+ 49.99 Per Month</H2>
+
+<H3>Features</H3>
+
+<H3>Add up to 50 People on your server</H3>
+<H3>You can send Images with text up to 100 Megabytes each</H3>
+<H3>Messaging has a 2.5 second cooldown between messages</H3>
+<H3>Available 24/7</H3>
+<H3>You can send hyperlinks</H3>
+<H3>You can use voice chat</H3>
+<H3>Can hold up to 250 Gigabytes of messages per month</H3>
+<H3>Video sending allowed (only up to 60 seconds per video, quality up to 1440p 120 fps)</H3>
+<H3>Custom Background Available (can be animated up to 1 gigabyte file size)</H3>
+
+
+<H2>Private Server Class A- 57.99 Per Month</H2>
+
+<H3>Features</H3>
+
+<H3>Add up to 58 People on your server</H3>
+<H3>You can send Images with text up to 250 Megabytes each</H3>
+<H3>Messaging has a 2.5 second cooldown between messages</H3>
+<H3>Available 24/7</H3>
+<H3>You can send hyperlinks</H3>
+<H3>You can use voice chat</H3>
+<H3>Can hold up to 600 Gigabytes of messages per month</H3>
+<H3>Video sending allowed (only up to 80 seconds per video, quality up to 2160p (4K UHD) 120 fps)</H3>
+<H3>Custom Background Available (can be animated up to 2 gigabyte file size)</H3>
+
+
+<H2>Private Server Class A 62.99 Per Month</H2>
+
+<H3>Features</H3>
+
+<H3>Add up to 63 People on your server</H3>
+<H3>You can send Images with text up to 500 Megabytes each</H3>
+<H3>Messaging has a 2 second cooldown between messages</H3>
+<H3>Available 24/7</H3>
+<H3>You can send hyperlinks</H3>
+<H3>You can use voice chat</H3>
+<H3>Can hold up to 1350 Gigabytes of messages per month</H3>
+<H3>Video sending allowed (only up to 120 seconds per video, quality up to 2160p (4K UHD) 240 fps)</H3>
+<H3>Custom Background Available (can be animated up to 5 gigabyte file size) </H3>
+
+<H2>Private Server Class A+ 69.99 Per Month</H2>
+
+<H3>Features</H3>
+
+<H3>Add up to 70 People on your server</H3>
+<H3>You can send Images with text up to 800 Megabytes each</H3>
+<H3>Messaging has a 1.5 second cooldown between messages</H3>
+<H3>Available 24/7</H3>
+<H3>You can send hyperlinks</H3>
+<H3>You can use voice chat</H3>
+<H3>Can hold up to 3000 Gigabytes of messages per month</H3>
+<H3>Video sending allowed (only up to 300 seconds per video, quality up to 2160p (4K UHD) 240 fps)</H3>
+<H3>Custom Background Available (can be animated up to 10 gigabyte file size) </H3>
+
+<H2>Private Server Class A++ 79.99 Per Month</H2>
+
+<H3>Features</H3>
+
+<H3>Add up to 80 People on your server</H3>
+<H3>You can send Images with text up to 1.3 Gigabytes each</H3>
+<H3>Messaging has a 1 second cooldown between messages</H3>
+<H3>Available 24/7</H3>
+<H3>You can send hyperlinks</H3>
+<H3>You can use voice chat</H3>
+<H3>Can hold up to 6000 Gigabytes of messages per month</H3>
+<H3>Video sending allowed (only up to 600 seconds per video, quality up to 2160p (4K UHD) 240 fps)</H3>
+<H3>Custom Background Available (can be animated up to 25 gigabyte file size) </H3>
+
+<H2>Private Server Class A+++ 99.99 Per Month</H2>
+
+<H3>Features</H3>
+
+<H3>Add up to 100 People on your server</H3>
+<H3>You can send Images with text up to 2 gigabytes each</H3>
+<H3>Messaging has a 0.5 second cooldown between messages</H3>
+<H3>Available 24/7</H3>
+<H3>You can send hyperlinks</H3>
+<H3>You can use voice chat</H3>
+<H3>Can hold up to 15000 Gigabytes of messages per month</H3>
+<H3>Video sending allowed (only up to 6000 seconds per video, quality up to 2160p (4K UHD) 240 fps)</H3>
+<H3>Custom Background Available (can be animated up to 50 gigabyte file size) </H3>
+
+1>Choose a server category</H1>
+
+<H2>Server Categories</H2>
+
+<H3>Family (for private servers only)</H3>
+<H3>School (for private servers only)</H3>
+<H3>Hospital (for private servers only)</H3>
+<H3>Bank (for private servers only)</H3>
+<H3>Club (for public servers only</H3>
+<H3>Gaming(for both private and public)</H3>
+<H3>Studio (for both private and public)</H3>
+<H3>Research (for both private and public)</H3>
+
+<H1>Add A Payment Method</H1>
+
+<H2>Google Play</H2>
+<H2>Itunes</H2>
+<H2>PayPal</H2>
+<H2>Visa</H2>
+<H2>Mastercard</H1>
+<H2>Citi</H2>
+
+<H1>Select Server UpTime</H1>
+
+<H2>From 00:00 | 23:59</H2>
+<H2>To 00:00 | 23:59</H2>
+
+<H1>Select Location</H1>
+
+<H1>Add Password (Requirement)</H1>
+<H1>Password must be at least 24 characters</H1>
+
+<H1>CREATE</H1>
