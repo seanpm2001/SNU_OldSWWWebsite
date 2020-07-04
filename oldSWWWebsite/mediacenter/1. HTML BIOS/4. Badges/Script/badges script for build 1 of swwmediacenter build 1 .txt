@@ -1,0 +1,125 @@
+<H2>Earn Badges</H2>
+<H2>List Of Badges</H2>
+
+<H3>New User</H3>
+<H3>Earned For Creating An Account</H3>
+
+<H3>Descripter</H3>
+<H3>Earned For Adding A Description</H3>
+
+<H3>The First Fan</H3>
+<H3>Earn 1 Follower</H3>
+
+<H3>Love Bird I</H3>
+<H3>Love 10 Posts/comments/Reviews</H3>
+
+<H3>Love Bird II</H3>
+<H3>Love 25 Posts/Comments/Reviews</H3>
+
+<H3>Love Bird III</H3>
+<H3>Love 50 Posts/Comments/Reviews</H3>
+
+<H3>The First Line</H3>
+<H3>Use the site for 7 consecutive Days</H3>
+
+<H3>60 Minutes</H3>
+<H3>Spend a total of 60 minutes on the site</H3>
+
+<H3>New Critic </H3>
+<H3>Leave 5 reviews</H3>
+
+<H3>The Critic I</H3>
+<H3>Leave 10 Reviews</H3>
+
+<H3>The Critic II</H3>
+<H3>Leave 25 Reviews</H3>
+
+<H3>The Critic III</H3>
+<H3>Leave 50 Reviews</H3>
+
+<H3>The Critic IV</H3>
+<H3>Leave 100 Reviews</H3>
+
+<H3>The Critic V</H3>
+<H3>Leave 250 Reviews</H3>
+
+<H3>The Critic VI</H3>
+<H3>Leave 500 Reviews</H3>
+
+<H3>The Critic VII</H3>
+<H3>Leave 1000 Reviews</H3>
+
+<H3>The Critic VIII</H3>
+<H3>Leave 2000 Reviews</H3>
+
+<H3>The Critic IX</H3>
+<H3>Leave 4000 Reviews</H3>
+
+<H3>The Critic X</H3>
+<H3>Leave 5000 Reviews</H3>
+
+<H3>First Anniversary</H3>
+<H3>Have your account for an entire year (you dont have to be active every day to get this badge</H3>
+
+<H3>Friendship I</H3>
+<H3>Have 1 friend</H3>
+
+<H3>Friendship II</H3>
+<H3>Have 5 friends</H3>
+
+<H3>Friendship III</H3>
+<H3>Have 10 Friends</H3>
+
+<H3>Friendship IV</H3>
+<H3>Have 15 Friends</H3>
+
+<H3>Friendship V</H3>
+<H3>Have 20 Friends</H3>
+
+<H3>Friendship VI</H3>
+<H3>Have 25 Friends</H3>
+
+<H3>Friendship VII</H3>
+<H3>Have 30 Friends</H3>
+
+<H3>Friendship VIII</H3>
+<H3>Have 35 Friends</H3>
+
+<H3>Friendship IX</H3>
+<H3>Have 40 Friends</H3>
+
+<H3>Friendship X</H3>
+<H3>Have 50 Friends</H3>
+
+<H3>Guard Duty</H3>
+<H3>Reply to 100 comments or questions</H3>
+
+<H3>The Commenter I</H3>
+<H3>Leave 10 Comments</H3>
+
+<H3>The Commenter II</H3>
+<H3>Leave 25 Comments</H3>
+
+<H3>The Commenter III</H3>
+<H3>Leave 50 Comments</H3>
+
+<H3>The Commenter IV</H3>
+<H3>Leave 100 Comments</H3>
+
+<H3>The Commenter V</H3>
+<H3>Leave 250 Comments</H3>
+
+<H3>The Commenter VI</H3>
+<H3>Leave 500 Comments</H3>
+
+<H3>The Commenter VII</H3>
+<H3>Leave 1000 Comments</H3>
+
+<H3>The Commenter VII</H3>
+<H3>Leave 2000 Comments</H3>
+
+<H3>The Commenter IX</H3>
+<H3>Leave 4000 Comments</H3>
+
+<H3>The Commenter X</H3>
+<H3>Leave 5000 Comments</H3>
