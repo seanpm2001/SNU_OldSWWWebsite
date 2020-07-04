@@ -1,0 +1,1 @@
+x=msgbox("Your weekly monetization payment is in, click here to select a payment method", 2+32, "Notification")
