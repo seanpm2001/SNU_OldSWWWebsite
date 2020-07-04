@@ -1,0 +1,1 @@
+x=msgbox("Something went wrong while loading your account! Please press the report button to get access. We will get an admin ready and we will try to get you back on as soon as possible! We are really sorry about this D:", 2+48, "Invalid Account Session")
