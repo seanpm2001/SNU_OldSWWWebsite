@@ -1,0 +1,13 @@
+<H1>Sean Walla Walla Photobooth</H1>
+
+<H2>Upload Image</H2>
+
+<H2>Upload Types</H2>
+
+<H3>Png</H3>
+<H3>Gif</H3>
+<H3>JPG</H3>
+<H3>JPEG</H3>
+<H3>BMP</H3>
+<H3>SVG</H3>
+<H3>ICO</H3>
