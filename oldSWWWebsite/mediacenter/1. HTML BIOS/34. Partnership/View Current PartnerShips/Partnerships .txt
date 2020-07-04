@@ -1,0 +1,30 @@
+<HTML>
+<HEAD>
+<TITLE>SeanWallaWallaMediaCenter Partnerships</TITLE>
+</HEAD>
+<BODY BGCOLOR="#93B874">
+
+<H1>View our partnerships</H1>
+
+<H2>Companies</H2>
+
+<H3>Microsoft</H3>
+<H3>Amazon</H3>
+<H3>Google</H3>
+<H3>Ubisoft</H3>
+<H3>Supercell</H3>
+<H3>Twitter</H3>
+<H3>Scratch</H3>
+<H3>MIT</H3>
+<H3>Khan Academy</H3>
+
+<H2>Creaters</H2>
+
+<H3>
+
+<H1>End Of Site</H1>
+
+<HR>
+<HR>
+</BODY>
+</HTML>
