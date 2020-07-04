@@ -1,0 +1,23 @@
+<H1>Help - Content Types</H1>
+
+<H2>You can make posts in the following categories</H2>
+
+<H3>Video - MP4, AVI, MOV</H3>
+<H3>Pictures - PNG, JPG, JPEG, GIF, ICO, SVG</H3>
+<H3>Blogs - SWWMCBF, TXT, HTML, DOCX, RTF</H3>
+<H3>Links - SWWMCLF</H3>
+<H3>Text Messages - SWWMCTF</H3>
+<H3>Audio Files - WAV, MP3</H3>
+
+<H2>For Privacy Settings help, go here: _</H2>
+
+<H2>It takes steps to upload your content, you have to go through alot of settings</H2>
+
+<H1>Help - Parental Controls</H1>
+
+<H1>Help - Account Switching</H1>
+
+<H1>Help - In-app Purchases</H1>
+
+<H2>This website is not free! We need to be making money to help support this site. Sometimes in business we have to put stuff for sale that you need that costs real money</H2>
+<H2>If someone spent money on site currency, you can get a refund as long as none of the currency has been spent yet. To purchase stuff, you must enter a shop password</H2>
