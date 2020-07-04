@@ -1,0 +1,1 @@
+x=msgbox("There is a new version of this app available. This old version will still be available, but you should upgrade to the new version for new features and higher security. Click here to update!", 2+64, "Update Available")
