@@ -1,0 +1,54 @@
+<H1>Support Our Servers!</H1>
+
+<H2>Donation of $1.00</H2>
+<H3>You Will Become A Supporter</H3>
+
+<H2>Donation of $5.00</H2>
+<H3>You Will Unlock 2 More gigabytes of total memory for your account</H3>
+
+<H2>Donation of $10.00</H2>
+<H3>You Will Become V.I.P Rank 1</H3>
+
+<H2>Donation of $15.00</H2>
+<H3>You Will Become V.I.P Rank 2</H3>
+
+<H2>Donation of $25.00</H2>
+<H3>You Will Become V.I.P Rank 3</H3>
+
+<H2>Donation of $50.00</H2>
+<H3>You Will Become a Super Supporter</H3>
+
+<H2>Donation of $100.00</H2>
+<H3>You Will Unlock Monetization</H3>
+
+<H2>Donation of $250.00</H2>
+<H3>You Will Unlock Paid Content</H3>
+
+<H2>Donation of $500.00</H2>
+<H3>You Will Become Verified</H3>
+
+<H2>Donation of $1000.00</H2>
+<H3>You Will Unlock a total of 10 Terabytes of memory for your channel</H3>
+
+<H2>Donation of $2000.00</H2>
+<H3>You Will Be permanently Verified</H3>
+
+<H2>Donation of $5000.00</H2>
+<H3>You Will Become a site moderator<H3>
+
+<H2>Donation of $10000.00</H2>
+<H3>You Will Become Elite Of The Year</H3>
+
+<H2>Donation of $20000.00</H2>
+<H3>You Will Become Elite Of The Decade (for the next 10 years)</H3>
+
+<H2>Donation of $50000.00</H2>
+<H3>You Will Become Legendary User</H3>
+
+<H2>Donation of $100000.00</H2>
+<H3>You Will Become Site Legendary Hero</H3>
+<H3>"<HTML>"</H3>
+<H3>"<HEAD>"</H3>
+<H3>Then You Put a title like this:</H3>
+<H3>"<
+<H2>No Donations over $100000.00 allowed</H2>
