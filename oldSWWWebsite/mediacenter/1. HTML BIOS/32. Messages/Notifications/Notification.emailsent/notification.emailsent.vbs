@@ -1,0 +1,1 @@
+x=msgbox("Your Email has been sent successfully!", 2+64, "Notification")
