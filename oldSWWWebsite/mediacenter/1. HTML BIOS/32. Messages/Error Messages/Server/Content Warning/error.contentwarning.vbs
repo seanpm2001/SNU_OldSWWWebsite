@@ -1,0 +1,1 @@
+x=msgbox("The content you are about to see can be disturbing to young audiences. If you feel safe watching this, press the enter button (not the key) if you are not ready, press the x button on the message (for PC, Mac, and linux users) or press close on the error message (for PC, Mac, Linux, IOS, and Android users)", 2+16, "Content Warning")
