@@ -1,0 +1,33 @@
+<H1>Website Features</H1>
+
+<H2>Upload STAT videos (videos 1 second to 1 minute 15 seconds long</H2>
+
+<H2>Upload Episodes (make your own videos and make them into an episode</H2>
+
+<H3>Episode Lenghts</H3>
+
+<H3>1 Minute to 60 Minutes</H3>
+
+<H2>Upload 3D Images</H2>
+
+<H2>Upload 2D Images</H2>
+
+<H2>Leave Reviews</H2>
+
+<H2>Leave Comments</H2>
+
+<H2>Leave Likes on videos</H2>
+
+<H2>Leave Likes on Images</H2>
+
+<H2>Leave Questions</H2>
+
+<H2>Give Answers</H2>
+
+<H2>Create An Awesome Profile</H2>
+
+<H2>Profile Picture Can Be Still Or Animated</H2>
+
+<H2>Commenting Comes With Over 100 Fonts, 10 Different Rich Text Effects, And Can Be Up To 10 MB</H2>
+
+<H2>Follow People</H2>
