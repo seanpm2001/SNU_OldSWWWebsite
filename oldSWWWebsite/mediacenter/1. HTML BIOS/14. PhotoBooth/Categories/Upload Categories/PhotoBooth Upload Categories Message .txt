@@ -1,0 +1,21 @@
+<H2>Upload Categories</H2>
+
+<H3>Beach</H3>
+<H3>Family</H3>
+<H3>Technology</H3>
+<H3>Garden</H3>
+<H3>Nature</H3>
+<H3>Wildlife</H3>
+<H3>Aquatic Life</H3>
+<H3>Game screenshot</H3>
+<H3>Cooking</H3>
+<H3>School</H3>
+<H3>Business</H3>
+<H3>Vehicles</H3>
+<H3>Fanart</H3>
+<H3>Anime</H3>
+<H3>Maze</H3>
+<H3>Meme</H3>
+<H3>Food</H3>
+<H3>Drinks</H3>
+<H3>Food and Drinks</H3>
