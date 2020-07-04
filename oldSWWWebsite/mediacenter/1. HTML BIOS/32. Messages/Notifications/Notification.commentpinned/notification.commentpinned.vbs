@@ -1,0 +1,1 @@
+x=msgbox("You have pinned a comment successfully! This comment will be on the top of the comment section until you unpin it! Press any button to continue", 2+64, "Notification")
