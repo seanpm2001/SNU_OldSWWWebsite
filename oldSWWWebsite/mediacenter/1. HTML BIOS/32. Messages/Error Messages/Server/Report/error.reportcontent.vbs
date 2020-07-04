@@ -1,0 +1,1 @@
+x=msgbox("Is this content breaking the rules? If it is, you can report, if not please close out of this message. You can only report 3 posts per hour", 2+48, "Report Content?")
