@@ -1,0 +1,9 @@
+<H2>Screentips</H2>
+
+<H3>A season is 3 months long</H3>
+<H3>there are 4 seasons in a year</H3>
+
+<H2>Hardware and Software Requirements</H2>
+
+<H2>8 gigabytes of ram for running</H2>
+<H2>20 gigabytes of ram for descent running</H2>
