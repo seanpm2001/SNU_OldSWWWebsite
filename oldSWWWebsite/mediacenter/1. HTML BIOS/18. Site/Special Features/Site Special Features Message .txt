@@ -1,0 +1,28 @@
+H1>Special Features</H1>
+
+<H2>Buffer Bar Color: Grey</H2>
+<H2>Buffer Bar Color: Yellow</H2>
+<H2>Buffer Bar Color: Red</H2>
+<H2>Buffer Bar Color: Green</H2>
+<H2>Buffer Bar Color: Blue</H2>
+<H2>Buffer Bar Color: Pink</H2>
+<H2>Buffer Bar Color: Orange</H2>
+<H2>Buffer Bar Color: Purple</H2>
+<H2>Buffer Bar Color: Brown</H2>
+<H2>Buffer Bar Color: Teal</H2>
+<H2>Buffer Bar Color: Silver</H2>
+<H2>Video Bar Color: Grey</H2>
+<H2>Video Bar Color: Yellow</H2>
+<H2>Video Bar Color: Red</H2>
+<H2>Video Bar Color: Green</H2>
+<H2>Video Bar Color: Blue</H2>
+<H2>Video Bar Color: Pink</H2>
+<H2>Video Bar Color: Orange</H2>
+<H2>Video Bar Color: Purple</H2>
+<H2>Video Bar Color: Brown</H2>
+<H2>Video Bar Color: Teal</H2>
+<H2>Video Bar Color: Silver</H2>
+<H2>Black On White GUI</H2>
+<H2>Greyscale GUI</H2>
+<H2>Default GUI</H2>
+<H2>Black and White GUI</H2>
