@@ -1,0 +1,22 @@
+<HTML>
+<HEAD>
+<TITLE>SeanWallaWallaMediacenterpartnershipcreation</TITLE>
+</HEAD>
+<BODY BGCOLOR="#93B874">
+
+<H1>Create a partnership with us</H1>
+
+<H1>Company Name:</H1>
+<H1>Owner Name:</H1>
+<H1>Company Type:</H1>
+<H1>Company Creation Date:</H1>
+<H1>
+
+<H1>Create for $9999.99</H1>
+
+<H1>End Of Site</H1>
+
+<HR>
+<HR>
+</BODY>
+</HTML>
