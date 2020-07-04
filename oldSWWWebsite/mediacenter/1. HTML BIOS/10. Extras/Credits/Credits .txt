@@ -1,0 +1,74 @@
+<H1>Credits</H1>
+
+<H2>Profile ideas</H2>
+
+<H3>Sean Patrick Myrick</H3>
+
+<H2>Server ideas</H2>
+
+<H3>Sean Patrick Myrick</H3>
+
+<H2>Video layout programmer</H2>
+
+<H3>Sean Patrick Myrick</H3>
+
+<H2>HTML BIOS programming</H2>
+
+<H3>Sean Patrick Myrick</H3>
+
+<H2>Inspirations</H2>
+
+<H3>Google</H3>
+<H3>William Henry Gates (Bill Gates)</H3>
+<H3>Microsoft</H3>
+<H3>Supercell</H3>
+<H3>Youtube</H3>
+<H3>Danooct1</H3>
+<H3>Vinesauce Joel</H3>
+<H3>Apple</H3>
+<H3>Linux</H3>
+<H3>Khan Academy</H3>
+<H3>Twitter</H3>
+<H3>Samsung</H3>
+<H3>Discord</H3>
+<H3>Scratch</H3>
+<H3>Windows 1.01</H3>
+<H3>Windows 1.02</H3>
+<H3>Windows 1.03</H3>
+<H3>Windows 1.04</H3>
+<H3>Windows 2.04</H3>
+<H3>Windows 3.0</H3>
+<H3>Windows 3.1</H3>
+<H3>Windows 3.11</H3>
+<H3>Windows 3.51</H3>
+<H3>Windows 95</H3>
+<H3>Windows 98</H3>
+<H3>Windows 98 SE</H3>
+<H3>Windows NT 4.0</H3>
+<H3>Windows ME</H3>
+<H3>Windows 2000</H3>
+<H3>Windows XP</H3>
+<H3>Windows Server 2003</H3>
+<H3>Windows Vista</H3>
+<H3>Windows Server 2008
+<H3>Windows 7</H3>
+<H3>Windows Server 2012</H3>
+<H3>Windows 8</H3>
+<H3>Windows 8.1</H3>
+<H3>Windows 10</H3>
+<H3>VirtualBox</H3>
+<H3>Popcap</H3>
+<H3>Dell</H3>
+<H3>HP</H3>
+<H3>Verizon</H3>
+<H3>Alan Becker</H3>
+
+<H3>BIOS Programmers</H3>
+
+<H3>Sean Patrick Myrick</H3>
+
+
+
+
+
+
