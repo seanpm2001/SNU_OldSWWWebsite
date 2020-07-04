@@ -1,0 +1,10 @@
+<H1>Help</H1>
+
+<H2>Select a category that you need help with</H2>
+
+<H3>Uploading</H3>
+<H3>Upload Settings</H3>
+<H3>Parental Controls</H3>
+<H3>Account Switching</H3>
+<H3>Content Types</H3>
+<H3>In-app Purchases</H3>
