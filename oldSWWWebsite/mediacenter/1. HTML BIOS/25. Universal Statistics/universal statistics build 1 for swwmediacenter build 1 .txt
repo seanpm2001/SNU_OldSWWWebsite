@@ -1,0 +1,66 @@
+<H1>Universal Statistics</H1>
+
+<H2>All-Time total views:</H2>
+<H2>All-Time User Count:</H2>
+<H2>All-Time Like Count:</H2>
+<H2>All-Time Video Count:</H2>
+<H2>All-Time Blog Count:</H2>
+<H2>All-Time Image Count:</H2>
+<H2>All-Time Books Published Count:</H2>
+<H2>All-Time Reports:</H2>
+<H2>All-Time Comments Left:</H2>
+<H2>All-Time Replies Left:</H2>
+<H2>All-Time Questions Left:</H2>
+<H2>All-Time Questions Answered:</H2>
+<H2>All-Time Verified Users Count:</H2>
+<H2>All-Time UnVerified Users Count:</H2>
+<H2>All-Time Livestreams:</H2>
+<H2>All-Time Video Search Count:</H2>
+<H2>All-Time Image Search Count:</H2>
+<H2>All-Time Blog Search Count:</H2>
+<H2>All-Time Live Stream Search Count:</H2>
+<H2>All-Time Ads Played:</H2>
+<H2>All-Time Accounts Suspended:</H2>
+<H2>All-Time Accounts Deleted:</H2>
+<H2>All-Time Accounts Terminated:</H2>
+<H2>All-Time Profile Picture Changes:</H2>
+<H2>All-Time Watch Time:</H2>
+<H2>All-Time Emails Sent:</H2>
+<H2>All-Time Shared Videos:</H2>
+<H2>All-Time Shared Images:</H2>
+<H2>All-Time Shared Blogs:</H2>
+<H2>All-Time Shared Links:</H2>
+<H2>All-Time Posted Links:</H2>
+<H2>All-Time Downloaded Videos:</H2>
+<H2>All-Time Downloaded Images:</H2>
+<H2>All-Time Downloaded Blogs:</H2>
+<H2>All-Time Screenshots Taken:</H2>
+<H2>All-Time Ads skipped:</H2>
+<H2>All-Time Ad Watch Time:</H2>
+<H2>All-Time Profile Color Changes:</H2>
+<H2>All-Time Total Of Videos Being Taken Down By Copyright:</H2>
+<H2>All-Time Total Of Videos Being Taken Down By Violence:</H2>
+<H2>All-Time Total Of Videos Being Taken Down By Misleading Content:</H2>
+<H2>All-Time Total Of Videos Being Taken Down By Clickbait:</H2>
+<H2>All-Time Total Of Videos Being Taken Down By Illegal Activity:</H2>
+<H2>All-Time Total Of Blogs Being Taken Down By Copyright:</H2>
+<H2>All-Time Total Of Blogs Being Taken Down By Violence:</H2>
+<H2>All-Time Total Of Blogs Being Taken Down By Misleading Content:</H2>
+<H2>All-Time Total Of Blogs Being Taken Down By Clickbait:</H2>
+<H2>All-Time Total Of Blogs Being Taken Down By Illegal Activity:</H2>
+<H2>All-Time Total Of Images Being Taken Down By Copyright:</H2>
+<H2>All-Time Total Of Images Being Taken Down By Violence:</H2>
+<H2>All-Time Total Of Images Being Taken Down By Misleading Content:</H2>
+<H2>All-Time Total Of Images Being Taken Down By Clickbait:</H2>
+<H2>All-Time Total Of Images Being Taken Down By Illegal Activity:</H2>
+<H2>All-Time Total Memory Used For Blogs:</H2>
+<H2>All-Time Total Memory Used For Images:</H2>
+<H2>All-Time Total Memory Used For Videos:</H2>
+<H2>All-Time Total Memory Used For Link Posts:</H2>
+<H2>All-Time Total Memory Used For LiveStreams:</H2>
+<H2>All-Time Total Memory Used For Private Servers:</H2>
+<H2>All-Time Total Memory Used For Public Servers:</H2>
+<H2>All-Time Total Of Private Servers Made</H2>
+<H2>All-Time Total Of Public Servers Made</H2>
+<H2>All-Time Total Of Memory Used</H2>
+<H2>All-Time Total Of Website Restarts:</H2>
